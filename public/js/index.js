@@ -31,4 +31,16 @@ $(function () {
   ];
   list.add(bookmarks[0]);
   list.add(bookmarks[1]);
+
+  // Delegate bindings for 'a's
+  // TODO: More properly
+  $(bookmarkList).on('click', 'a', function () {
+    window.open(this.innerHTML);
+  });
+
+  // // Iterate over each of the li's
+  // $(bookmarkList).find('li').each(function () {
+  //   // Set the href to the innerHTML
+  //   this.setAttribute('href', this.innerHTML);
+  // });
 });
