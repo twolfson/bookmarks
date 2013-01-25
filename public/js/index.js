@@ -1,16 +1,16 @@
 // When the DOM is ready
 $(function () {
   // Create our List
-  // var ul = document.createElement('ul'),
-  var ul = document.getElementById('list'),
+  var bookmarkList = document.getElementById('bookmark-list'),
       options = {
-        valueNames: ['description', 'uri']
+        valueNames: ['description', 'uri'],
+        item: 'bookmark-template'
       },
-      list = new List(ul, options);
+      list = new List(bookmarkList, options);
 
-  // Append the list to main
-  var $main = $('#main');
-  $main.append(ul);
+  // // Append the list to main
+  // var $main = $('#main');
+  // $main.append(ul);
 
   // Add in a few bookmarks
   var bookmarks = [
@@ -29,6 +29,6 @@ $(function () {
         "uri": "http://dashersw.github.com/pedalboard.js/demo/"
     }
   ];
-  // list.add(bookmarks[0]);
-  // list.add(bookmarks[1]);
+  list.add(bookmarks[0]);
+  list.add(bookmarks[1]);
 });

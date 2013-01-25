@@ -2,16 +2,33 @@
 <html>
   <head>
     <title>twolfson's bookmarks</title>
+    <!-- TODO: Move to another file -->
+    <style>
+      .hidden {
+        display: none;
+      }
+    </style>
     <!-- Load public scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <!-- <script src="public/js/list.min.js"></script> -->
     <script src="public/js/list.js"></script>
   </head>
   <body>
+    <!-- Placeholders for content -->
     <h1>twolfson's bookmarks</h1>
     <div id="bookmark-list">
       <ul class="list"></ul>
     </div>
+
+    <!-- Templating for list -->
+    <div class="hidden">
+      <ul><li id="bookmark-template">
+        <span class="description"></span>
+        <a class="uri"></a>
+      </li></ul>
+    </div>
+
+    <!-- Load index.js -->
     <script src="public/js/index.js"></script>
   </body>
 </html>
