@@ -32,7 +32,7 @@ $(function () {
     var $fuzzySearch = $('.fuzzy-search');
     function searchList() {
       var val = $fuzzySearch.val();
-      list.fuzzySearch(val);
+      list.fuzzySearch(val, {'description':1});
     }
 
     // When our search field is typed into, search
@@ -48,6 +48,13 @@ $(function () {
 
       // Search the list
       searchList();
+    });
+
+    // When one of the search links is clicked
+    var $searchBtn = $searchForm.find('.search-btn');
+    $searchForm.on('click', 'a', function () {
+      // Grab the text and sort
+      var $a = $(this);
     });
   });
 });
