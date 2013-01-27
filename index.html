@@ -2,6 +2,8 @@
 <html>
   <head>
     <title>twolfson's bookmarks</title>
+    <!-- Load CSS -->
+    <link rel="stylesheet" href="public/css/bootstrap.css"></link>
     <!-- Load public scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="public/js/list.js"></script>
@@ -11,7 +13,15 @@
     <!-- Placeholders for content -->
     <h1>twolfson's bookmarks</h1>
     <div id="bookmark-list-container">
-      <table id="bookmark-list" class="list"></table>
+      <table class="table">
+        <thead>
+          <tr>
+            <th>Description</th>
+            <th>URI</th>
+          </tr>
+        </thead>
+        <tbody id="bookmark-list" class="list"></tbody>
+      </table>
     </div>
 
     <!-- Templating for list -->
