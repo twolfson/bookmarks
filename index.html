@@ -13,11 +13,25 @@
     <!-- Placeholders for content -->
     <h1>twolfson's bookmarks</h1>
     <div id="bookmark-list-container">
+      <form class="form-search">
+        <div class="input-append">
+          <input type="text" class="search search-query">
+          <button type="submit" class="btn">Search</button>
+        </div>
+      </form>
       <table class="table">
         <thead>
           <tr>
-            <th>Description</th>
-            <th>URI</th>
+            <th>
+              <span>Description</span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a href="#" class="sort" data-sort="description" style="font-weight: normal;">Sort by description</a>
+            </th>
+            <th>
+              <span>URI</span>
+              <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+              <a href="#" class="sort" data-sort="uri" style="font-weight: normal;">Sort by URI</a>
+            </th>
           </tr>
         </thead>
         <tbody id="bookmark-list" class="list"></tbody>
