@@ -39,5 +39,15 @@ $(function () {
     // TODO: Change to onchange
     // TODO: Allow for exclusive searching of description or URI
     $fuzzySearch.on('keyup', searchList);
+
+    // When the search form is submitted, search
+    var $searchForm = $('#search-form');
+    $searchForm.on('submit', function (e) {
+      // Prevent the submission
+      e.preventDefault();
+
+      // Search the list
+      searchList();
+    });
   });
 });
