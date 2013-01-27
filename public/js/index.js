@@ -3,25 +3,10 @@ $(function () {
   // Grab our template
   var template = $('#bookmark-template').html();
 
-  // Load in our bookmarks
-  $.getJSON('bookmarks.min.json', function (bookmarks, success, res) {
-    // // Mock bookmarks
-    // var bookmarks = [
-    //   {
-    //       "title": "fxn/tkn - Terminal keynote presentation",
-    //       "dateAdded": 1349313664591754,
-    //       "lastModified": 1349313676308463,
-    //       "description": "tkn - Terminal Keynote - A hack for terminal-based talks",
-    //       "uri": "https://github.com/fxn/tkn"
-    //   },
-    //   {
-    //       "title": "pedalboard.js - Open-source JavaScript framework for developing audio effects",
-    //       "dateAdded": 1349417966733927,
-    //       "lastModified": 1349417969037920,
-    //       "description": "pedalboard.js - Open-source JavaScript framework for developing audio e",
-    //       "uri": "http://dashersw.github.com/pedalboard.js/demo/"
-    //   }
-    // ];
+  // Load our bookmarks
+  window.loadBookmarks(function (err, bookmarks) {
+    // If there was an error, throw it
+    if (err) { throw err; }
 
     // Iterate over the bookmarks
     var bookmarkHtmlArr = bookmarks.map(function (bookmark) {
