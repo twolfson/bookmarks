@@ -29,10 +29,12 @@ $(function () {
         list = new List('bookmark-list-container', options);
 
     // Set up search function
-    var $fuzzySearch = $('.fuzzy-search');
+    var $fuzzySearch = $('.fuzzy-search'),
+        defaultColumns = {description:1,uri:1},
+        columns = defaultColumns;
     function searchList() {
       var val = $fuzzySearch.val();
-      list.fuzzySearch(val, {'description':1});
+      list.fuzzySearch(val, columns);
     }
 
     // When our search field is typed into, search
@@ -53,8 +55,25 @@ $(function () {
     // When one of the search links is clicked
     var $searchBtn = $searchForm.find('.search-btn');
     $searchForm.on('click', 'a', function () {
-      // Grab the text and sort
-      var $a = $(this);
+      // Grab the text
+      var $a = $(this),
+          search = $a.data('search'),
+          text = $a.data('text');
+
+      // Update the button text
+      $searchBtn.text(text);
+
+      // If the search is *, use the default columns
+      if (search === '*') {
+        columns = defaultColumns;
+      } else {
+      // Otherwise, search the specific column
+        columns = {};
+        columns[search] = 1;
+      }
+
+      // Search meow
+      searchList();
     });
   });
 });
