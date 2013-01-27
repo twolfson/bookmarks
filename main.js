@@ -12,22 +12,38 @@ var rootChildren = bookmarksRoot.children,
 
 // Format content
 console.log('Formatting bookmarks...');
-var webDevPretty = webDevCode.map(function (bookmark) {
+var webDevPretty = [];
+function addBookmark(bookmark) {
   // Find the proper description
   var annos = bookmark.annos || [],
       descriptionNode = annos.filter(function (a) { return a.name === 'bookmarkProperties/description'; })[0] || {},
       description = descriptionNode.value || bookmark.title;
 
+  // Grab the title and bookmark
+  var title = bookmark.title,
+      uri = bookmark.uri;
+
+  // If the uri is not defined
+  if (uri === undefined) {
+    // DEBUG: Give us some info
+    // console.log('No URI found (' + bookmark.id + '): ' + title);
+
+    // Recurse over the children of the bookmark folder
+    var children = bookmark.children || [];
+    children.forEach(addBookmark);
+  }
+
   // Create and return the object
   var retObj = {
-        title: bookmark.title,
+        title: title,
         dateAdded: bookmark.dateAdded,
         lastModified: bookmark.lastModified,
         description: description,
-        uri: bookmark.uri
+        uri: uri
       };
-  return retObj;
-});
+  webDevPretty.push(retObj);
+}
+webDevCode.forEach(addBookmark);
 
 // Spit out the content into a file
 var retStr = JSON.stringify(webDevPretty, null, 4);
