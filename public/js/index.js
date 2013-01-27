@@ -1,22 +1,5 @@
 // When the DOM is ready
 $(function () {
-  // // Create our List
-  // var bookmarkList = document.getElementById('bookmark-list'),
-  //     options = {
-  //       valueNames: ['description', 'uri'],
-  //       item: 'bookmark-template'
-  //     },
-  //     list = new List(bookmarkList, options);
-
-  // // When the list is updated
-  // list.on('updated', function () {
-  //   // Iterate over each of the li's
-  //   $(bookmarkList).find('li > a').each(function () {
-  //     // Set the href to the innerHTML
-  //     this.setAttribute('href', this.innerHTML);
-  //   });
-  // });
-
   // Grab our template
   var template = $('#bookmark-template').html();
 
@@ -60,13 +43,16 @@ $(function () {
         },
         list = new List('bookmark-list-container', options);
 
+    // Set up search function
+    var $fuzzySearch = $('.fuzzy-search');
+    function searchList() {
+      var val = $fuzzySearch.val();
+      list.fuzzySearch(val);
+    }
+
     // When our search field is typed into, search
     // TODO: Change to onchange
     // TODO: Allow for exclusive searching of description or URI
-    var $fuzzySearch = $('.fuzzy-search');
-    $fuzzySearch.on('keyup', function () {
-      var val = $fuzzySearch.val();
-      list.fuzzySearch(val);
-    });
+    $fuzzySearch.on('keyup', searchList);
   });
 });

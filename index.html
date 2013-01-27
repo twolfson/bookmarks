@@ -4,8 +4,10 @@
     <title>twolfson's bookmarks</title>
     <!-- Load CSS -->
     <link rel="stylesheet" href="public/css/bootstrap.css"></link>
+    <link rel="stylesheet" href="public/css/index.css"></link>
     <!-- Load public scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
+    <script src="public/js/bootstrap-dropdown.js"></script>
     <script src="public/js/list.js"></script>
     <script src="public/js/list.fuzzySearch.js"></script>
     <script src="public/js/microtemplatez.js"></script>
@@ -14,10 +16,20 @@
     <div id="bookmark-list-container" class="container">
       <div class="row">
         <h1 class="span6">twolfson's bookmarks</h1>
-        <form class="span6 form-search" style="margin: 18px 0 0;">
+        <form id="search-form" class="span6">
           <div class="input-append">
-            <input type="text" class="fuzzy-search search-query">
-            <button type="submit" class="btn">Search</button>
+            <input type="text" class="fuzzy-search">
+            <div class="btn-group">
+              <button type="submit" class="btn search-btn">Search</button>
+              <button class="btn dropdown-toggle" data-toggle="dropdown">
+                <span class="caret"></span>
+              </button>
+              <ul class="dropdown-menu">
+                <li><a data-text="Search" data-search="*" href="#">Search everything</a></li>
+                <li><a data-text="Search description" data-search="description" href="#">Search by description</a></li>
+                <li><a data-text="Search URI" data-search="uri" href="#">Search by URI</a></li>
+              </ul>
+            </div>
           </div>
         </form>
       </div>
@@ -27,12 +39,12 @@
             <th>
               <span>Description</span>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <a href="#" class="sort" data-sort="description" style="font-weight: normal;">Sort by description</a>
+              <a href="#" class="sort" data-sort="description">Sort by description</a>
             </th>
             <th>
               <span>URI</span>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <a href="#" class="sort" data-sort="uri" style="font-weight: normal;">Sort by URI</a>
+              <a href="#" class="sort" data-sort="uri">Sort by URI</a>
             </th>
           </tr>
         </thead>
