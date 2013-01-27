@@ -1,24 +1,12 @@
 // When the DOM is ready
 $(function () {
-  // // Create our List
-  // var bookmarkList = document.getElementById('bookmark-list'),
-  //     options = {
-  //       valueNames: ['description', 'uri'],
-  //       item: 'bookmark-template'
-  //     },
-  //     list = new List(bookmarkList, options);
-
-  // // When the list is updated
-  // list.on('updated', function () {
-  //   // Iterate over each of the li's
-  //   $(bookmarkList).find('li > a').each(function () {
-  //     // Set the href to the innerHTML
-  //     this.setAttribute('href', this.innerHTML);
-  //   });
-  // });
-
   // Grab our template
   var template = $('#bookmark-template').html();
+
+  function bookmarkToHtml(bookmark) {
+    var html = templatez(template, bookmark);
+    return html;
+  }
 
   // Load in our bookmarks
   $.getJSON('bookmarks.min.json', function (bookmarks, success, res) {
@@ -40,11 +28,12 @@ $(function () {
     //   }
     // ];
 
+    // Slice off the first 200 bookmarks
+    var firstBookmarks = bookmarks.slice(0, 150),
+        excessBookmarks = bookmarks.slice(200, 202);
+
     // Iterate over the bookmarks
-    var bookmarkHtmlArr = bookmarks.map(function (bookmark) {
-          var html = templatez(template, bookmark);
-          return html;
-        }),
+    var bookmarkHtmlArr = firstBookmarks.map(bookmarkToHtml),
         bookmarkHtml = bookmarkHtmlArr.join('');
 
     // Append the content to our table
@@ -56,5 +45,11 @@ $(function () {
           valueNames: ['description', 'uri']
         },
         list = new List('bookmark-list-container', options);
+
+    // Add the remaining bookmarks
+    var excessBookmarksHtmlArr = excessBookmarks.map(bookmarkToHtml);
+console.log(excessBookmarksHtmlArr[0]);
+    // Append them via list.js
+    list.add(excessBookmarksHtmlArr[0]);
   });
 });
