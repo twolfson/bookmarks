@@ -7,6 +7,7 @@
     <!-- Load public scripts -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.9.0/jquery.min.js"></script>
     <script src="public/js/list.js"></script>
+    <script src="public/js/list.fuzzySearch.js"></script>
     <script src="public/js/microtemplatez.js"></script>
   </head>
   <body>
@@ -15,7 +16,7 @@
         <h1 class="span6">twolfson's bookmarks</h1>
         <form class="span6 form-search" style="margin: 18px 0 0;">
           <div class="input-append">
-            <input type="text" class="search search-query">
+            <input type="text" class="fuzzy-search search-query">
             <button type="submit" class="btn">Search</button>
           </div>
         </form>
@@ -35,7 +36,12 @@
             </th>
           </tr>
         </thead>
-        <tbody id="bookmark-list" class="list"></tbody>
+        <tbody id="bookmark-list" class="list">
+          <tr>
+            <td>Loading...</td>
+            <td></td>
+          </tr>
+        </tbody>
       </table>
     </div>
 

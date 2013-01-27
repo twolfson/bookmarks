@@ -53,8 +53,20 @@ $(function () {
 
     // Performify the list
     var options = {
-          valueNames: ['description', 'uri']
+          valueNames: ['description', 'uri'],
+          plugins: [
+            ['fuzzySearch']
+          ]
         },
         list = new List('bookmark-list-container', options);
+
+    // When our search field is typed into, search
+    // TODO: Change to onchange
+    // TODO: Allow for exclusive searching of description or URI
+    var $fuzzySearch = $('.fuzzy-search');
+    $fuzzySearch.on('keyup', function () {
+      var val = $fuzzySearch.val();
+      list.fuzzySearch(val);
+    });
   });
 });
