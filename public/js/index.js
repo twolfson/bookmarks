@@ -39,7 +39,6 @@ $(function () {
 
     // When our search field is typed into, search
     // TODO: Change to onchange
-    // TODO: Allow for exclusive searching of description or URI
     $fuzzySearch.on('keyup', searchList);
 
     // When the search form is submitted, search
@@ -53,6 +52,7 @@ $(function () {
     });
 
     // When one of the search links is clicked
+    // TODO: This should fire a method of a Search class
     var $searchBtn = $searchForm.find('.search-btn');
     $searchForm.on('click', 'a', function () {
       // Grab the text
