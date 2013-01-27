@@ -11286,5 +11286,3859 @@
         "lastModified": 1359103603485226,
         "description": "CLAHub - Require contributors to sign a license agreement",
         "uri": "http://www.clahub.com/"
+    },
+    {
+        "title": "PHP: Language Reference - Manual",
+        "dateAdded": 1342248441267103,
+        "lastModified": 1342248448246980,
+        "description": "PHP: Language Reference - Manual",
+        "uri": "http://www.php.net/manual/en/langref.php"
+    },
+    {
+        "title": "CodeIgniter User Guide",
+        "dateAdded": 1342248448109252,
+        "lastModified": 1349156232758806,
+        "description": "CodeIgniter User Guide",
+        "uri": "http://codeigniter.com/user_guide/toc.html"
+    },
+    {
+        "title": "HTML 4 Elements",
+        "dateAdded": 1342248439777953,
+        "lastModified": 1349156232760723,
+        "description": "An organizational list of all elements in HTML 4.01.",
+        "uri": "http://www.htmlhelp.com/reference/html40/olist.html"
+    },
+    {
+        "title": "HTML Cheat Sheet for Transition to HTML 5",
+        "dateAdded": 1342248446895679,
+        "lastModified": 1342248448347744,
+        "description": "HTML Cheat Sheet for Transition to HTML 5",
+        "uri": "http://www.html-5.com/cheat-sheet/"
+    },
+    {
+        "title": "ASCII Codes - Table of ascii characters and symbols",
+        "dateAdded": 1342248439693721,
+        "lastModified": 1349156232762996,
+        "description": "HTML Codes - Table for easy reference of ascii characters and symbols in HTML format. With indication of browser support",
+        "uri": "http://www.ascii.cl/htmlcodes.htm"
+    },
+    {
+        "title": "quirks mode - Compatibility Master Table",
+        "dateAdded": 1342248442282315,
+        "lastModified": 1342248448280108,
+        "description": "quirks mode - Compatibility Master Table",
+        "uri": "http://www.quirksmode.org/compatibility.html"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248443760263,
+        "lastModified": 1342248448314374,
+        "description": ""
+    },
+    {
+        "title": "ECMAScript 5: The Definitive Slides",
+        "dateAdded": 1342248443970008,
+        "lastModified": 1342248448320567,
+        "description": "ECMAScript 5: The Definitive Slides",
+        "uri": "http://davidflanagan.com/Talks/es5/slides.html"
+    },
+    {
+        "title": "jQuery API",
+        "dateAdded": 1342248440484386,
+        "lastModified": 1342248448222179,
+        "description": "jQuery API",
+        "uri": "http://api.jquery.com/"
+    },
+    {
+        "title": "jQuery Source",
+        "dateAdded": 1342248443355368,
+        "lastModified": 1342248448304944,
+        "description": "jQuery Source",
+        "uri": "http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.js"
+    },
+    {
+        "title": "Sizzle Documentation",
+        "dateAdded": 1342248440896377,
+        "lastModified": 1349156232773940,
+        "description": "sizzle - A sizzlin' hot selector engine.",
+        "uri": "https://github.com/jquery/sizzle/wiki"
+    },
+    {
+        "title": "node.js",
+        "dateAdded": 1342248446712805,
+        "lastModified": 1342248448346154,
+        "description": "node.js",
+        "uri": "http://nodejs.org/"
+    },
+    {
+        "title": "Selenium Reference",
+        "dateAdded": 1342248448736266,
+        "lastModified": 1342248448736266,
+        "description": "Selenium Reference",
+        "uri": "http://release.seleniumhq.org/selenium-core/1.0.1/reference.html"
+    },
+    {
+        "title": "Selenium IDE + UI-Element Reference",
+        "dateAdded": 1342248441503267,
+        "lastModified": 1342248448252846,
+        "description": "Selenium IDE + UI-Element Reference",
+        "uri": "http://ttwhy.org/code/ui-doc.html"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248439530408,
+        "lastModified": 1342248448154796,
+        "description": ""
+    },
+    {
+        "title": "OOCSS GitHub",
+        "dateAdded": 1342248439916414,
+        "lastModified": 1349156232778079,
+        "description": "oocss - Object Oriented CSS Framework",
+        "uri": "https://github.com/stubbornella/oocss"
+    },
+    {
+        "title": "CSS3 - Selectors",
+        "dateAdded": 1342248443492007,
+        "lastModified": 1342248448307709,
+        "description": "CSS3 - Selectors",
+        "uri": "http://www.w3.org/TR/css3-selectors/#selectors"
+    },
+    {
+        "title": "CSS3 Documentation",
+        "dateAdded": 1342248441062665,
+        "lastModified": 1349156232779402,
+        "description": "CSS3",
+        "uri": "http://www.css3.info/"
+    },
+    {
+        "title": "CSS Compatibility and Internet Explorer",
+        "dateAdded": 1342248448768810,
+        "lastModified": 1342248448768810,
+        "description": "CSS Compatibility and Internet Explorer",
+        "uri": "http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx#intro"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248439482636,
+        "lastModified": 1342248448146935,
+        "description": ""
+    },
+    {
+        "title": "Douglas Crockford's Wrrrld Wide Web",
+        "dateAdded": 1342248448979676,
+        "lastModified": 1342248448979676,
+        "description": "Douglas Crockford's Wrrrld Wide Web",
+        "uri": "http://www.crockford.com/"
+    },
+    {
+        "title": "Dev.Opera",
+        "dateAdded": 1342248444302122,
+        "lastModified": 1349156232781104,
+        "description": "The premier destination to learn HTML5, CSS3, SVG, JavaScript, and other cutting-edge technologies and techniques from the browser with the Open Web at its core",
+        "uri": "http://dev.opera.com/"
+    },
+    {
+        "title": "Git Community Book",
+        "dateAdded": 1342248441966863,
+        "lastModified": 1342248448273241,
+        "description": "Git Community Book",
+        "uri": "http://book.git-scm.com/"
+    },
+    {
+        "title": "Topics - O'Reilly Answers",
+        "dateAdded": 1342248439614288,
+        "lastModified": 1342248448159921,
+        "description": "Topics - O'Reilly Answers",
+        "uri": "http://answers.oreilly.com/tags/"
+    },
+    {
+        "title": "Regular Expressions Reference - Basic Syntax",
+        "dateAdded": 1342248442884054,
+        "lastModified": 1349156232782503,
+        "description": "Reference of the various syntactic elements that can appear in regular expressions",
+        "uri": "http://www.regular-expressions.info/reference.html"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248448880614,
+        "lastModified": 1342248448880614,
+        "description": ""
+    },
+    {
+        "title": "Domain Inform - A list Of Every Domain Extension",
+        "dateAdded": 1342248440795474,
+        "lastModified": 1349156232783328,
+        "description": "A Complete List Of Every Domain Extension. Domain Inform Is An Informational Resource About Domain Names.",
+        "uri": "http://www.domaininform.net/completelistofdomainextensions.html"
+    },
+    {
+        "title": "Mastering Markdown: 30 Resources, Apps and Tutorials to Get You Started | Design Shack",
+        "dateAdded": 1342248445447580,
+        "lastModified": 1349156232783918,
+        "description": "Reading an article entitled Mastering Markdown: 30 Resources, Apps and Tutorials to Get You Started on Design Shack.",
+        "uri": "http://designshack.co.uk/articles/html/mastering-markdown-30-resources-apps-and-tutorials-to-get-you-started/"
+    },
+    {
+        "title": "A List Apart: Articles: Demystifying Design",
+        "dateAdded": 1342248448520349,
+        "lastModified": 1342248448520349,
+        "description": "A List Apart: Articles: Demystifying Design",
+        "uri": "http://www.alistapart.com/articles/demystifying-design/"
+    },
+    {
+        "title": "WebMatrix and node.js: The easiest way to get started with node on Windows - Scott Hanselman",
+        "dateAdded": 1342248445585391,
+        "lastModified": 1349156232791783,
+        "description": "Scott Hanselman on Programming, User Experience, The Zen of Computers and Life in General",
+        "uri": "http://www.hanselman.com/blog/WebMatrixAndNodejsTheEasiestWayToGetStartedWithNodeOnWindows.aspx"
+    },
+    {
+        "title": "ECMAScript Support Matrix",
+        "dateAdded": 1342248448511220,
+        "lastModified": 1342248448511220,
+        "description": "ECMAScript Support Matrix",
+        "uri": "http://pointedears.de/scripts/test/es-matrix/"
+    },
+    {
+        "title": "CSS Properties Index – Jens O. Meiert",
+        "dateAdded": 1342248441643425,
+        "lastModified": 1342248448262329,
+        "description": "CSS Properties Index – Jens O. Meiert",
+        "uri": "http://meiert.com/en/indices/css-properties/"
+    },
+    {
+        "title": "Future-proofing Your JavaScript Applications For Improved Scalability",
+        "dateAdded": 1342248442651288,
+        "lastModified": 1342248448291452,
+        "description": "Future-proofing Your JavaScript Applications For Improved Scalability",
+        "uri": "http://addyosmani.com/futureproofjs/"
+    },
+    {
+        "title": "GeoNames WebServices overview",
+        "dateAdded": 1342248442614420,
+        "lastModified": 1342248448289875,
+        "description": "GeoNames WebServices overview",
+        "uri": "http://www.geonames.org/export/ws-overview.html"
+    },
+    {
+        "title": "Less Than Dot - Blog - Getting Started with JavaScript Unit Testing",
+        "dateAdded": 1342248442468631,
+        "lastModified": 1342248448283427,
+        "description": "Less Than Dot - Blog - Getting Started with JavaScript Unit Testing",
+        "uri": "http://blogs.lessthandot.com/index.php/WebDev/UIDevelopment/Javascript/getting-started-with-javascript-unit"
+    },
+    {
+        "title": "Microformats",
+        "dateAdded": 1342248445435702,
+        "lastModified": 1342248448339666,
+        "description": "Microformats",
+        "uri": "http://microformats.org/"
+    },
+    {
+        "title": "The Do's And Don'ts Of Infographic Design - Smashing Magazine",
+        "dateAdded": 1342248446898857,
+        "lastModified": 1349156232798587,
+        "description": "Infographics are visual representations of information, or “data viz” as the cool kids call it these days. The term “data viz” comes from “data visualization,” which implies that sets of data will be displayed in a unique way that can be seen, rather than read.",
+        "uri": "http://www.smashingmagazine.com/2011/10/14/the-dos-and-donts-of-infographic-design/"
+    },
+    {
+        "title": "Kern Type, the kerning game",
+        "dateAdded": 1342248445148139,
+        "lastModified": 1349156232799671,
+        "description": "A game that helps you learn to kern type",
+        "uri": "http://type.method.ac/"
+    },
+    {
+        "title": "CSS3 colors",
+        "dateAdded": 1342248443857814,
+        "lastModified": 1342248448319372,
+        "description": "CSS3 colors",
+        "uri": "http://xilize.sourceforge.net/Reference/colorref.html"
+    },
+    {
+        "title": "Songbird Wiki - Songbird Wiki",
+        "dateAdded": 1342248448374808,
+        "lastModified": 1342248448374808,
+        "description": "Songbird Wiki - Songbird Wiki",
+        "uri": "http://wiki.songbirdnest.com/"
+    },
+    {
+        "title": "Stupid Geek Tricks: Open an Explorer Window from the Command Prompt’s Current Directory - How-To Geek",
+        "dateAdded": 1342248442665739,
+        "lastModified": 1349156232802539,
+        "description": "Computer Help from your Friendly How-To Geek",
+        "uri": "http://www.howtogeek.com/howto/windows-vista/stupid-geek-tricks-open-an-explorer-window-from-the-command-prompts-current-directory/"
+    },
+    {
+        "title": "CSS - Quirks mode and strict mode",
+        "dateAdded": 1342248445303593,
+        "lastModified": 1342248448337796,
+        "description": "CSS - Quirks mode and strict mode",
+        "uri": "http://www.quirksmode.org/css/quirksmode.html"
+    },
+    {
+        "title": "Semantic HTML5 Page Layout - CodeProject",
+        "dateAdded": 1342248440034052,
+        "lastModified": 1349156232804478,
+        "description": "Introducing a simplified semantic HTML5 tags based page layout, together with a basic HTML5 template and CSS sources.; Author: Modesty Zhang; Section: HTML / CSS; Chapter: Web Development",
+        "uri": "http://www.codeproject.com/KB/HTML/semanticHtml5PageLayout.aspx"
+    },
+    {
+        "title": "Clever PNG Optimization Techniques - Smashing Magazine",
+        "dateAdded": 1342248443762894,
+        "lastModified": 1349156232805486,
+        "description": "As a web designer you might be already familiar with the PNG image format which offers a full-featured transparency. It's a lossless, robust, very good replacement of the elder GIF image format. As a Photoshop (or any other image editor) user you might think that there is not that many options for PNG optimization, especially for truecolor PNG's (PNG-24 in Photoshop), which doesn't have any. Some of you may even think that this format is \"unoptimizable\". Well, in this post we'll try to debunk this myth. This post describes some techniques that may help you optimize your PNG-images. These techniques are derived from laborious hours spent on studying how exactly the PNG encoder saves data. We'll start with some essentials about the PNG format and will then move to advanced optimization techniques. You may want to take a look at the following related articles: Clever JPEG Optimization Techniques",
+        "uri": "http://www.smashingmagazine.com/2009/07/15/clever-png-optimization-techniques/"
+    },
+    {
+        "title": "Clever JPEG Optimization Techniques - Smashing Magazine",
+        "dateAdded": 1342248441555404,
+        "lastModified": 1349156232806522,
+        "description": "When people talk about image optimization, they consider only the limited parameters offered by popular image editors, like the \"Quality\" slider, the number of colors in the palette, dithering and so on. Also, a few utilities, such as OptiPNG and jpegtran, manage to squeeze extra bytes out of image files. All of these are pretty well-known tools that provide Web developers and designers with straightforward techniques of image optimization. In this article, we'll show you a different approach to image optimization, based on how image data is stored in different formats. Let's start with the JPEG format and a simple technique called the eight-pixel grid.",
+        "uri": "http://www.smashingmagazine.com/2009/07/01/clever-jpeg-optimization-techniques/"
+    },
+    {
+        "title": "13 The HTML syntax — HTML Standard",
+        "dateAdded": 1342248447852049,
+        "lastModified": 1342248448355920,
+        "description": "13 The HTML syntax — HTML Standard",
+        "uri": "http://www.whatwg.org/specs/web-apps/current-work/multipage/syntax.html"
+    },
+    {
+        "title": "Sammy.js / A Small Web Framework with Class / RESTFul Evented JavaScript",
+        "dateAdded": 1342248446923969,
+        "lastModified": 1342248448350029,
+        "description": "Sammy.js / A Small Web Framework with Class / RESTFul Evented JavaScript",
+        "uri": "http://sammyjs.org/docs/api/master/"
+    },
+    {
+        "title": "IE6, IE7 and IE8 on VirtualBox",
+        "dateAdded": 1342248443580695,
+        "lastModified": 1349156232809555,
+        "description": "I've recently moved from using Parallels for browser testing to Sun's Open Source VirtualBox. Here's a walkthrough on how to get a browser testing suite for free on OSX or Ubuntu. ",
+        "uri": "http://shapeshed.com/journal/testing_with_ie6_ie7_and_ie8_on_virtualbox/"
+    },
+    {
+        "title": "Open Command Prompt Windows 7",
+        "dateAdded": 1342248439111944,
+        "lastModified": 1349156232810439,
+        "description": "If you like the power toy “Open Command Prompt Here” in Windows XP, you will pretty much love the new context menu “Open Command Window here” in Windows",
+        "uri": "http://www.windows7hacker.com/index.php/2009/08/how-to-open-dos-prompt-command-here-in-windows-7-and-more/"
+    },
+    {
+        "title": "Assertions - js-test-driver - Documentation for the default assertions in JsTestDriver. - Remote javascript console - Google Project Hosting",
+        "dateAdded": 1342248448044480,
+        "lastModified": 1342248448357440,
+        "description": "Assertions - js-test-driver - Documentation for the default assertions in JsTestDriver. - Remote javascript console - Google Project Hosting",
+        "uri": "http://code.google.com/p/js-test-driver/wiki/Assertions"
+    },
+    {
+        "title": "Goodbye time, datetime, and pubdate. Hello data and value. | HTML5 Doctor",
+        "dateAdded": 1342248441809655,
+        "lastModified": 1342248448269587,
+        "description": "Goodbye time, datetime, and pubdate. Hello data and value. | HTML5 Doctor",
+        "uri": "http://html5doctor.com/time-and-data-element/"
+    },
+    {
+        "title": "Javascript Quiz",
+        "dateAdded": 1342248441494312,
+        "lastModified": 1349156232814383,
+        "description": "Personal web log of Dmitry Baranovskiy, web developer from Sydney, Australia",
+        "uri": "http://dmitry.baranovskiy.com/post/so-you-think-you-know-javascript"
+    },
+    {
+        "title": "Another Javascript Quiz?",
+        "dateAdded": 1342248443978967,
+        "lastModified": 1342248448321756,
+        "description": "Another Javascript Quiz?",
+        "uri": "http://www.perfectionkills.com/javascript-quiz/"
+    },
+    {
+        "title": "Lessons From A Review Of JavaScript Code - Smashing Coding",
+        "dateAdded": 1342248445297367,
+        "lastModified": 1349156232816432,
+        "description": "When was the last time you asked someone to review your code? Reviewing code is possibly the single best technique to improve the overall quality of your solutions...",
+        "uri": "http://coding.smashingmagazine.com/2011/10/27/lessons-from-a-review-of-javascript-code/"
+    },
+    {
+        "title": "AMD - GitHub",
+        "dateAdded": 1342248445535210,
+        "lastModified": 1349156232817510,
+        "description": "amdjs-api - Houses the Asynchronous Module Definition API",
+        "uri": "https://github.com/amdjs/amdjs-api/wiki/AMD"
+    },
+    {
+        "title": "jQuery file size",
+        "dateAdded": 1342248439114786,
+        "lastModified": 1342248448133552,
+        "description": "jQuery file size",
+        "uri": "http://mathiasbynens.be/demo/jquery-size"
+    },
+    {
+        "title": "6 Best Practices for Modern SEO",
+        "dateAdded": 1342248439919542,
+        "lastModified": 1349156232819448,
+        "description": "If your business website needs clicks and visibility to survive, you'll need to re-optimize for Google's current algorithm and results pages. Here's how.",
+        "uri": "http://mashable.com/2011/11/08/seo-best-practices/"
+    },
+    {
+        "title": "Terse JavaScript 101 – part 1 – James Padolsey",
+        "dateAdded": 1342248440021458,
+        "lastModified": 1342248448197058,
+        "description": "Terse JavaScript 101 – part 1 – James Padolsey",
+        "uri": "http://james.padolsey.com/javascript/terse-javascript-101-part-1/"
+    },
+    {
+        "title": "The Hidden Nuggets of WCAG2: Information Relationships » SitePoint",
+        "dateAdded": 1342248445151293,
+        "lastModified": 1342248448333750,
+        "description": "The Hidden Nuggets of WCAG2: Information Relationships » SitePoint",
+        "uri": "http://www.sitepoint.com/the-hidden-nuggets-of-wcag2-information-relationships/"
+    },
+    {
+        "title": "How to Design a Tour Page: Examples and Best Practices | Design Shack",
+        "dateAdded": 1342248442060383,
+        "lastModified": 1349156232822747,
+        "description": "Reading an article entitled How to Design a Tour Page: Examples and Best Practices on Design Shack.",
+        "uri": "http://designshack.net/articles/layouts/how-to-design-a-tour-page-examples-and-best-practices/"
+    },
+    {
+        "title": "CSS Reference - MDN",
+        "dateAdded": 1342248441583866,
+        "lastModified": 1342248448258583,
+        "description": "CSS Reference - MDN",
+        "uri": "https://developer.mozilla.org/en/CSS/CSS_Reference"
+    },
+    {
+        "title": "Front-end Code Standards & Best Practices | Isobar North America",
+        "dateAdded": 1342248444771873,
+        "lastModified": 1349156232825074,
+        "description": "Isobar North America's Coding Standards and Frontend development Best Practices",
+        "uri": "http://na.isobar.com/standards/"
+    },
+    {
+        "title": "Felix's Node.js Style Guide",
+        "dateAdded": 1342248441801931,
+        "lastModified": 1342248448267816,
+        "description": "Felix's Node.js Style Guide",
+        "uri": "http://nodeguide.com/style.html"
+    },
+    {
+        "title": "V8/Chrome: Class List",
+        "dateAdded": 1342248440732957,
+        "lastModified": 1342248448226437,
+        "description": "V8/Chrome: Class List",
+        "uri": "http://bespin.cz/~ondras/html/annotated.html"
+    },
+    {
+        "title": "Efficient JavaScript - Dev.Opera",
+        "dateAdded": 1342248445076602,
+        "lastModified": 1349156232828834,
+        "description": "dev.opera is the ultimate source of distilled knowledge for web developers, covering the latest open web technologies and techniques including HTML5, CSS3, JavaScript, SVG, optimizing content for mobiles, tablets and TVs, and creating add-ons such as extensions and skins for the Opera browser.",
+        "uri": "http://dev.opera.com/articles/view/efficient-javascript/"
+    },
+    {
+        "title": "JS Libs Deconstructed",
+        "dateAdded": 1342248441757659,
+        "lastModified": 1349156232830102,
+        "description": "JS.Libs Deconstructed is designed to visually and interactively deconstruct the internal code of various JavaScript libraries.",
+        "uri": "http://www.keyframesandcode.com/resources/javascript/deconstructed/"
+    },
+    {
+        "title": "Skype: What are chat commands and roles?",
+        "dateAdded": 1342248440725411,
+        "lastModified": 1349156232831406,
+        "description": "Help using Skype - FAQs, user guides, troubleshooter, customer support and assistance with products and features. Includes searchable knowledgebase.",
+        "uri": "https://support.skype.com/en/faq/FA10042/What-are-chat-commands-and-roles"
+    },
+    {
+        "title": "ECMAScript 5 compatibility table",
+        "dateAdded": 1342248441090175,
+        "lastModified": 1342248448244992,
+        "description": "ECMAScript 5 compatibility table",
+        "uri": "http://kangax.github.com/es5-compat-table/"
+    },
+    {
+        "title": "Scheme/Host/Port: Timing Attacks on CSS Shaders",
+        "dateAdded": 1342248439455899,
+        "lastModified": 1342248448144314,
+        "description": "Scheme/Host/Port: Timing Attacks on CSS Shaders",
+        "uri": "http://www.schemehostport.com/2011/12/timing-attacks-on-css-shaders.html"
+    },
+    {
+        "title": "A History of Western Typefaces [INFOGRAPHIC]",
+        "dateAdded": 1342248439393701,
+        "lastModified": 1349156232833377,
+        "description": "Ever wonder about the history of the fonts you use and encounter in daily life? From Google's Catul to Wes Anderson's favorite, Futura, here's a timeline of Western typefaces.",
+        "uri": "http://mashable.com/2011/12/08/typeface-font-history-infographic/"
+    },
+    {
+        "title": "drewww/socket.io-benchmarking @ GitHub",
+        "dateAdded": 1342248439845867,
+        "lastModified": 1342248448180168,
+        "description": "drewww/socket.io-benchmarking @ GitHub",
+        "uri": "http://drewww.github.com/socket.io-benchmarking/"
+    },
+    {
+        "title": "⚡ ⚕ The academy ⚛ ♬ - Lots of Linux commands",
+        "dateAdded": 1342248440458554,
+        "lastModified": 1342248448220047,
+        "description": "⚡ ⚕ The academy ⚛ ♬ - Lots of Linux commands",
+        "uri": "http://whalliburton.github.com/academy/"
+    },
+    {
+        "title": "Understanding CSS’s vertical-align Property | Impressive Webs",
+        "dateAdded": 1342248439498255,
+        "lastModified": 1349156232835034,
+        "description": "Vertical-align isn't working! cried the web developer. The vertical-align property is one of those features of CSS that sounds pretty self-explanatory, but can cause problems for CSS beginners. I think even many CSS veterans have had problems figuring this one out at times. In this post, I'll try to cover it in an understandable manner.",
+        "uri": "http://www.impressivewebs.com/css-vertical-align/"
+    },
+    {
+        "title": "The difference between width:auto and width:100% | 456 Berea Street",
+        "dateAdded": 1342248449055141,
+        "lastModified": 1349156232835722,
+        "description": "If you’re using width:100% to undo a previously set width on a block level element, you should probably be using width:auto instead. Here’s why.",
+        "uri": "http://www.456bereastreet.com/archive/201112/the_difference_between_widthauto_and_width100/"
+    },
+    {
+        "title": "How Web Fonts Are Created",
+        "dateAdded": 1342248445288757,
+        "lastModified": 1349156232841235,
+        "description": "So you've created a great font design, but what's the next step? Here's how you can make your typography web-safe.",
+        "uri": "http://mashable.com/2011/12/01/how-web-fonts-are-created/"
+    },
+    {
+        "title": "Typography 101: Understanding the Anatomy of a Letter | Design Shack",
+        "dateAdded": 1342248440323816,
+        "lastModified": 1349156232842826,
+        "description": "Reading an article entitled Typography 101: Understanding the Anatomy of a Letter on Design Shack.",
+        "uri": "http://designshack.net/articles/typography/typography-101-understanding-the-anatomy-of-a-letter/"
+    },
+    {
+        "title": "Timer resolution in browsers | NCZOnline",
+        "dateAdded": 1342248439681724,
+        "lastModified": 1349156232844407,
+        "description": "Timer resolution refers to how frequently a clock is updated. For most of their history, web browsers used the default system timer for functionality such as",
+        "uri": "http://www.nczonline.net/blog/2011/12/14/timer-resolution-in-browsers/"
+    },
+    {
+        "title": "nodejs API - Documentation (with ToC)",
+        "dateAdded": 1342248439538879,
+        "lastModified": 1342248448157361,
+        "description": "nodejs API - Documentation (with ToC)",
+        "uri": "http://millermedeiros.github.com/mdoc/examples/node_api/doc/"
+    },
+    {
+        "title": "Microsoft’s New Automatic Update Plan Could Mean the End of IE 6 | Webmonkey | Wired.com",
+        "dateAdded": 1342248442780026,
+        "lastModified": 1342248448297646,
+        "description": "Microsoft’s New Automatic Update Plan Could Mean the End of IE 6 | Webmonkey | Wired.com",
+        "uri": "http://www.webmonkey.com/2011/12/microsofts-new-automatic-update-plan-could-mean-the-end-of-ie-6/"
+    },
+    {
+        "title": "npm registry",
+        "dateAdded": 1342248448684457,
+        "lastModified": 1342248448684457,
+        "description": "npm registry",
+        "uri": "http://search.npmjs.org/"
+    },
+    {
+        "title": "Polyfilling The HTML5 Gaps With JavaScript",
+        "dateAdded": 1342248445182038,
+        "lastModified": 1342248448334788,
+        "description": "Polyfilling The HTML5 Gaps With JavaScript",
+        "uri": "http://addyosmani.com/polyfillthehtml5gaps/slides/#1"
+    },
+    {
+        "title": "Daring Fireball: Markdown",
+        "dateAdded": 1342248448072880,
+        "lastModified": 1342248448357902,
+        "description": "Daring Fireball: Markdown",
+        "uri": "http://daringfireball.net/projects/markdown/"
+    },
+    {
+        "title": "DailyJS: Programming Styles in the Node Community",
+        "dateAdded": 1342248448416286,
+        "lastModified": 1342248448416286,
+        "description": "DailyJS: Programming Styles in the Node Community",
+        "uri": "http://dailyjs.com/2012/01/12/style/"
+    },
+    {
+        "title": "CSS Discuss",
+        "dateAdded": 1342248447142056,
+        "lastModified": 1342248448352180,
+        "description": "CSS Discuss",
+        "uri": "http://css-discuss.incutio.com/wiki/Main_Page"
+    },
+    {
+        "title": "InstaCSS | Instant CSS Documentation Search",
+        "dateAdded": 1342248440449871,
+        "lastModified": 1349156232858534,
+        "description": "css,docs,instant,search",
+        "uri": "http://instacss.com/"
+    },
+    {
+        "title": "dochub | Instant Documentation Search",
+        "dateAdded": 1342248443429251,
+        "lastModified": 1349156232860568,
+        "description": "css,docs,instant,search",
+        "uri": "http://dochub.io/"
+    },
+    {
+        "title": "Compare Ninja | HTML & CSS Comparison tables",
+        "dateAdded": 1342248440090970,
+        "lastModified": 1349156232863007,
+        "description": "Compare Ninja - Create Beautiful HTML & CSS Comparison Tables",
+        "uri": "http://www.compareninja.com/index.php"
+    },
+    {
+        "title": "HTML5 Readiness",
+        "dateAdded": 1342248448090883,
+        "lastModified": 1349156232865624,
+        "description": "A Visualization of how ready different parts of HTML5/CSS3 are for day to day use",
+        "uri": "http://html5readiness.com/"
+    },
+    {
+        "title": "When can I use... Support tables for HTML5, CSS3, etc",
+        "dateAdded": 1342248439941231,
+        "lastModified": 1342248448192306,
+        "description": "When can I use... Support tables for HTML5, CSS3, etc",
+        "uri": "http://caniuse.com/#"
+    },
+    {
+        "title": "Compile Linux kernel 3.2 for Ubuntu 11.10 (Oneiric Ocelot)",
+        "dateAdded": 1342248445459417,
+        "lastModified": 1349156232870029,
+        "description": "A detailed, step by step article on how to compile and install your own version of the Linux kernel 3.2 for Ubuntu 11.10.",
+        "uri": "http://blog.avirtualhome.com/2012/01/13/compile-linux-kernel-3-2-for-ubuntu-11-10/"
+    },
+    {
+        "title": "Chapter 7. Configuring a Linux Kernel",
+        "dateAdded": 1342248442555711,
+        "lastModified": 1342248448286699,
+        "description": "Chapter 7. Configuring a Linux Kernel",
+        "uri": "http://swift.siphos.be/linux_sea/ch07.html#idp35201520"
+    },
+    {
+        "title": "Grub2 failing to install properly during Ubuntu 11.04 beta installation « Rhetorical Tyro",
+        "dateAdded": 1342248439970929,
+        "lastModified": 1342248448194696,
+        "description": "Grub2 failing to install properly during Ubuntu 11.04 beta installation « Rhetorical Tyro",
+        "uri": "http://rhetoricaltyro.wordpress.com/2011/04/01/grub2-failing-to-install-properly-during-ubuntu-11-04-beta-installation/"
+    },
+    {
+        "title": "Colours In Cultures",
+        "dateAdded": 1342248441599265,
+        "lastModified": 1342248448260458,
+        "description": "Colours In Cultures",
+        "uri": "http://www.informationisbeautiful.net/visualizations/colours-in-cultures/"
+    },
+    {
+        "title": "Periodic_Table_of_Typefaces_large.jpg (JPEG Image, 3150x2100 pixels)",
+        "dateAdded": 1342248439818134,
+        "lastModified": 1342248448177656,
+        "description": "Periodic_Table_of_Typefaces_large.jpg (JPEG Image, 3150x2100 pixels)",
+        "uri": "http://www.squidspot.com/Periodic_Table_of_Typefaces/Periodic_Table_of_Typefaces_large.jpg"
+    },
+    {
+        "title": "So you need a typeface",
+        "dateAdded": 1342248444741758,
+        "lastModified": 1342248448325184,
+        "description": "So you need a typeface",
+        "uri": "http://julianhansen.com/files/infographiclarge_v2.png"
+    },
+    {
+        "title": "CSS3 Click Chart | CSS3 Browser Support and Information",
+        "dateAdded": 1342248447619631,
+        "lastModified": 1349156232884334,
+        "description": "CSS3 Click Chart",
+        "uri": "http://css3clickchart.com/#box-sizing"
+    },
+    {
+        "title": "git - the simple guide - no deep shit!",
+        "dateAdded": 1342248440101638,
+        "lastModified": 1342248448204121,
+        "description": "git - the simple guide - no deep shit!",
+        "uri": "http://rogerdudler.github.com/git-guide/"
+    },
+    {
+        "title": "Offline Wikipedia",
+        "dateAdded": 1342248442116835,
+        "lastModified": 1342248448276703,
+        "description": "Offline Wikipedia",
+        "uri": "http://offline-wiki.googlecode.com/git/app.html"
+    },
+    {
+        "title": "javascript eval considered crazy -- wingolog",
+        "dateAdded": 1342248443826423,
+        "lastModified": 1342248448316900,
+        "description": "javascript eval considered crazy -- wingolog",
+        "uri": "http://wingolog.org/archives/2012/01/12/javascript-eval-considered-crazy"
+    },
+    {
+        "title": "Top-Level Domains - Domainr",
+        "dateAdded": 1342248440191947,
+        "lastModified": 1342248448208798,
+        "description": "Top-Level Domains - Domainr",
+        "uri": "http://domai.nr/about/tlds"
+    },
+    {
+        "title": "PharkMillups/beautiful-docs - Curated documetation",
+        "dateAdded": 1342248443628218,
+        "lastModified": 1349156232895239,
+        "description": "beautiful-docs - Pointers to useful, well-written, and otherwise beautiful documentation.",
+        "uri": "https://github.com/PharkMillups/beautiful-docs"
+    },
+    {
+        "title": "Usability Body of Knowledge",
+        "dateAdded": 1342248448789158,
+        "lastModified": 1342248448789158,
+        "description": "Usability Body of Knowledge",
+        "uri": "http://www.usabilitybok.org/"
+    },
+    {
+        "title": "CSS3 properties explained | css3files.com",
+        "dateAdded": 1342248445365409,
+        "lastModified": 1349156232899304,
+        "description": "Comprehensive overview of the latest CSS3 properties to look up and learn at css3files.com",
+        "uri": "http://www.css3files.com/"
+    },
+    {
+        "title": "The Hacker Shelf | Community-curated collection of free books for the intellectually curious.",
+        "dateAdded": 1342248447926354,
+        "lastModified": 1342248448356961,
+        "description": "The Hacker Shelf | Community-curated collection of free books for the intellectually curious.",
+        "uri": "http://hackershelf.com/"
+    },
+    {
+        "title": "IE CSS Compatibility",
+        "dateAdded": 1342248448403897,
+        "lastModified": 1342248448403897,
+        "description": "IE CSS Compatibility",
+        "uri": "http://msdn.microsoft.com/en-us/library/cc351024(v=vs.85).aspx"
+    },
+    {
+        "title": "Designer Myopia: How To Stop Designing For Ourselves | Smashing UX Design",
+        "dateAdded": 1342248448094686,
+        "lastModified": 1349156232902681,
+        "description": "In this article, we’ll discuss “designer myopia”: the all-too-common phenomenon whereby, despite our best intentions, we sometimes design with a nearsightedness that results in website...",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/02/14/designer-myopia-stop-designing-for-ourselves/"
+    },
+    {
+        "title": "PeepCode | Programming and Development Tutorial Screencasts for Web Developers and Alpha Geeks",
+        "dateAdded": 1342248443321230,
+        "lastModified": 1349156232904031,
+        "description": "PeepCode - professional programming tutorials and screencasts for web developers and alpha geeks. Featuring tutorials on javascript, rails, ruby, git, and unix, plus many more",
+        "uri": "http://peepcode.com/"
+    },
+    {
+        "title": "24 ways: Compose to a Vertical Rhythm",
+        "dateAdded": 1342248447096098,
+        "lastModified": 1349156232911013,
+        "description": "The advent calendar for web geeks. Each day throughout December we publish a daily dose of web design and development goodness to bring you all a little Christmas cheer.",
+        "uri": "http://24ways.org/2006/compose-to-a-vertical-rhythm"
+    },
+    {
+        "title": "Responsive Design: Why You’re Doing It Wrong | Design Shack",
+        "dateAdded": 1342248440320304,
+        "lastModified": 1349156232913473,
+        "description": "Reading an article entitled Responsive Design: Why You’re Doing It Wrong on Design Shack.",
+        "uri": "http://designshack.net/articles/css/responsive-design-why-youre-doing-it-wrong/"
+    },
+    {
+        "title": "Understanding technical debt | NCZOnline",
+        "dateAdded": 1342248448875776,
+        "lastModified": 1349156232916001,
+        "description": "In the creation of a web site, there are several groups of people who participate: product managers or marketing representatives who are responsible for",
+        "uri": "http://www.nczonline.net/blog/2012/02/22/understanding-technical-debt/"
+    },
+    {
+        "title": "Fitts’ and Hick’s Laws and Usability",
+        "dateAdded": 1342248442587541,
+        "lastModified": 1342248448288298,
+        "description": "Fitts’ and Hick’s Laws and Usability",
+        "uri": "http://www.vanseodesign.com/web-design/fitts-law-hicks-law/"
+    },
+    {
+        "title": "Redefining Hick's Law | Smashing UX Design",
+        "dateAdded": 1342248447158567,
+        "lastModified": 1349156232920686,
+        "description": "Hick’s Law has always been a popular reference point for designers. You’ll find it cited in the endless lists of basic laws and principles that all designers should be familiar with.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/02/23/redefining-hicks-law/"
+    },
+    {
+        "title": "Help.GitHub - Deploy keys",
+        "dateAdded": 1342248439929942,
+        "lastModified": 1342248448189886,
+        "description": "Help.GitHub - Deploy keys",
+        "uri": "http://help.github.com/deploy-keys/"
+    },
+    {
+        "title": "Agent forwarding with PuTTY and OpenSSH",
+        "dateAdded": 1342248439494988,
+        "lastModified": 1342248448149529,
+        "description": "Agent forwarding with PuTTY and OpenSSH",
+        "uri": "http://unixwiz.net/techtips/putty-openssh.html#fwd"
+    },
+    {
+        "title": "How Mailinator compresses email by 90%",
+        "dateAdded": 1342248445026243,
+        "lastModified": 1342248448329588,
+        "description": "How Mailinator compresses email by 90%",
+        "uri": "http://mailinator.blogspot.com/2012/02/how-mailinator-compresses-email-by-90.html"
+    },
+    {
+        "title": "52 Things People Should Know To Do Cryptography",
+        "dateAdded": 1342248441471496,
+        "lastModified": 1342248448248965,
+        "description": "52 Things People Should Know To Do Cryptography",
+        "uri": "http://www.cs.bris.ac.uk/Research/CryptographySecurity/knowledge.html"
+    },
+    {
+        "title": "Retrieval time from storage",
+        "dateAdded": 1342248439197059,
+        "lastModified": 1342248448138993,
+        "description": "Retrieval time from storage",
+        "uri": "http://i.imgur.com/X1Hi1.gif"
+    },
+    {
+        "title": "Is There Ever A Justification For Responsive Text? | Smashing Magazine",
+        "dateAdded": 1342248444292847,
+        "lastModified": 1349156232931820,
+        "description": "Depending on who you follow and what you read, you may have noticed the concept of “responsive text” being discussed in design circles recently. It’s not what you might imagine — resizing and altering the typography to make it easier to read on a range of devices — but rather delivering varying amounts of content to devices based on screen size. One example of this is an experiment by designer Frankie Roberto. Another is the navigation menu on the website for Sifter App. Roberto and Sifter are using media queries to actually hide and display text based on screen size (i.e. not rewriting or delivering different content based on context — as one would do with mobile-focused copy, for example).",
+        "uri": "http://www.smashingmagazine.com/2012/02/27/ever-justification-for-responsive-text/"
+    },
+    {
+        "title": "10 Photoshop Tips for Developers » SitePoint",
+        "dateAdded": 1342248449087042,
+        "lastModified": 1349156232936287,
+        "description": "If you prefer the comfort of coding to image editing, Craig provides a few tips to help you tame Photoshop.",
+        "uri": "http://www.sitepoint.com/10-photoshop-tips-for-developers/"
+    },
+    {
+        "title": "What’s the Deal With Display: Inline-Block? | Design Shack",
+        "dateAdded": 1342248445481627,
+        "lastModified": 1349156232937699,
+        "description": "Reading an article entitled What’s the Deal With Display: Inline-Block? on Design Shack.",
+        "uri": "http://designshack.net/articles/css/whats-the-deal-with-display-inline-block/"
+    },
+    {
+        "title": "Designing for Decoder Glasses, Print and Web | CSS-Tricks",
+        "dateAdded": 1342248443067715,
+        "lastModified": 1349156232941147,
+        "description": "Michael Buchmiller of BlueHornet walks us through the process of designing a poster for tinted decoder glasses, and then bringing the same idea with a similar interaction to the web with the AnythingZoomer.",
+        "uri": "http://css-tricks.com/designing-for-decoder-glasses-print-and-web/"
+    },
+    {
+        "title": "HTTP Status Codes",
+        "dateAdded": 1342248443568717,
+        "lastModified": 1349156232943617,
+        "description": "HTTP Status code list / directory with wikipedia and ietf descriptions",
+        "uri": "http://httpstatus.es/"
+    },
+    {
+        "title": "The Basics of jQuery ↩ Andrée",
+        "dateAdded": 1342248440819323,
+        "lastModified": 1342248448234814,
+        "description": "The Basics of jQuery ↩ Andrée",
+        "uri": "http://andreehansson.se/the-basics-of-jquery/"
+    },
+    {
+        "title": "Logo Evolution of 25 Famous Brands",
+        "dateAdded": 1342248445038290,
+        "lastModified": 1349156232948021,
+        "description": "A company's logo is a recognition tool for the public to link their services or products to the company. In other words, it is part of a company's branding.",
+        "uri": "http://www.hongkiat.com/blog/logo-evolution/"
+    },
+    {
+        "title": "Do websites need to look exactly the same in every browser?",
+        "dateAdded": 1342248442361889,
+        "lastModified": 1342248448281787,
+        "description": "Do websites need to look exactly the same in every browser?",
+        "uri": "http://dowebsitesneedtolookexactlythesameineverybrowser.com/"
+    },
+    {
+        "title": "Negative Proximity - :not doesn't count towards specificity",
+        "dateAdded": 1342248446679444,
+        "lastModified": 1342248448345368,
+        "description": "Negative Proximity - :not doesn't count towards specificity",
+        "uri": "http://meyerweb.com/eric/thoughts/2012/03/07/negative-proximity/"
+    },
+    {
+        "title": "List of All Countries in All Languages and All Data Formats | Umpirsky Software Development Blog",
+        "dateAdded": 1342248446959329,
+        "lastModified": 1349156232954855,
+        "description": "The scenario is simple - I need a list of all countries. This is the task that need to be solved in majority of applications. So I sit down and tried to find a",
+        "uri": "http://dev.umpirsky.com/list-of-all-countries-in-all-languages-and-all-data-formats/"
+    },
+    {
+        "title": "Personal Todo's - Google Docs",
+        "dateAdded": 1342248442707930,
+        "lastModified": 1342248448296122,
+        "description": "Personal Todo's - Google Docs",
+        "uri": "https://docs.google.com/a/twolfson.com/document/d/16FxjInYPMkpf5plEc443qLyYqrRmI36I3f5APZHYVfw/edit"
+    },
+    {
+        "title": "Algorithm cheatsheet: Quicksort",
+        "dateAdded": 1342248442511774,
+        "lastModified": 1349156232959015,
+        "description": "Click on the image to download this cheatsheet on PDF!",
+        "uri": "http://www.stoimen.com/blog/2012/03/12/algorithm-cheatsheet-quicksort/"
+    },
+    {
+        "title": "Visualized Git best practices for team: branch, merge, rebase",
+        "dateAdded": 1342248446858219,
+        "lastModified": 1349156232962092,
+        "description": "Even long-time git users found it hard to explain all the concepts to a beginner clearly especially on rebasing topic. So, out of frustration of having to explain it again and again, I hope this post will help you visualized the 3 very important concepts for your team and something you can copy & paste it to your next intern.",
+        "uri": "http://kentnguyen.com/development/visualized-git-practices-for-team/"
+    },
+    {
+        "title": "Symptoms Of An Epidemic: Web Design Trends | Smashing UX Design",
+        "dateAdded": 1342248444879110,
+        "lastModified": 1349156232964655,
+        "description": "Since Elliot Jay Stocks so poignantly told us to destroy the Web 2.0 look, we’ve witnessed a de-shinification of the Web, with fewer glass buttons, beveled edges, reflections, special-offer badges, vulgar gradients with vibrant colors and diagonal background patterns.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/03/15/symptoms-of-epidemic-web-design-trends/"
+    },
+    {
+        "title": "The Elements Of Navigation | Smashing UX Design",
+        "dateAdded": 1342248443838722,
+        "lastModified": 1349156232967221,
+        "description": "This article is about the tiniest of details that goes into creating the main centerpiece of your digital product. The construction of the elements of your navigation, the most important aid you can possibly give to your users as they are constantly seeking a reason to walk out on you.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/03/20/the-elements-of-navigation/"
+    },
+    {
+        "title": "5 Really Useful Responsive Web Design Patterns | Design Shack",
+        "dateAdded": 1342248443045839,
+        "lastModified": 1349156232969747,
+        "description": "Reading an article entitled 5 Really Useful Responsive Web Design Patterns on Design Shack.",
+        "uri": "http://designshack.net/articles/css/5-really-useful-responsive-web-design-patterns/"
+    },
+    {
+        "title": "Style Tiles: The Flip Side of Wireframes | Design Shack",
+        "dateAdded": 1342248447906806,
+        "lastModified": 1349156232972292,
+        "description": "Reading an article entitled Style Tiles: The Flip Side of Wireframes on Design Shack.",
+        "uri": "http://designshack.net/articles/graphics/style-tiles-the-flip-side-of-wireframes/"
+    },
+    {
+        "title": "What do all of these abbreviations mean? : Get Help",
+        "dateAdded": 1342248440132971,
+        "lastModified": 1349156232974761,
+        "description": "What do all of these abbreviations mean?. Choosing and Buying Fonts",
+        "uri": "http://help.fontshop.com/entries/204834-what-do-all-of-these-abbreviations-mean"
+    },
+    {
+        "title": "The Lowdown on Absolute vs. Relative Positioning | Design Shack",
+        "dateAdded": 1342248439803626,
+        "lastModified": 1349156232977302,
+        "description": "Reading an article entitled The Lowdown on Absolute vs. Relative Positioning on Design Shack.",
+        "uri": "http://designshack.net/articles/css/the-lowdown-on-absolute-vs-relative-positioning/"
+    },
+    {
+        "title": "Color Trends + Palettes :: COLOURlovers",
+        "dateAdded": 1342248440893412,
+        "lastModified": 1349156232980521,
+        "description": "COLOURlovers is a creative community where people from around the world create and share colors, palettes and patterns, discuss the latest trends and explore colorful articles... All in the spirit of love",
+        "uri": "http://www.colourlovers.com/"
+    },
+    {
+        "title": "SQL Grammar",
+        "dateAdded": 1342248448584524,
+        "lastModified": 1342248448584524,
+        "description": "SQL Grammar",
+        "uri": "http://www.h2database.com/html/grammar.html"
+    },
+    {
+        "title": "HTML5 Video Player Comparison",
+        "dateAdded": 1342248447677412,
+        "lastModified": 1342248448355380,
+        "description": "HTML5 Video Player Comparison",
+        "uri": "http://praegnanz.de/html5video/"
+    },
+    {
+        "title": "package.json cheat sheet",
+        "dateAdded": 1342248439188236,
+        "lastModified": 1342248448136262,
+        "description": "package.json cheat sheet",
+        "uri": "http://package.json.nodejitsu.com/"
+    },
+    {
+        "title": "A Rundown of CSS3 Units and their uses | InsertHTML",
+        "dateAdded": 1342248449270678,
+        "lastModified": 1349156232985265,
+        "description": "I've been learning a bit more about CSS3 units over the past few days and it's rather surprising how the web design community seems to have totally ignored their possible uses. The new CSS3 units specification is currently being refined, although the things I mention here are unlikely to change.",
+        "uri": "http://www.inserthtml.com/2012/04/guide-css3-units/"
+    },
+    {
+        "title": "Cross-Browser Debugging CSS",
+        "dateAdded": 1342248440745919,
+        "lastModified": 1342248448228566,
+        "description": "Cross-Browser Debugging CSS",
+        "uri": "http://www.stubbornella.org/content/2012/05/02/cross-browser-debugging-css/"
+    },
+    {
+        "title": "JavaScript Style Guides And Beautifiers",
+        "dateAdded": 1342248439108755,
+        "lastModified": 1349156232987773,
+        "description": "Today we're going to explore JavaScript style guides, specifically: their importance, style guides worth reviewing and tools that can assist in automated",
+        "uri": "http://addyosmani.com/blog/javascript-style-guides-and-beautifiers/"
+    },
+    {
+        "title": "A List Apart: Articles: Application Cache is a Douchebag",
+        "dateAdded": 1342248447437686,
+        "lastModified": 1342248448354142,
+        "description": "A List Apart: Articles: Application Cache is a Douchebag",
+        "uri": "http://www.alistapart.com/articles/application-cache-is-a-douchebag/"
+    },
+    {
+        "title": "Eleven Compelling Startup Pitch Archetypes (with examples from YC companies) | The Art of Ass-Kicking",
+        "dateAdded": 1342248448083664,
+        "lastModified": 1342248448358354,
+        "description": "Eleven Compelling Startup Pitch Archetypes (with examples from YC companies) | The Art of Ass-Kicking",
+        "uri": "http://www.jasonshen.com/2012/eleven-compelling-startup-pitch-archetypes-with-examples-from-yc-companies/"
+    },
+    {
+        "title": "Understanding vertical-align for once and for all ✿ dabblet.com",
+        "dateAdded": 1342248439923608,
+        "lastModified": 1349156232993812,
+        "description": "An interactive CSS playground and code sharing tool. Dabblet saves to Github gists and offers many conveniences for CSS editing.",
+        "uri": "http://dabblet.com/gist/2664620"
+    },
+    {
+        "title": "Robust git basics",
+        "dateAdded": 1342248439620817,
+        "lastModified": 1349156232995084,
+        "description": "A collection of notes for internal Code for America skillshares.",
+        "uri": "https://github.com/codeforamerica/skillshares/tree/master/git_basics"
+    },
+    {
+        "title": "Color equivalents table - HTML / CSS colors",
+        "dateAdded": 1342248443633678,
+        "lastModified": 1342248448312960,
+        "description": "Color equivalents table - HTML / CSS colors",
+        "uri": "http://meyerweb.com/eric/css/colors/"
+    },
+    {
+        "title": "Introduction to JavaScript Source Maps - HTML5 Rocks",
+        "dateAdded": 1342248439624631,
+        "lastModified": 1349156232997172,
+        "description": "A resource for developers looking to put HTML5 to use today, including information on specific features and when to use them in your apps.",
+        "uri": "http://www.html5rocks.com/en/tutorials/developertools/sourcemaps/"
+    },
+    {
+        "title": "All About Unicode, UTF8 & Character Sets | Smashing Coding",
+        "dateAdded": 1342248446920830,
+        "lastModified": 1349156232998315,
+        "description": "This article covers the history of characters, character sets, Unicode and UTF-8, and why question marks and odd accented characters sometimes show up in databases and text files.",
+        "uri": "http://coding.smashingmagazine.com/2012/06/06/all-about-unicode-utf8-character-sets/"
+    },
+    {
+        "title": "Poll Results: Popularity of CSS Preprocessors | CSS-Tricks",
+        "dateAdded": 1342248440757944,
+        "lastModified": 1349156232999428,
+        "description": "A few months ago we started this poll about CSS preprocessor syntax. It generated quite a discussion and nearly 13,000 responses. Let's wrap it up by looki",
+        "uri": "http://css-tricks.com/poll-results-popularity-of-css-preprocessors/"
+    },
+    {
+        "title": "CSS Hack Dumpster : Perishable Press",
+        "dateAdded": 1342248444954065,
+        "lastModified": 1349156233000595,
+        "description": "WordPress, Web Design, Code & Tutorials",
+        "uri": "http://perishablepress.com/css-hack-dumpster/"
+    },
+    {
+        "title": "Patterns of Developer Experience",
+        "dateAdded": 1342248442674319,
+        "lastModified": 1342248448294586,
+        "description": "Patterns of Developer Experience",
+        "uri": "http://softwareas.com/patterns-of-developer-experience"
+    },
+    {
+        "title": "10 Windows Command Line Tips You Should Check Out",
+        "dateAdded": 1342248441525735,
+        "lastModified": 1349156233002623,
+        "description": "Linux geeks are proud of their command line prowess and generally have some tricks up their sleeves. While the Windows command line is not considered as",
+        "uri": "http://www.makeuseof.com/tag/10-windows-command-line-tips-tricks-you-should-definitely-check-out/"
+    },
+    {
+        "title": "What is the Execution Context & Stack in JavaScript? | David Shariff | Front End User Interface Engineer",
+        "dateAdded": 1342248440395083,
+        "lastModified": 1349156233003742,
+        "description": "What is the Execution Context & Stack in JavaScript? - In this post I will take an in-depth look at one of the most fundamental parts of JavaScript, the Execution Context. By the end of this post, you should h...",
+        "uri": "http://davidshariff.com/blog/what-is-the-execution-context-in-javascript/"
+    },
+    {
+        "title": "Guide to CSS support in email | Campaign Monitor",
+        "dateAdded": 1342248441657126,
+        "lastModified": 1349156233004862,
+        "description": "Campaign Monitor makes it easy to attract new subscribers, send them beautiful email newsletters and see stunning reports on the results.",
+        "uri": "http://www.campaignmonitor.com/css/"
+    },
+    {
+        "title": "Git and GitHub Secrets",
+        "dateAdded": 1342248447223255,
+        "lastModified": 1349156233005960,
+        "description": "Writings, screencasts, and talks by Zach Holman. Zach works at GitHub and enjoys consuming cherry pies.",
+        "uri": "http://zachholman.com/talk/git-github-secrets"
+    },
+    {
+        "title": "A Visual Git Reference",
+        "dateAdded": 1342248441858372,
+        "lastModified": 1342248448271374,
+        "description": "A Visual Git Reference",
+        "uri": "http://marklodato.github.com/visual-git-guide/index-en.html"
+    },
+    {
+        "title": "Geometric Shapes – Test for Unicode support in Web browsers",
+        "dateAdded": 1342248440824926,
+        "lastModified": 1349156233008107,
+        "description": "Test your Web browser and fonts for the ability to display the Unicode Geometric Shapes range of characters. Part of Alan Wood’s Unicode Resources.",
+        "uri": "http://www.alanwood.net/unicode/geometric_shapes.html"
+    },
+    {
+        "title": "JavaScript Technology Web Usage Statistics",
+        "dateAdded": 1342930139052214,
+        "lastModified": 1349156233008974,
+        "description": "Usage Statistics for JavaScript Libraries and Functions",
+        "uri": "http://trends.builtwith.com/javascript"
+    },
+    {
+        "title": "Corporate Open Source Anti-Patterns: Doing It Wrong - YouTube",
+        "dateAdded": 1343714447674994,
+        "lastModified": 1349156233010610,
+        "description": "Bryan Cantrill speaks at FISL, July 26, 2012. Slides here: http://www.slideshare.net/bcantrill/corporate-open-source-antipatterns",
+        "uri": "http://www.youtube.com/watch?v=NhgXQFk9noI"
+    },
+    {
+        "title": "Keyboard Shortcuts - Windows/Linux — Sublime Text Unofficial Documentation",
+        "dateAdded": 1344152886240032,
+        "lastModified": 1344152894186151,
+        "description": "Keyboard Shortcuts - Windows/Linux — Sublime Text Unofficial Documentation",
+        "uri": "http://docs.sublimetext.info/en/latest/reference/keyboard_shortcuts_win.html"
+    },
+    {
+        "title": "No Excuse List - Information on how to do anything",
+        "dateAdded": 1344217072854667,
+        "lastModified": 1349156233013314,
+        "description": "The best place on the web to learn anything, for free. The list provides the best links to learn about academics, music, programming, languages and other useful resources.",
+        "uri": "http://www.noexcuselist.com/"
+    },
+    {
+        "title": "Speed Up Your JavaScript (YouTube)",
+        "dateAdded": 1342248441217227,
+        "lastModified": 1349156233211270,
+        "description": "Google Tech Talk June 4, 2009 ABSTRACT Web Exponents: Speed Up Your JavaScript Presented by Nicholas C. Zakas. As an interpreted language, JavaScript is fill...",
+        "uri": "http://www.youtube.com/watch?v=mHtdZgou0qU"
+    },
+    {
+        "title": "JavascriptTips - jslibs - JavaScript language advanced tips and tricks - standalone JavaScript development runtime environment with general purpose native libraries - Google Project Hosting",
+        "dateAdded": 1342248444937168,
+        "lastModified": 1342248444937168,
+        "description": "JavascriptTips - jslibs - JavaScript language advanced tips and tricks - standalone JavaScript development runtime environment with general purpose native libraries - Google Project Hosting",
+        "uri": "http://code.google.com/p/jslibs/wiki/JavascriptTips"
+    },
+    {
+        "title": "Defining your own functions in jQuery - Client-Side with Basil Goldman",
+        "dateAdded": 1342248440822114,
+        "lastModified": 1349156233215710,
+        "description": "Client-Side with Basil Goldman",
+        "uri": "http://blogs.microsoft.co.il/blogs/basil/archive/2008/09/22/defining-your-own-functions-in-jquery.aspx"
+    },
+    {
+        "title": "10 Things I Learned from the jQuery Source « Paul Irish",
+        "dateAdded": 1342248446874747,
+        "lastModified": 1349156233218056,
+        "description": "10 Things I Learned from the jQuery Source",
+        "uri": "http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248445249092,
+        "lastModified": 1342248445249092,
+        "description": ""
+    },
+    {
+        "title": "Improve your jQuery Selectors: 5 Quick Tips « The Web Squeeze",
+        "dateAdded": 1342248442416698,
+        "lastModified": 1342248442416698,
+        "description": "Improve your jQuery Selectors: 5 Quick Tips « The Web Squeeze",
+        "uri": "http://www.thewebsqueeze.com/web-design-tutorials/improve-your-jquery-selectors-5-quick-tips.html"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248445339779,
+        "lastModified": 1342248445339779,
+        "description": ""
+    },
+    {
+        "title": "Optimize CSS Selectors",
+        "dateAdded": 1342248448945360,
+        "lastModified": 1342248448945360,
+        "description": "Optimize CSS Selectors",
+        "uri": "http://code.google.com/speed/page-speed/docs/rendering.html#UseEfficientCSSSelectors"
+    },
+    {
+        "title": "Writing Efficient CSS for use in the Mozilla UI - MDC Doc Center",
+        "dateAdded": 1342248445188114,
+        "lastModified": 1342248445188114,
+        "description": "Writing Efficient CSS for use in the Mozilla UI - MDC Doc Center",
+        "uri": "https://developer.mozilla.org/en/Writing_Efficient_CSS"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248440024977,
+        "lastModified": 1342248440024977,
+        "description": ""
+    },
+    {
+        "title": "The Lazy Programmer's Guide to Secure Computing",
+        "dateAdded": 1342248449089996,
+        "lastModified": 1349156233228480,
+        "description": "Google Tech Talk March 11, 2010 ABSTRACT Presented by Marc Stiegler. This presentation starts with a simple block of code written by the Lazy Programmer, to ...",
+        "uri": "http://www.youtube.com/watch?v=eL5o4PFuxTY"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248441945008,
+        "lastModified": 1342248441945008,
+        "description": ""
+    },
+    {
+        "title": "nodejs | Google Groups",
+        "dateAdded": 1342248440060744,
+        "lastModified": 1342248440060744,
+        "description": "nodejs | Google Groups",
+        "uri": "http://groups.google.com/group/nodejs/?pli=1"
+    },
+    {
+        "title": "Weekly Freebies: 20 Awesome Cheatsheets for Designers and Developers | Design Shack",
+        "dateAdded": 1342248445354516,
+        "lastModified": 1349156233234820,
+        "description": "Reading an article entitled Weekly Freebies: 20 Awesome Cheatsheets for Designers and Developers on Design Shack.",
+        "uri": "http://designshack.co.uk/articles/freebies/weekly-freebies-20-awesome-cheatsheets-for-designers-and-developers/"
+    },
+    {
+        "title": "One JavaScript Design Pattern I Can’t Live Without » JavaScript » Design Festival",
+        "dateAdded": 1342248446966270,
+        "lastModified": 1349156233237340,
+        "description": "I thought it might be interesting to look at a JavaScript design pattern that I use a great deal. I",
+        "uri": "http://designfestival.com/one-javascript-design-pattern-i-cant-live-without/"
+    },
+    {
+        "title": "Design an Ambigram Logo With Your Name | Design Shack",
+        "dateAdded": 1342248442465760,
+        "lastModified": 1349156233239934,
+        "description": "Reading an article entitled Design an Ambigram Logo With Your Name on Design Shack.",
+        "uri": "http://designshack.co.uk/articles/graphics/how-to-design-an-ambigram/"
+    },
+    {
+        "title": "How to Level Up as a Developer",
+        "dateAdded": 1342248440862118,
+        "lastModified": 1349156233242686,
+        "description": "Jason Rudolph - Programmer, consultant, speaker, and author specializing in Ruby, Rails, Groovy, and Grails",
+        "uri": "http://jasonrudolph.com/blog/2011/08/09/programming-achievements-how-to-level-up-as-a-developer/"
+    },
+    {
+        "title": "10 things I’ve never heard a successful startup founder say",
+        "dateAdded": 1342248443366855,
+        "lastModified": 1349156233245218,
+        "description": "I built this software for myself, and then it turned out a million people wanted it exactly how I originally envisioned it. After hiring a few people, being the CEO became a lot easier, and I was able to focus",
+        "uri": "http://blog.asmartbear.com/quotes-startup-founders.html"
+    },
+    {
+        "title": "Life on the Command Line",
+        "dateAdded": 1342248447072105,
+        "lastModified": 1342248447072105,
+        "description": "Life on the Command Line",
+        "uri": "http://lenz.unl.edu/2011/04/09/life-on-the-command-line.html"
+    },
+    {
+        "title": "10 Unmissable TED Videos For Designers",
+        "dateAdded": 1342248440634002,
+        "lastModified": 1349156233249661,
+        "description": "TED (Technology, Entertainment, Design) has been existed since 1984 with the primary objective to spread some really great ideas and experience related with",
+        "uri": "http://www.hongkiat.com/blog/ted-video-for-web-designers/"
+    },
+    {
+        "title": "3 Ways to Make Checkboxes, Radio Buttons Easier to Click - UX Movement",
+        "dateAdded": 1342248439167022,
+        "lastModified": 1349156233252143,
+        "description": "Checkboxes and radio buttons are an essential part of forms. But most of the time, they're not easy to click. This is because their click targets are small. The smaller a click target is, the more difficult it is to click it.",
+        "uri": "http://uxmovement.com/forms/ways-to-make-checkboxes-radio-buttons-easier-to-click/"
+    },
+    {
+        "title": "What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'? - Unix and Linux - Stack Exchange",
+        "dateAdded": 1342248445193679,
+        "lastModified": 1342248445193679,
+        "description": "What is the exact difference between a 'terminal', a 'shell', a 'tty' and a 'console'? - Unix and Linux - Stack Exchange",
+        "uri": "http://unix.stackexchange.com/questions/4126/what-is-the-exact-difference-between-a-terminal-a-shell-a-tty-and-a-cons/4132#4132"
+    },
+    {
+        "title": "Draw a Stickman",
+        "dateAdded": 1342248440407454,
+        "lastModified": 1349156233256761,
+        "description": "Draw a custom stickman and watch him come to life in this interactive stickman adventure.",
+        "uri": "http://www.drawastickman.com/"
+    },
+    {
+        "title": "Optimizing Long Lists Of Yes/No Values With JavaScript - Smashing Coding",
+        "dateAdded": 1342248440455902,
+        "lastModified": 1349156233258222,
+        "description": "Very frequently in Web development (and programming in general), you need to store a long list of boolean values (yes/no, true/false, checked/unchecked… you get the idea) into something that accepts only strings.",
+        "uri": "http://coding.smashingmagazine.com/2011/10/19/optimizing-long-lists-of-yesno-values-with-javascript/"
+    },
+    {
+        "title": "Programming Wisdom (codewisdom) on Twitter",
+        "dateAdded": 1342248445205496,
+        "lastModified": 1342248445205496,
+        "description": "Programming Wisdom (codewisdom) on Twitter",
+        "uri": "https://twitter.com/#!/codewisdom"
+    },
+    {
+        "title": "Improving Rhino CLI utility performance | NCZOnline",
+        "dateAdded": 1342248447256687,
+        "lastModified": 1349156233260768,
+        "description": "Back when I worked at Yahoo!, we spent a lot of time improving our build and checkin systems. Part of that meant using JSLint for JavaScript validation and a",
+        "uri": "http://www.nczonline.net/blog/2011/10/25/improving-rhino-cli-utility-performance/"
+    },
+    {
+        "title": "Play the Angel | Angel ❏",
+        "dateAdded": 1342248441760569,
+        "lastModified": 1342248441760569,
+        "description": "Play the Angel | Angel ❏",
+        "uri": "http://angelsq.co/"
+    },
+    {
+        "title": "Forget New Twitter. Check Out Old Facebook | Webmonkey | Wired.com",
+        "dateAdded": 1342248440136768,
+        "lastModified": 1342248440136768,
+        "description": "Forget New Twitter. Check Out Old Facebook | Webmonkey | Wired.com",
+        "uri": "http://www.webmonkey.com/2011/12/forget-new-twitter-check-out-old-facebook/"
+    },
+    {
+        "title": "On HTML and CSS best practices — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "dateAdded": 1342248442350943,
+        "lastModified": 1342248442350943,
+        "description": "On HTML and CSS best practices — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "uri": "http://csswizardry.com/2011/12/on-html-and-css-best-practices/"
+    },
+    {
+        "title": "4 ways to prototype faster",
+        "dateAdded": 1342248443295817,
+        "lastModified": 1349156233267654,
+        "description": "Given that we are increasingly working in environments where we need to deliver more with less, how can we speed up the process of prototyping?",
+        "uri": "http://www.userfocus.co.uk/articles/prototype_faster.html"
+    },
+    {
+        "title": "The Messy Art Of UX Sketching - Smashing UX Design",
+        "dateAdded": 1342248440751699,
+        "lastModified": 1349156233268360,
+        "description": "As a UX professional,  I sketch every day. I often take over entire walls in our office and cover them with sketches, mapping out everything from context scenarios to wire frames and presentations.",
+        "uri": "http://uxdesign.smashingmagazine.com/2011/12/13/messy-art-ux-sketching/"
+    },
+    {
+        "title": "Launching a New Website: 18 Steps to Successful Metrics & Marketing | SEOmoz",
+        "dateAdded": 1342248445493692,
+        "lastModified": 1349156233269025,
+        "description": "The process of launching a new website is, for many entrepreneurs, bloggers and business owners, an uncertain and scary prospect. This is often due to both unanswered questions and incomplete knowledge of which questions to ask. In this post, I'll give my best recommendations for launching a new site...",
+        "uri": "http://www.seomoz.org/blog/launching-a-new-website-18-steps"
+    },
+    {
+        "title": "Why you shouldn't use MP3 in your HTML5 games - Scirra.com",
+        "dateAdded": 1342248447896464,
+        "lastModified": 1349156233271428,
+        "description": "MP3 is a patented technology with limits on the numbers of times you can distribute games you have made before you have to pay an expensive fee. Construct 2 doesn't support MP3 for this reason.",
+        "uri": "http://www.scirra.com/blog/64/why-you-shouldnt-use-mp3-in-your-html5-games"
+    },
+    {
+        "title": "105 Star Wars Galaxy cartoon characters » Design You Trust – Design and Beyond!",
+        "dateAdded": 1342248448834632,
+        "lastModified": 1349156233272587,
+        "description": "105 Star Wars Galaxy cartoon characters created by illustrator Brent Engstrom Watch all the 105 Star Wars Galaxy cartoon characters by Brent Engstrom",
+        "uri": "http://designyoutrust.com/2011/12/22/105-star-wars-galaxy-cartoon-characters/"
+    },
+    {
+        "title": "Custom Events are Pretty Cool | CSS-Tricks",
+        "dateAdded": 1342248443378987,
+        "lastModified": 1349156233273736,
+        "description": "Callbacks are one way to keep JavaScript functionalities cleanly separated, but they aren't always enough. Using custom events are easier, more flexible, cleaner, and can make more obvious readable code.",
+        "uri": "http://css-tricks.com/custom-events-are-pretty-cool/"
+    },
+    {
+        "title": "Startup Idea: User Retention as a Service — PaulStamatiou.com",
+        "dateAdded": 1342248441897334,
+        "lastModified": 1349156233275014,
+        "description": "An in-depth blog post talking user retention and lifecycle email marketing for startups.",
+        "uri": "http://paulstamatiou.com/startup-user-retention-lifecycle-email"
+    },
+    {
+        "title": "How to get hired (or, 'The silly but adorable story of interviewing in the valley') - Trap'm",
+        "dateAdded": 1342248442549537,
+        "lastModified": 1342248442549537,
+        "description": "How to get hired (or, 'The silly but adorable story of interviewing in the valley') - Trap'm",
+        "uri": "http://trapm.com/how-to-get-hired-or-the-silly-but-adorable-st"
+    },
+    {
+        "title": "How GitHub Works: Hours are Bullshit",
+        "dateAdded": 1342248441674115,
+        "lastModified": 1349156233277098,
+        "description": "Writings, screencasts, and talks by Zach Holman. Zach works at GitHub and enjoys consuming cherry pies.",
+        "uri": "http://zachholman.com/posts/how-github-works-hours/"
+    },
+    {
+        "title": "Utilizing Grids in Print Design | Design Shack",
+        "dateAdded": 1342248447362517,
+        "lastModified": 1349156233278256,
+        "description": "Reading an article entitled Utilizing Grids in Print Design on Design Shack.",
+        "uri": "http://designshack.net/articles/layouts/utilizing-grids-in-print-design/"
+    },
+    {
+        "title": "The Myth Of The Sophisticated User - Smashing UX Design",
+        "dateAdded": 1342248447635035,
+        "lastModified": 1349156233279344,
+        "description": "When was the last time you had the time and willingness to put up with a poor interface from a company that thought it could get away with it because you’re an experienced user? When was the last time you liked it? When was the last time you recommended an app with such a design?",
+        "uri": "http://uxdesign.smashingmagazine.com/2011/12/28/myth-of-sophisticated-user/"
+    },
+    {
+        "title": "20 Stunning Photoshop Tutorials Every Designer Needs » Photoshop, Resources » Design Festival",
+        "dateAdded": 1342248441617506,
+        "lastModified": 1349156233280509,
+        "description": "Photoshop tutorials are everywhere, but good Photoshop tutorials can be hard to find. Designers often have trouble finding enough time",
+        "uri": "http://designfestival.com/20-stunning-photoshop-tutorials-every-designer-needs/"
+    },
+    {
+        "title": "prog21: A Programming Idiom You've Never Heard Of",
+        "dateAdded": 1342248444315609,
+        "lastModified": 1342248444315609,
+        "description": "prog21: A Programming Idiom You've Never Heard Of",
+        "uri": "http://prog21.dadgum.com/121.html"
+    },
+    {
+        "title": "Assign Custom Shortcut Keys on Ubuntu Linux - How-To Geek",
+        "dateAdded": 1342248439515150,
+        "lastModified": 1349156233282514,
+        "description": "Ubuntu includes a very limited shortcut key configuration utility which doesn’t allow you to assign hotkeys to your own applications or scripts. To get around this limitation, we can use the built-in gconf-editor utility to assign them ourselves.",
+        "uri": "http://www.howtogeek.com/howto/ubuntu/assign-custom-shortcut-keys-on-ubuntu-linux/"
+    },
+    {
+        "title": "How to Enable WebGL for Blocked Graphics Cards in Firefox » SitePoint",
+        "dateAdded": 1342248445068659,
+        "lastModified": 1349156233283564,
+        "description": "Craig reveals how you can run WebGL applications in Firefox even if your graphics card has been blacklisted. It's dangerous, but worth the risk to play X-Wing!",
+        "uri": "http://www.sitepoint.com/firefox-enable-webgl-blacklisted-graphics-card/"
+    },
+    {
+        "title": "5 Cliché Logo Design Trends to Avoid | Design Shack",
+        "dateAdded": 1342248446969309,
+        "lastModified": 1349156233284634,
+        "description": "Reading an article entitled 5 Cliché Logo Design Trends to Avoid on Design Shack.",
+        "uri": "http://designshack.net/articles/graphics/5-cliche-logo-design-trends-to-avoid/"
+    },
+    {
+        "title": "JavaScript Performance (at SFJS)",
+        "dateAdded": 1342248442989802,
+        "lastModified": 1349156233285728,
+        "description": "A deep dive into async script loading.",
+        "uri": "http://www.slideshare.net/souders/javascript-performance-at-sfjs"
+    },
+    {
+        "title": "On the Usability of Codecademy",
+        "dateAdded": 1342248444341951,
+        "lastModified": 1342248444341951,
+        "description": "On the Usability of Codecademy",
+        "uri": "http://programmingzen.com/2012/01/16/on-the-usability-of-codecademy/"
+    },
+    {
+        "title": "Understanding process.nextTick() - How To Node - NodeJS",
+        "dateAdded": 1342248441232140,
+        "lastModified": 1349156233287812,
+        "description": "Learn the zen of coding in NodeJS.",
+        "uri": "http://howtonode.org/understanding-process-next-tick"
+    },
+    {
+        "title": "The Five Stages of Hosting (Pinboard Blog)",
+        "dateAdded": 1342248439552435,
+        "lastModified": 1342248439552435,
+        "description": "The Five Stages of Hosting (Pinboard Blog)",
+        "uri": "http://blog.pinboard.in/2012/01/the_five_stages_of_hosting/"
+    },
+    {
+        "title": "Git Book - Distributed Workflows",
+        "dateAdded": 1342248448472714,
+        "lastModified": 1342248448472714,
+        "description": "Git Book - Distributed Workflows",
+        "uri": "http://book.git-scm.com/3_distributed_workflows.html"
+    },
+    {
+        "title": "Installing Windows 7 in native EFI mode from USB - bit-tech.net Forums",
+        "dateAdded": 1342248441108140,
+        "lastModified": 1349156233291001,
+        "description": "Windows Installing Windows 7 in native EFI mode from USB Software",
+        "uri": "http://forums.bit-tech.net/showthread.php?t=209045"
+    },
+    {
+        "title": "Wat — Sarcasm on quirks of language",
+        "dateAdded": 1342248439105530,
+        "lastModified": 1342248439260259,
+        "description": "Wat — Sarcasm on quirks of language",
+        "uri": "https://www.destroyallsoftware.com/talks/wat"
+    },
+    {
+        "title": "* { box-sizing: border-box } FTW « Paul Irish",
+        "dateAdded": 1342248444377382,
+        "lastModified": 1349156233292907,
+        "description": "* { box-sizing: border-box } FTW",
+        "uri": "http://paulirish.com/2012/box-sizing-border-box-ftw/"
+    },
+    {
+        "title": "Visual Idiot · Photoshop Simulator",
+        "dateAdded": 1342248447275768,
+        "lastModified": 1349156233293587,
+        "description": "A Photoshop simulator, written in HTML 5, Javascript/jQuery, and CSS3.",
+        "uri": "http://visualidiot.com/articles/photoshop"
+    },
+    {
+        "title": "What makes a great UX practitioner? Hint: It's not what you think",
+        "dateAdded": 1342248440786700,
+        "lastModified": 1349156233294212,
+        "description": "Technical skill is just one sphere of expertise required by UX practitioners. A fully-rounded UX practitioner also needs competence in two additional spheres of practice: process and marketing.",
+        "uri": "http://www.userfocus.co.uk/articles/what_makes_a_great_ux_consultant.html"
+    },
+    {
+        "title": "The vendor prefix mess - QuirksBlog",
+        "dateAdded": 1342248449049017,
+        "lastModified": 1342248449049017,
+        "description": "The vendor prefix mess - QuirksBlog",
+        "uri": "http://www.quirksmode.org/blog/archives/2012/02/the_vendor_pref.html"
+    },
+    {
+        "title": "Treasure Data Blog | Real-Time Log Collection with Fluentd and MongoDB",
+        "dateAdded": 1342248441281597,
+        "lastModified": 1349156233295251,
+        "description": "Real-Time Log Collection with Fluentd and MongoDB About This post shows how to use Fluentd-MongoDB plugin to aggregate semi-structured logs in real-time. Background Fluentd is an advanced open-source...",
+        "uri": "http://blog.treasure-data.com/post/13766262632/real-time-log-collection-with-fluentd-and-mongodb"
+    },
+    {
+        "title": "Visualizing Device Utilization",
+        "dateAdded": 1342248439821954,
+        "lastModified": 1342248439821954,
+        "description": "Visualizing Device Utilization",
+        "uri": "http://dtrace.org/blogs/brendan/2011/12/18/visualizing-device-utilization/"
+    },
+    {
+        "title": "Collaging: Getting Answers To The Questions You Don’t Know To Ask - Smashing UX Design | Smashing UX Design",
+        "dateAdded": 1342248447739231,
+        "lastModified": 1349156233296315,
+        "description": "Collaging is a projective technique by which participants select images that represent how they feel about a particular topic. The collage becomes an instrument...",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/02/06/collaging-getting-answers-questions-you-dont-know-ask/"
+    },
+    {
+        "title": "Usability Dimension: “Desirable” - Failed UX",
+        "dateAdded": 1342248447399068,
+        "lastModified": 1349156233296918,
+        "description": "DESIRABLE. We saw few examples of useful and usable sites and applications. This feature is on “desirable”. “Form follows function” is an age old principle. Everyone is up for beauty. Good looks (form) works like a charm, in any industry,",
+        "uri": "http://idyeah.com/blog/2011/01/usability-dimension-desirable/"
+    },
+    {
+        "title": "If programming languages were cars... - Machine Gestalt",
+        "dateAdded": 1342248441900193,
+        "lastModified": 1342248441900193,
+        "description": "If programming languages were cars... - Machine Gestalt",
+        "uri": "http://machinegestalt.posterous.com/if-programming-languages-were-cars"
+    },
+    {
+        "title": "Anyone know how to index a Wmv file FAST ???",
+        "dateAdded": 1342248447151609,
+        "lastModified": 1349156233297950,
+        "description": "I have some .Wmv files that i cannot fast forward or jump to ...... \nI know they have to be indexed and i have several tools that can index the files (ex. Windows Media Encoder) but it takes soooo long time, 2 hours or so. \n \nDoes anybody know a faster way so that i can fast forward or just jump to the part of the video i want to ??? \n \nThx in advance (-:",
+        "uri": "http://forum.videohelp.com/threads/275829-Anyone-know-how-to-index-a-Wmv-file-FAST"
+    },
+    {
+        "title": "Create better content by working in pairs | UX Booth",
+        "dateAdded": 1342248447855104,
+        "lastModified": 1342248447855104,
+        "description": "Create better content by working in pairs | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/write-better-content-by-working-in-pairs/"
+    },
+    {
+        "title": "Everything is a Remix",
+        "dateAdded": 1342248439501815,
+        "lastModified": 1349156233298976,
+        "description": "Everything is a Remix is a four-part video series about influence and appropriation in creation. This site also features an extensive collection of supplemental information about the series.",
+        "uri": "http://www.everythingisaremix.info/"
+    },
+    {
+        "title": "Write It Like It’s Stolen | Deadliest Web Attacks",
+        "dateAdded": 1342248449064015,
+        "lastModified": 1342248449064015,
+        "description": "Write It Like It’s Stolen | Deadliest Web Attacks",
+        "uri": "http://deadliestwebattacks.com/2012/02/26/write-it-like-its-stolen/"
+    },
+    {
+        "title": "What’s the waiter doing with the computer screen? : Jävla skitsystem!",
+        "dateAdded": 1342248439542100,
+        "lastModified": 1342248439542100,
+        "description": "What’s the waiter doing with the computer screen? : Jävla skitsystem!",
+        "uri": "http://javlaskitsystem.se/2012/02/whats-the-waiter-doing-with-the-computer-screen/"
+    },
+    {
+        "title": "That’s Arial Hot Shot: 5 Tricks for Spotting Helvetica in the Wild | Design Shack",
+        "dateAdded": 1342248443056234,
+        "lastModified": 1349156233308685,
+        "description": "Reading an article entitled That’s Arial Hot Shot: 5 Tricks for Spotting Helvetica in the Wild on Design Shack.",
+        "uri": "http://designshack.net/articles/typography/thats-arial-hot-shot-5-tricks-for-spotting-helvetica-in-the-wild/"
+    },
+    {
+        "title": "How to write low garbage real-time Javascript - Scirra.com",
+        "dateAdded": 1342248448754782,
+        "lastModified": 1349156233309810,
+        "description": "Garbage collection pauses can be a real headache in real-time Javascript apps like games.  This blog post covers some of the technical details to avoid GC overhead, which should be useful for plugin developers.",
+        "uri": "http://www.scirra.com/blog/76/how-to-write-low-garbage-real-time-javascript"
+    },
+    {
+        "title": "Big Design in Small Spaces | Design Shack",
+        "dateAdded": 1342248444751307,
+        "lastModified": 1349156233310944,
+        "description": "Reading an article entitled Big Design in Small Spaces on Design Shack.",
+        "uri": "http://designshack.net/articles/big-design-in-small-spaces/"
+    },
+    {
+        "title": "Definition Lists versus Tables - Snook.ca",
+        "dateAdded": 1342248449061009,
+        "lastModified": 1349156233312045,
+        "description": "Snook.ca - Web Design, Development and Consulting Services",
+        "uri": "http://snook.ca/archives/html_and_css/definition-lists-v-tables"
+    },
+    {
+        "title": "A List Apart: Articles: Artistic Distance",
+        "dateAdded": 1342248447253925,
+        "lastModified": 1342248447253925,
+        "description": "A List Apart: Articles: Artistic Distance",
+        "uri": "http://www.alistapart.com/articles/artistic-distance/"
+    },
+    {
+        "title": "Better Experimental Design for Better User Testing | UX Booth",
+        "dateAdded": 1342248447336479,
+        "lastModified": 1342248447336479,
+        "description": "Better Experimental Design for Better User Testing | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/better-experimental-design-for-better-user-testing/"
+    },
+    {
+        "title": "High Scalability - 7 Years of YouTube Scalability Lessons in 30 Minutes",
+        "dateAdded": 1342248439849125,
+        "lastModified": 1342248439849125,
+        "description": "High Scalability - 7 Years of YouTube Scalability Lessons in 30 Minutes",
+        "uri": "http://highscalability.com/blog/2012/3/26/7-years-of-youtube-scalability-lessons-in-30-minutes.html"
+    },
+    {
+        "title": "Coding Horror: The End of Pagination",
+        "dateAdded": 1342248446861303,
+        "lastModified": 1342248446861303,
+        "description": "Coding Horror: The End of Pagination",
+        "uri": "http://www.codinghorror.com/blog/2012/03/the-end-of-pagination.html"
+    },
+    {
+        "title": "Information Surfacing: Communicating through Design | UX Booth",
+        "dateAdded": 1342248440470812,
+        "lastModified": 1342248440470812,
+        "description": "Information Surfacing: Communicating through Design | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/information-surfacing-communicating-through-design/"
+    },
+    {
+        "title": "Keep Your Analytics Data Safe And Clean | Smashing Magazine",
+        "dateAdded": 1342248442506128,
+        "lastModified": 1349156233318115,
+        "description": "In this post we discuss a way to avoid bad implementations by putting into place a process that requires users to report on changes made to Google Analytics accounts. This not only helps avoiding mistakes, but it also helps finding the source of problems and fixing them quickly.",
+        "uri": "http://www.smashingmagazine.com/2012/04/02/keep-your-analytics-data-safe-and-clean/"
+    },
+    {
+        "title": "Don Norman on 3 ways good design makes you happy | Video on TED.com",
+        "dateAdded": 1342248441204738,
+        "lastModified": 1349156233319418,
+        "description": "TED Talks In this talk from 2003, design critic Don Norman turns his incisive eye toward beauty, fun, pleasure and emotion, as he looks at design that makes people happy. He names the three emotional cues that a well-designed product must hit to succeed.",
+        "uri": "http://www.ted.com/talks/lang/en/don_norman_on_design_and_emotion.html"
+    },
+    {
+        "title": "Nicole Sullivan - CSS Tools for Massive Websites",
+        "dateAdded": 1342248445331506,
+        "lastModified": 1342248445331506,
+        "description": "Nicole Sullivan - CSS Tools for Massive Websites",
+        "uri": "http://talks.webstock.org.nz/speakers/nicole-sullivan/css-tools-massive-websites/"
+    },
+    {
+        "title": "How I Became A Web Designer and Why I'm Successful Now - SitePoint",
+        "dateAdded": 1342248442075648,
+        "lastModified": 1349156233321736,
+        "description": "SitePoint | News, opinion, and fresh thinking in web development and web design. Learn HTML5, CSS Reference, Wordpress, JavaScript and more through SitePoint tutorials, articles and books",
+        "uri": "http://www.sitepoint.com/how-i-became-a-web-designer-and-why-im-successful-now/"
+    },
+    {
+        "title": "5 Tips for Creating and Maintaining Customer Loyalty",
+        "dateAdded": 1342248448019587,
+        "lastModified": 1349156233322808,
+        "description": "Selling software-as-a-service applications depends on customer success.  Below are five tips on how to generate and maintain customer love.",
+        "uri": "http://mashable.com/2012/04/09/customer-loyalty-tips/"
+    },
+    {
+        "title": "Method of Action - Getting pre-launch traction with web&nbsp;games",
+        "dateAdded": 1342248449239220,
+        "lastModified": 1349156233324688,
+        "description": "Method of Action is Peer to Peer Learning made enjoyable",
+        "uri": "http://method.ac/blog/advice/traction.html"
+    },
+    {
+        "title": "Testing like the TSA - (37signals)",
+        "dateAdded": 1342248441634688,
+        "lastModified": 1342248441634688,
+        "description": "Testing like the TSA - (37signals)",
+        "uri": "http://37signals.com/svn/posts/3159-testing-like-the-tsa"
+    },
+    {
+        "title": "Startups, This Is How Design Works – by Wells Riley",
+        "dateAdded": 1342248440639504,
+        "lastModified": 1349156233328210,
+        "description": "A guide to understanding digital & physical product design for startups",
+        "uri": "http://startupsthisishowdesignworks.com/"
+    },
+    {
+        "title": "Get rid of the line between design and development | Opinion | .net magazine",
+        "dateAdded": 1342248443948656,
+        "lastModified": 1349156233329372,
+        "description": "Designer and developer Bastian Allgeier says designers should learn how to code to become creatively independent and calls for an end to the strict separation between both skillsets",
+        "uri": "http://www.netmagazine.com/opinions/get-rid-line-between-design-and-development"
+    },
+    {
+        "title": "Pattern Matters",
+        "dateAdded": 1342248444754132,
+        "lastModified": 1349156233330472,
+        "description": "Pattern Matters",
+        "uri": "http://www.pattern-matters.com/"
+    },
+    {
+        "title": "When Typography Speaks Louder Than Words | Smashing Magazine",
+        "dateAdded": 1342248442574780,
+        "lastModified": 1349156233331600,
+        "description": "Clever graphic designers love to use typography to explore the interaction between the look of type and what type actually says. In communicating a message, a balance has to be achieved between the visual and the verbal aspects of a design.",
+        "uri": "http://www.smashingmagazine.com/2012/04/13/when-typography-speaks-louder-than-words/"
+    },
+    {
+        "title": "Crash Course: Design for Startups — PaulStamatiou.com",
+        "dateAdded": 1342248443583761,
+        "lastModified": 1349156233332767,
+        "description": "A detailed brain dump about how to go about starting web design for startups. Including design process, inspiration and required reading.",
+        "uri": "http://paulstamatiou.com/startup-web-design-ux-crash-course"
+    },
+    {
+        "title": "Not Just Pretty: Building Emotion Into Your Websites | Smashing UX Design",
+        "dateAdded": 1342248443880318,
+        "lastModified": 1349156233333904,
+        "description": "Emotional design has become a powerful tool in creating exceptional user experiences for websites. However, emotions did not use to play such an important role on the Web. Actually, they did not use to play any role at all; rather, they were drowned by a flood of rational functionality and efficiency. We were so busy trying to adapt to the World Wide Web as a new medium that we lost sight of its full potential. Instead of using the Internet on our terms, we adapted to its technical and, at first, impersonal nature. If it wasn’t for visionary contemporaries such as Don Norman or Aarron Walter, we might still be focusing on improving processes, neglecting the potential of emotional design.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/04/12/building-emotion-into-your-websites/"
+    },
+    {
+        "title": "Code Challenge - Try something new",
+        "dateAdded": 1342248439487591,
+        "lastModified": 1342248439487591,
+        "description": "Code Challenge - Try something new",
+        "uri": "http://fredboyle.com/codechallenge/"
+    },
+    {
+        "title": "Why Great Design Is the Future of Content Marketing",
+        "dateAdded": 1342248440055253,
+        "lastModified": 1349156233335982,
+        "description": "The beautification of the web is upon us. How will this shift toward visual storytelling impact content marketing? We explore the trends.",
+        "uri": "http://mashable.com/2012/04/25/web-design-future-content-marketing/"
+    },
+    {
+        "title": "Interesting Trends in UI Design | Design Shack",
+        "dateAdded": 1342248440387851,
+        "lastModified": 1349156233337890,
+        "description": "Reading an article entitled Interesting Trends in UI Design on Design Shack.",
+        "uri": "http://designshack.net/articles/graphics/interesting-trends-in-ui-design/"
+    },
+    {
+        "title": "How to Survive Tech Conferences",
+        "dateAdded": 1342248445008551,
+        "lastModified": 1349156233339767,
+        "description": "Writings, screencasts, and talks by Zach Holman. Zach works at GitHub and enjoys consuming cherry pies.",
+        "uri": "http://zachholman.com/posts/how-to-survive-tech-conferences/"
+    },
+    {
+        "title": "Fixing These jQuery | adam j. sontag",
+        "dateAdded": 1342248442622806,
+        "lastModified": 1342248442622806,
+        "description": "Fixing These jQuery | adam j. sontag",
+        "uri": "http://fixingthesejquery.com/#slide1"
+    },
+    {
+        "title": "The Google attack: How I attacked myself using Google Spreadsheets and I ramped up a $1000 bandwidth bill | A Computer Scientist in a Business School",
+        "dateAdded": 1342248449073050,
+        "lastModified": 1342248449073050,
+        "description": "The Google attack: How I attacked myself using Google Spreadsheets and I ramped up a $1000 bandwidth bill | A Computer Scientist in a Business School",
+        "uri": "http://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html"
+    },
+    {
+        "title": "The design of a signage typeface | I love typography, the typography and fonts blog",
+        "dateAdded": 1342248442974269,
+        "lastModified": 1349156233344933,
+        "description": "The story begins in 2006 with a trip down Route 66. Day in, day out, I looked at U.S. traffic signs that were either set in the old, somewhat clumsy “FHWA",
+        "uri": "http://ilovetypography.com/2012/04/19/the-design-of-a-signage-typeface/"
+    },
+    {
+        "title": "Package Design Inspiration for Spring 2012 | Splashnology",
+        "dateAdded": 1342248440946859,
+        "lastModified": 1342248440946859,
+        "description": "Package Design Inspiration for Spring 2012 | Splashnology",
+        "uri": "http://www.splashnology.com/article/package-design-inspiration-for-spring-2012/5339/"
+    },
+    {
+        "title": "From Parchment to Data Lockers: History of the Password [INFOGRAPHIC]",
+        "dateAdded": 1342248441488501,
+        "lastModified": 1349156233348442,
+        "description": "This infographic shows how the personal password and information theft have evolved from the Bronze Age through today.",
+        "uri": "http://mashable.com/2012/05/04/password-history-infographic/"
+    },
+    {
+        "title": "Recruiter Spam",
+        "dateAdded": 1342248445250878,
+        "lastModified": 1342248445250878,
+        "description": "Recruiter Spam",
+        "uri": "http://www.hackerdojo.com/RecruiterSpam"
+    },
+    {
+        "title": "Recursive Drawing",
+        "dateAdded": 1342248441295122,
+        "lastModified": 1342248441295122,
+        "description": "Recursive Drawing",
+        "uri": "http://recursivedrawing.com/"
+    },
+    {
+        "title": "Comics and UX, Part 1: Cross-disciplinary Techniques | UX Booth",
+        "dateAdded": 1342248444048812,
+        "lastModified": 1342248444048812,
+        "description": "Comics and UX, Part 1: Cross-disciplinary Techniques | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/comics-and-ux-part-1-cross-disciplinary-techniques/"
+    },
+    {
+        "title": "How To Choose The Right Face For A Beautiful Body | Smashing Magazine",
+        "dateAdded": 1342248447333171,
+        "lastModified": 1349156233354043,
+        "description": "Some of today’s most successful typefaces were designed to excel in very specific areas of use: Frutiger grew out of airport signage, Georgia and Verdana were among the first mass-market fonts created for on screen reading,...",
+        "uri": "http://www.smashingmagazine.com/2012/05/21/how-to-choose-the-right-face-for-a-beautiful-body/"
+    },
+    {
+        "title": "The History Of Usability: From Simplicity To Complexity | Smashing UX Design",
+        "dateAdded": 1342248447899795,
+        "lastModified": 1349156233355112,
+        "description": "The story of usability is a perverse journey from simplicity to complexity. That’s right, from simplicity to complexity—not the other way around.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/05/23/the-history-of-usability-from-simplicity-to-complexity/"
+    },
+    {
+        "title": "Engineering Infrastructures For Humans | Standalone Sysadmin",
+        "dateAdded": 1342248447195004,
+        "lastModified": 1342248447195004,
+        "description": "Engineering Infrastructures For Humans | Standalone Sysadmin",
+        "uri": "http://www.standalone-sysadmin.com/blog/2012/05/engineeringinfrastructures/"
+    },
+    {
+        "title": "Comics and UX, Part 2: Flow and Content | UX Booth",
+        "dateAdded": 1342248444870629,
+        "lastModified": 1342248444870629,
+        "description": "Comics and UX, Part 2: Flow and Content | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/comics-and-ux-part-2-flow-and-content/"
+    },
+    {
+        "title": "Use Abstract Geometry to Create Stunning Designs | Design Shack",
+        "dateAdded": 1342248446846112,
+        "lastModified": 1349156233364107,
+        "description": "Reading an article entitled Use Abstract Geometry to Create Stunning Designs on Design Shack.",
+        "uri": "http://designshack.net/articles/inspiration/use-abstract-geometry-to-create-stunning-designs/"
+    },
+    {
+        "title": "Zed A. Shaw - The Web Will Die When OOP Dies on Vimeo",
+        "dateAdded": 1342248443976097,
+        "lastModified": 1349156233366603,
+        "description": "This video was filmed during The Web Rebels conference which took place on the 24-25th of May 2012 in Oslo, Norway. It is a non-profit conference for everyone who loves programming applications and services using web technology.   Track us: http://webrebels.org…",
+        "uri": "http://vimeo.com/43380467"
+    },
+    {
+        "title": "5 Useful Lies to Tell User Research Participants | UX Booth",
+        "dateAdded": 1342248443204707,
+        "lastModified": 1342248443204707,
+        "description": "5 Useful Lies to Tell User Research Participants | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/5-useful-lies-to-tell-user-research-participants/"
+    },
+    {
+        "title": "Design Patterns: When Breaking The Rules Is OK | Smashing UX Design",
+        "dateAdded": 1342248439145452,
+        "lastModified": 1349156233371299,
+        "description": "Exploring the history and purpose of design patterns and when they should and should not be used.",
+        "uri": "http://uxdesign.smashingmagazine.com/2012/06/06/design-patterns-when-breaking-rules-ok/"
+    },
+    {
+        "title": "Production Node.js Secrets - @dshaw",
+        "dateAdded": 1342248445344825,
+        "lastModified": 1349156233373814,
+        "description": "Node.js production lessons learned.",
+        "uri": "http://dshaw.github.com/2012-05-jsday/"
+    },
+    {
+        "title": "Why Your Links Should Never Say “Click Here” - UX Movement",
+        "dateAdded": 1342248449331760,
+        "lastModified": 1349156233376420,
+        "description": "Have you ever wanted your users to click your links, but didn’t know how to get them to act? When some designers run into this problem they’re tempted to use the words click here on their links.",
+        "uri": "http://uxmovement.com/content/why-your-links-should-never-say-click-here/"
+    },
+    {
+        "title": "NPM tricks | Guillermo Rauch's Devthought",
+        "dateAdded": 1342248448872919,
+        "lastModified": 1342248448872919,
+        "description": "NPM tricks | Guillermo Rauch's Devthought",
+        "uri": "http://www.devthought.com/2012/02/17/npm-tricks/"
+    },
+    {
+        "title": "Leveraging Stereotypes in Design: Masculine vs. Feminine Typography | Design Shack",
+        "dateAdded": 1342766915644835,
+        "lastModified": 1349156233381414,
+        "description": "Reading an article entitled Leveraging Stereotypes in Design: Masculine vs. Feminine Typography on Design Shack.",
+        "uri": "http://designshack.net/articles/typography/leveraging-stereotypes-in-design-masculine-vs-feminine-typography/"
+    },
+    {
+        "title": "SEO essentials for startups in under 10 minutes",
+        "dateAdded": 1343202568675610,
+        "lastModified": 1343202579800241,
+        "description": "SEO essentials for startups in under 10 minutes",
+        "uri": "http://googlewebmastercentral.blogspot.com/2012/06/seo-essentials-for-startups-in-under-10.html"
+    },
+    {
+        "title": "Working on a Team as a UX Designer - UX Booth | UX Booth",
+        "dateAdded": 1343202584412594,
+        "lastModified": 1343202591208210,
+        "description": "Working on a Team as a UX Designer - UX Booth | UX Booth",
+        "uri": "http://www.uxbooth.com/blog/working-on-a-team-as-a-ux-designer/"
+    },
+    {
+        "title": "UX is simple - Stuff in my head - by Alex Morris",
+        "dateAdded": 1343514654108826,
+        "lastModified": 1349156233389843,
+        "description": "UX is simple If something is unclear - clarify it If something is arduous - lighten the load If something is complex - make it simpler If something is over verbose - strip it back If something is...",
+        "uri": "http://mistermorris.tumblr.com/post/26063374202/ux-is-simple"
+    },
+    {
+        "title": "Tags in CSS files — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "dateAdded": 1344413474119447,
+        "lastModified": 1344413480341008,
+        "description": "Tags in CSS files — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "uri": "http://csswizardry.com/2012/08/tags-in-css-files/"
+    },
+    {
+        "title": "Cube Drone - Automated Testing & Inversion of Control - YouTube",
+        "dateAdded": 1347002248873591,
+        "lastModified": 1349156233395106,
+        "description": "A short lecture on the value and practice of unit testing. Notes/References: 0. Clone High, Episode 1. (I call 'fair use' - but I'll probably have to produce...",
+        "uri": "http://www.youtube.com/watch?v=GSqrmuZQxz0"
+    },
+    {
+        "title": "Panabee: Name Generator",
+        "dateAdded": 1342248447878781,
+        "lastModified": 1349156233399169,
+        "description": "Find cool domain names.  Find and check domain names by seeing related terms, translations, clever variations, Twitter comments, and more.",
+        "uri": "http://panabee.com/"
+    },
+    {
+        "title": "Domain Panel",
+        "dateAdded": 1342248441105605,
+        "lastModified": 1342248441105605,
+        "description": "Domain Panel",
+        "uri": "https://domainpanel.com/"
+    },
+    {
+        "title": "Google Apps Control Panel",
+        "dateAdded": 1342248442419418,
+        "lastModified": 1342248442419418,
+        "description": "Google Apps Control Panel",
+        "uri": "https://www.google.com/a/cpanel/twolfson.com"
+    },
+    {
+        "title": "Domain Tools",
+        "dateAdded": 1342248440108508,
+        "lastModified": 1342248449483986,
+        "description": "Domain Tools"
+    },
+    {
+        "title": "Microsoft Exchange Email",
+        "dateAdded": 1342248439132840,
+        "lastModified": 1342248442536297,
+        "description": "Microsoft Exchange Email",
+        "uri": "https://webmail.ihostexchange.net/owa/"
+    },
+    {
+        "title": "Email",
+        "dateAdded": 1342248442514404,
+        "lastModified": 1342248442536130,
+        "description": "Email"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248440741140,
+        "lastModified": 1342248440741140,
+        "description": ""
+    },
+    {
+        "title": "jsPerf: JavaScript performance playground",
+        "dateAdded": 1342248442020126,
+        "lastModified": 1349156233406377,
+        "description": "A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet is most efficient.",
+        "uri": "http://jsperf.com/"
+    },
+    {
+        "title": "Benchmarking",
+        "dateAdded": 1342248439305544,
+        "lastModified": 1342248442020126,
+        "description": "Benchmarking"
+    },
+    {
+        "title": "Browser Sandbox - Run any browser from the web",
+        "dateAdded": 1342248447830333,
+        "lastModified": 1342248447830333,
+        "description": "Browser Sandbox - Run any browser from the web",
+        "uri": "http://spoon.net/browsers/"
+    },
+    {
+        "title": "Speed Tracer - Google Web Toolkit - Google Code",
+        "dateAdded": 1342248440510339,
+        "lastModified": 1342248440510339,
+        "description": "Speed Tracer - Google Web Toolkit - Google Code",
+        "uri": "http://code.google.com/webtoolkit/speedtracer/"
+    },
+    {
+        "title": "WebPagetest",
+        "dateAdded": 1342248443286504,
+        "lastModified": 1349156233417234,
+        "description": "Speed up the performance of your web pages with an automated analysis",
+        "uri": "http://www.webpagetest.org/"
+    },
+    {
+        "title": "resizeMyBrowser",
+        "dateAdded": 1342248441775087,
+        "lastModified": 1349156233419684,
+        "description": "A simple, useful and beautiful browser window resize app for Web designers and developers.",
+        "uri": "http://resizemybrowser.com/"
+    },
+    {
+        "title": "JesCov - JavaScript code coverage",
+        "dateAdded": 1342248447748257,
+        "lastModified": 1342248447748257,
+        "description": "JesCov - JavaScript code coverage",
+        "uri": "http://jescov.olabini.com/"
+    },
+    {
+        "title": "BrowserCam : Browser testing and cross browser compatibility testing products and tools, including free cross browser testing tool.",
+        "dateAdded": 1342248449315919,
+        "lastModified": 1349156233424145,
+        "description": "Screenshot service and remote access service for cross browser testing, cross browser compatibility testing, web browser testing, and html email testing.",
+        "uri": "http://www.browsercam.com/"
+    },
+    {
+        "title": "Page Trawler - Website content audits made easy",
+        "dateAdded": 1342248440792946,
+        "lastModified": 1349156233426591,
+        "description": "Page Trawler is a content audit tool for people who make websites - user experience designers, content strategists, marketers, information architects, and anybody who makes bits of the web.",
+        "uri": "http://www.pagetrawler.com/"
+    },
+    {
+        "title": "Blitz.io - Making load and performance testing a fun sport",
+        "dateAdded": 1342248442892223,
+        "lastModified": 1349156233429043,
+        "description": "Blitz makes load and performance testing of your web site, API, iPhone and Android and Facebook apps a fun sport. Instantly launch 1,000,000 users from around the world against your site to see if it can hold up. Integrate blitz into your continuous deployment with our Ruby Gem. Can you take the hits?",
+        "uri": "http://blitz.io/"
+    },
+    {
+        "title": "Profiling CSS for fun and profit. Optimization notes.",
+        "dateAdded": 1342248440361195,
+        "lastModified": 1342248440498438,
+        "description": "Profiling CSS for fun and profit. Optimization notes.",
+        "uri": "http://perfectionkills.com/profiling-css-for-fun-and-profit-optimization-notes/"
+    },
+    {
+        "title": "Webpage Test",
+        "dateAdded": 1342248441029786,
+        "lastModified": 1349156233434699,
+        "description": "A tool for testing webpage markup, styles, and scripts.",
+        "uri": "http://www.webdevout.net/test"
+    },
+    {
+        "title": "Testing/Page Analysis/Profiling",
+        "dateAdded": 1342248440486965,
+        "lastModified": 1342248449505286,
+        "description": "Testing/Page Analysis/Profiling"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248445496847,
+        "lastModified": 1342248445496847,
+        "description": ""
+    },
+    {
+        "title": "JSLint,The JavaScript Code Quality Tool",
+        "dateAdded": 1342248444769197,
+        "lastModified": 1342248444769197,
+        "description": "JSLint,The JavaScript Code Quality Tool",
+        "uri": "http://jslint.com/"
+    },
+    {
+        "title": "JSHint, A JavaScript Code Quality Tool",
+        "dateAdded": 1342248446814132,
+        "lastModified": 1349156233440528,
+        "description": "The JavaScript Code Quality Tool",
+        "uri": "http://www.jshint.org/"
+    },
+    {
+        "title": "CSS Lint",
+        "dateAdded": 1342248439462607,
+        "lastModified": 1342248442057282,
+        "description": "CSS Lint",
+        "uri": "http://csslint.net/"
+    },
+    {
+        "title": "HTML/XML Validator (W3C)",
+        "dateAdded": 1342248440905187,
+        "lastModified": 1349156233445843,
+        "description": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
+        "uri": "http://validator.w3.org/#validate_by_input"
+    },
+    {
+        "title": "CSS Validator (W3C)",
+        "dateAdded": 1342248447440682,
+        "lastModified": 1342248447440682,
+        "description": "CSS Validator (W3C)",
+        "uri": "http://jigsaw.w3.org/css-validator/#validate_by_input"
+    },
+    {
+        "title": "JSHint, A JavaScript Code Quality Tool",
+        "dateAdded": 1342248443957828,
+        "lastModified": 1349156233450260,
+        "description": "The JavaScript Code Quality Tool",
+        "uri": "http://jshint.org/"
+    },
+    {
+        "title": "The W3C Markup Validation Service",
+        "dateAdded": 1342248439407681,
+        "lastModified": 1349156233452730,
+        "description": "W3C's easy-to-use\n      markup validation service, based on SGML and XML parsers.",
+        "uri": "http://validator.w3.org/"
+    },
+    {
+        "title": "Validators / Lint",
+        "dateAdded": 1342248442033923,
+        "lastModified": 1342248449825190,
+        "description": "Validators / Lint"
+    },
+    {
+        "title": "Closure Compiler Service",
+        "dateAdded": 1342248441935719,
+        "lastModified": 1342248447869453,
+        "description": "Closure Compiler Service",
+        "uri": "http://closure-compiler.appspot.com/home"
+    },
+    {
+        "title": "aaencode - Encode any JavaScript program to Japanese style emoticons (^_^)",
+        "dateAdded": 1342248441671356,
+        "lastModified": 1342248447867803,
+        "description": "aaencode - Encode any JavaScript program to Japanese style emoticons (^_^)",
+        "uri": "http://utf-8.jp/public/aaencode.html"
+    },
+    {
+        "title": "JSF*ck - []()!+ Obfuscator",
+        "dateAdded": 1342248447299343,
+        "lastModified": 1342248447869932,
+        "description": "JSF*ck - []()!+ Obfuscator",
+        "uri": "http://utf-8.jp/public/jsfuck.html"
+    },
+    {
+        "title": "PimpMyJS - Your minified or pretty printed JavaScript",
+        "dateAdded": 1342248448517510,
+        "lastModified": 1349156233462332,
+        "description": "PimpMyJS is a javascript minifier using uglifyjs! You can use it's interface or simply the webservice to minify or get a pretty print of your javascript code",
+        "uri": "http://pimpmyjs.com/"
+    },
+    {
+        "title": "Obfuscators / Minifiers",
+        "dateAdded": 1342248447857535,
+        "lastModified": 1342248450827462,
+        "description": "Obfuscators / Minifiers"
+    },
+    {
+        "title": "weinre - Remote Debugger",
+        "dateAdded": 1342248442494216,
+        "lastModified": 1342248444369100,
+        "description": "weinre - Remote Debugger",
+        "uri": "http://phonegap.github.com/weinre/"
+    },
+    {
+        "title": "Debugging",
+        "dateAdded": 1342248444346691,
+        "lastModified": 1342248444368931,
+        "description": "Debugging"
+    },
+    {
+        "title": "Javascript Beautifier",
+        "dateAdded": 1342248443457699,
+        "lastModified": 1342248447040414,
+        "description": "Javascript Beautifier",
+        "uri": "http://jsbeautifier.org/"
+    },
+    {
+        "title": "XML Beautifier",
+        "dateAdded": 1342248448425105,
+        "lastModified": 1349156233471235,
+        "description": "An online XML formatter.",
+        "uri": "http://xmlbeautifier.com/default.aspx"
+    },
+    {
+        "title": "Json Parser Online",
+        "dateAdded": 1342248449283125,
+        "lastModified": 1349156233473195,
+        "description": "Analyze your JSON string as you type with an online Javascript parser, featuring tree view and syntax highlighting. Processing is done locally: no data send to server.",
+        "uri": "http://json.parser.online.fr/"
+    },
+    {
+        "title": "PimpMyJS - Your minified or pretty printed JavaScript",
+        "dateAdded": 1342248442178235,
+        "lastModified": 1349156233475371,
+        "description": "PimpMyJS is a javascript minifier using uglifyjs! You can use it's interface or simply the webservice to minify or get a pretty print of your javascript code",
+        "uri": "http://pimpmyjs.com/"
+    },
+    {
+        "title": "Aardwolf - Remote Debugger",
+        "dateAdded": 1342248441434641,
+        "lastModified": 1342248447035792,
+        "description": "Aardwolf - Remote Debugger",
+        "uri": "http://lexandera.com/aardwolf/"
+    },
+    {
+        "title": "CSS SuperScrub",
+        "dateAdded": 1342248442786479,
+        "lastModified": 1342248447039116,
+        "description": "CSS SuperScrub",
+        "uri": "http://isnoop.net/tools/css.php"
+    },
+    {
+        "title": "Beautifiers",
+        "dateAdded": 1342248447021541,
+        "lastModified": 1342248450735527,
+        "description": "Beautifiers"
+    },
+    {
+        "title": "cenanozen/nodemonw - Windows file monitoring for node",
+        "dateAdded": 1342248448445888,
+        "lastModified": 1349156233483370,
+        "description": "nodemonw - nodemon for windows",
+        "uri": "https://github.com/cenanozen/nodemonw"
+    },
+    {
+        "title": "zen-coding - Set of plugins for HTML and CSS hi-speed coding - Google Project Hosting",
+        "dateAdded": 1342248439202600,
+        "lastModified": 1342248443456315,
+        "description": "zen-coding - Set of plugins for HTML and CSS hi-speed coding - Google Project Hosting",
+        "uri": "http://code.google.com/p/zen-coding/"
+    },
+    {
+        "title": "xdissent/ievms - IE Virtual Machines",
+        "dateAdded": 1342248448610552,
+        "lastModified": 1349156233488100,
+        "description": "ievms - Automated installation of the Microsoft IE App Compat virtual machines",
+        "uri": "https://github.com/xdissent/ievms/"
+    },
+    {
+        "title": "Internet Explorer VMs",
+        "dateAdded": 1342248447736190,
+        "lastModified": 1349156233490611,
+        "description": "Windows Virtual PC VHDs for testing websites with different Internet Explorer versions [Last Updated: 8/16/11]",
+        "uri": "http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=11575"
+    },
+    {
+        "title": "Testing/Iteration (Personal)",
+        "dateAdded": 1342248443432000,
+        "lastModified": 1342248449911645,
+        "description": "Testing/Iteration (Personal)"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248441785288,
+        "lastModified": 1342248441785288,
+        "description": ""
+    },
+    {
+        "title": "jsFiddle - Online Editor for the Web (JavaScript, MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)",
+        "dateAdded": 1342248442596278,
+        "lastModified": 1342248442596278,
+        "description": "jsFiddle - Online Editor for the Web (JavaScript, MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)",
+        "uri": "http://jsfiddle.net/"
+    },
+    {
+        "title": "codepad",
+        "dateAdded": 1342248448057943,
+        "lastModified": 1342248448057943,
+        "description": "codepad",
+        "uri": "http://codepad.org/"
+    },
+    {
+        "title": "Tinkerbin",
+        "dateAdded": 1342248449147153,
+        "lastModified": 1342248449147153,
+        "description": "Tinkerbin",
+        "uri": "http://tinkerbin.com/"
+    },
+    {
+        "title": "Readme This : Testing github's README formats",
+        "dateAdded": 1342248447260616,
+        "lastModified": 1342248447260616,
+        "description": "Readme This : Testing github's README formats",
+        "uri": "http://readme-this.27smiles.com/"
+    },
+    {
+        "title": "javascript sandbox console demo - joss crowcroft",
+        "dateAdded": 1342248448006398,
+        "lastModified": 1349156233503097,
+        "description": "an interactive javascript console built on backbone.js, perfect for js library/plugin demos and homepages",
+        "uri": "http://josscrowcroft.github.com/javascript-sandbox-console/"
+    },
+    {
+        "title": "dabblet - CSS Playground",
+        "dateAdded": 1342248440464281,
+        "lastModified": 1342248440464281,
+        "description": "dabblet - CSS Playground",
+        "uri": "http://dabblet.com/"
+    },
+    {
+        "title": "Markdown in Javascript (Showdown)",
+        "dateAdded": 1342248447719657,
+        "lastModified": 1342248447719657,
+        "description": "Markdown in Javascript (Showdown)",
+        "uri": "http://softwaremaniacs.org/playground/showdown-highlight/"
+    },
+    {
+        "title": "ThreeNodes.js - WebGL sandbox",
+        "dateAdded": 1342248447202510,
+        "lastModified": 1349156233509792,
+        "description": "ThreeNodes.js - vvvv \"clone\" in javascript/webgl",
+        "uri": "https://github.com/idflood/ThreeNodes.js"
+    },
+    {
+        "title": "repl.it - Lots of repl's for different languages",
+        "dateAdded": 1342248445465090,
+        "lastModified": 1342248445465090,
+        "description": "repl.it - Lots of repl's for different languages",
+        "uri": "http://repl.it/"
+    },
+    {
+        "title": "tmpltr - Template playground",
+        "dateAdded": 1342248445138543,
+        "lastModified": 1349156233514307,
+        "description": "tmpltr is a jsFiddle clone for realtime JSON templating and CSS editing.",
+        "uri": "http://rocktronica.github.com/tmpltr/"
+    },
+    {
+        "title": "Learning Three.js: Particles: Online Editor for Sparks.js",
+        "dateAdded": 1342248441861116,
+        "lastModified": 1342248441861116,
+        "description": "Learning Three.js: Particles: Online Editor for Sparks.js",
+        "uri": "http://learningthreejs.com/blog/2011/12/19/particles-online-editor-for-sparks-js/"
+    },
+    {
+        "title": "cubic-bezier tester",
+        "dateAdded": 1342248439435049,
+        "lastModified": 1342248440256970,
+        "description": "cubic-bezier tester",
+        "uri": "http://cubic-bezier.com/#.17,.67,.83,.67"
+    },
+    {
+        "title": "Shapesmith - CAD",
+        "dateAdded": 1342248448802024,
+        "lastModified": 1342248448802024,
+        "description": "Shapesmith - CAD",
+        "uri": "http://shapesmith.net/"
+    },
+    {
+        "title": "Sandbox",
+        "dateAdded": 1342248440243694,
+        "lastModified": 1342248449494312,
+        "description": "Sandbox"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248443844331,
+        "lastModified": 1342248443844331,
+        "description": ""
+    },
+    {
+        "title": "TypeWith.me: Live Text Document Collaboration!",
+        "dateAdded": 1342248448791963,
+        "lastModified": 1342248448791963,
+        "description": "TypeWith.me: Live Text Document Collaboration!",
+        "uri": "http://typewith.me/"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248440058058,
+        "lastModified": 1342248446943434,
+        "description": ""
+    },
+    {
+        "title": "typeto.me",
+        "dateAdded": 1342248448913803,
+        "lastModified": 1349156233526797,
+        "description": "Talk in actual real time.",
+        "uri": "http://typeto.me/"
+    },
+    {
+        "title": "tuttijs",
+        "dateAdded": 1342248448413188,
+        "lastModified": 1342248448413188,
+        "description": "tuttijs",
+        "uri": "http://tuttijs.com/"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248449152888,
+        "lastModified": 1342248449152888,
+        "description": ""
+    },
+    {
+        "title": "Scribblar",
+        "dateAdded": 1342248448976763,
+        "lastModified": 1349156233531803,
+        "description": "Scribblar is a free online collaboration tool that is perfect for online tutoring. It features live audio, chat, whiteboard, image sharing, document sharing and more. Used by learners, trainers and schools around the world, Scribblar is quickly becoming the favourite tool for online collaboration and tutoring.",
+        "uri": "http://www.scribblar.com/"
+    },
+    {
+        "title": "SketcHub",
+        "dateAdded": 1342248448069300,
+        "lastModified": 1342248448069300,
+        "description": "SketcHub",
+        "uri": "http://sketchub.com/"
+    },
+    {
+        "title": "online text editor - collabedit",
+        "dateAdded": 1342248439209082,
+        "lastModified": 1349156233535320,
+        "description": "Collabedit is an online text editor that allows real-time collaboration.",
+        "uri": "http://collabedit.com/"
+    },
+    {
+        "title": "iEtherPad: Realtime Collaborative Text Editing",
+        "dateAdded": 1342248447758098,
+        "lastModified": 1342248447758098,
+        "description": "iEtherPad: Realtime Collaborative Text Editing",
+        "uri": "http://ietherpad.com/"
+    },
+    {
+        "title": "Piratepad Beta",
+        "dateAdded": 1342248440881755,
+        "lastModified": 1342248446945780,
+        "description": "Piratepad Beta",
+        "uri": "http://piratepad.net/front-page/"
+    },
+    {
+        "title": "Stypi - Text collaboration",
+        "dateAdded": 1342248445242355,
+        "lastModified": 1349156233542935,
+        "description": "Stypi makes it easy to collaborate on documents online.",
+        "uri": "http://www.stypi.com/"
+    },
+    {
+        "title": "hastebin - the elegant pastebin",
+        "dateAdded": 1342248449078464,
+        "lastModified": 1342248449078464,
+        "description": "hastebin - the elegant pastebin",
+        "uri": "http://www.hastebin.com/"
+    },
+    {
+        "title": "Collaboration",
+        "dateAdded": 1342248446926622,
+        "lastModified": 1342248450732275,
+        "description": "Collaboration"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248447442986,
+        "lastModified": 1342248447442986,
+        "description": ""
+    },
+    {
+        "title": "Samuel L Ipsum | Alternative Lorem Ipsum Generator",
+        "dateAdded": 1342248443835712,
+        "lastModified": 1349156233549296,
+        "description": "Samuel L Ipsum is an alternative Lorem Ipsum Generator, it uses quotes from films which Samuel L Jackson has starred in place of the standard ipsum text.",
+        "uri": "http://slipsum.com/"
+    },
+    {
+        "title": "Lorem Ipsum - All the facts - Lipsum generator",
+        "dateAdded": 1342248443598969,
+        "lastModified": 1342248443598969,
+        "description": "Lorem Ipsum - All the facts - Lipsum generator",
+        "uri": "http://lipsum.com/"
+    },
+    {
+        "title": "HTML-Ipsum",
+        "dateAdded": 1342248444305077,
+        "lastModified": 1342248444305077,
+        "description": "HTML-Ipsum",
+        "uri": "http://html-ipsum.com/"
+    },
+    {
+        "title": "lorempixel - placeholder images for every case",
+        "dateAdded": 1342248448594047,
+        "lastModified": 1349156233555760,
+        "description": "Placeholder Images for every case. Webdesign or Print. Just put a custom url in your html and you receive a proper placeholder picture",
+        "uri": "http://lorempixel.com/"
+    },
+    {
+        "title": "Fillerama: A Filler Text Generator",
+        "dateAdded": 1342248443621946,
+        "lastModified": 1342248443621946,
+        "description": "Fillerama: A Filler Text Generator",
+        "uri": "http://chrisvalleskey.com/fillerama/"
+    },
+    {
+        "title": "http://jpg.to/",
+        "dateAdded": 1342248443631164,
+        "lastModified": 1342248443631164,
+        "description": "http://jpg.to/",
+        "uri": "http://jpg.to/"
+    },
+    {
+        "title": "Lorem Ipsum",
+        "dateAdded": 1342248441297361,
+        "lastModified": 1342248449686929,
+        "description": "Lorem Ipsum"
+    },
+    {
+        "title": "Color Scheme Designer 3",
+        "dateAdded": 1342248439666528,
+        "lastModified": 1342248439666528,
+        "description": "Color Scheme Designer 3",
+        "uri": "http://colorschemedesigner.com/"
+    },
+    {
+        "title": "kuler",
+        "dateAdded": 1342248445334474,
+        "lastModified": 1342248445334474,
+        "description": "kuler",
+        "uri": "http://kuler.adobe.com/#create/fromacolor"
+    },
+    {
+        "title": "Color Wheel Version 2.1",
+        "dateAdded": 1342248441564275,
+        "lastModified": 1342248441564275,
+        "description": "Color Wheel Version 2.1",
+        "uri": "http://ficml.org/jemimap/style/color/wheel.html"
+    },
+    {
+        "title": "Patternizer - Stripe Pattern Generator Tool",
+        "dateAdded": 1342248440370441,
+        "lastModified": 1349156233570096,
+        "description": "Patternizer is an easy to use stripe pattern generator. It's lots of fun and free!",
+        "uri": "http://patternizer.com/vh4"
+    },
+    {
+        "title": "ColRD: Gradient Creator",
+        "dateAdded": 1342248447365425,
+        "lastModified": 1349156233572599,
+        "description": "CSS3 gradient generator. Drag & Drop GIMP .GGR files into your browser to view them! Export your gradient into CSS or SVG.",
+        "uri": "http://colrd.com/create/gradient/"
+    },
+    {
+        "title": "25 \"Time-saving\" Generators for Designers - HTML",
+        "dateAdded": 1342248445208370,
+        "lastModified": 1349156233575046,
+        "description": "25 \"Time-saving\" Online Generators for Web Designers",
+        "uri": "http://www.awcore.com/html/news/14/25-Time-saving-Generators_en"
+    },
+    {
+        "title": "Colors/Patterns/Gradients",
+        "dateAdded": 1342248439411494,
+        "lastModified": 1342248449469531,
+        "description": "Colors/Patterns/Gradients"
+    },
+    {
+        "title": "Pixlr - Online photo editor",
+        "dateAdded": 1342248444328823,
+        "lastModified": 1349156233578213,
+        "description": "Pixlr Editor is a free online photo editor with a prefessional touch. Fix, adjust and filter your images. Manage your images in your browser, no registration required jump right in!",
+        "uri": "http://pixlr.com/editor/"
+    },
+    {
+        "title": "Voxel - 3D Pixel Editor",
+        "dateAdded": 1342248441289509,
+        "lastModified": 1342248443485141,
+        "description": "Voxel - 3D Pixel Editor",
+        "uri": "http://apps.blois.us/Voxel"
+    },
+    {
+        "title": "Image Editors",
+        "dateAdded": 1342248443463376,
+        "lastModified": 1342248449912264,
+        "description": "Image Editors"
+    },
+    {
+        "title": "Subtle Patterns | Free textures for your next web project",
+        "dateAdded": 1342248443542605,
+        "lastModified": 1342248443542605,
+        "description": "Subtle Patterns | Free textures for your next web project",
+        "uri": "http://subtlepatterns.com/"
+    },
+    {
+        "title": "Image Repositories",
+        "dateAdded": 1342248440212923,
+        "lastModified": 1342248443542605,
+        "description": "Image Repositories"
+    },
+    {
+        "title": "CopyPasteCharacter.com",
+        "dateAdded": 1342248448705871,
+        "lastModified": 1342248448705871,
+        "description": "CopyPasteCharacter.com",
+        "uri": "http://www.copypastecharacter.com/"
+    },
+    {
+        "title": "http://use.fontorie.com/",
+        "dateAdded": 1342248448730273,
+        "lastModified": 1342248448730273,
+        "description": "http://use.fontorie.com/",
+        "uri": "http://use.fontorie.com/"
+    },
+    {
+        "title": "Font Squirrel | Handpicked free fonts for graphic designers with commercial-use licenses.",
+        "dateAdded": 1342248442643729,
+        "lastModified": 1349156233590860,
+        "description": "Font Squirrel scours the internet in search of FREE, highest-quality, designer-friendly, commercial-use fonts and presents them for easy downloading. We don't have the most, but we do have the best.",
+        "uri": "http://www.fontsquirrel.com/"
+    },
+    {
+        "title": "Font Repositories",
+        "dateAdded": 1342248441508199,
+        "lastModified": 1342248449813109,
+        "description": "Font Repositories"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248439195246,
+        "lastModified": 1342248440569494,
+        "description": ""
+    },
+    {
+        "title": "Regular Expression (Flash)",
+        "dateAdded": 1342248439277364,
+        "lastModified": 1342248440576537,
+        "description": "Regular Expression (Flash)",
+        "uri": "http://gskinner.com/RegExr/"
+    },
+    {
+        "title": "Quick Diff Online Tool",
+        "dateAdded": 1342248445294661,
+        "lastModified": 1342248445294661,
+        "description": "Quick Diff Online Tool",
+        "uri": "http://www.quickdiff.com/"
+    },
+    {
+        "title": "Cloud9 - Your code anywhere, anytime",
+        "dateAdded": 1342248439548406,
+        "lastModified": 1342248440591181,
+        "description": "Cloud9 - Your code anywhere, anytime",
+        "uri": "http://cloud9ide.com/"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248448534993,
+        "lastModified": 1342248448534993,
+        "description": ""
+    },
+    {
+        "title": "Down For Everyone Or Just Me -> Check if your website is down or up?",
+        "dateAdded": 1342248440447193,
+        "lastModified": 1342248440610272,
+        "description": "Down For Everyone Or Just Me -> Check if your website is down or up?",
+        "uri": "http://www.downforeveryoneorjustme.com/"
+    },
+    {
+        "title": "",
+        "dateAdded": 1342248448064086,
+        "lastModified": 1342248448064086,
+        "description": ""
+    },
+    {
+        "title": "JS Ninja Battle",
+        "dateAdded": 1342248442369787,
+        "lastModified": 1342248442406274,
+        "description": "JS Ninja Battle",
+        "uri": "http://jsninjabattle.no.de/"
+    },
+    {
+        "title": "The Web IQ Quiz #webcred",
+        "dateAdded": 1342248448630339,
+        "lastModified": 1349156233607078,
+        "description": "IQ challenges you to test your knowledge of the Internet and earn your WebCred.",
+        "uri": "http://www.webiqquiz.com/"
+    },
+    {
+        "title": "HTML5 Elements Quiz",
+        "dateAdded": 1342248445071438,
+        "lastModified": 1342248445071438,
+        "description": "HTML5 Elements Quiz",
+        "uri": "http://thehtml5quiz.com/"
+    },
+    {
+        "title": "Proof of Skill",
+        "dateAdded": 1342248442389368,
+        "lastModified": 1342248449872287,
+        "description": "Proof of Skill"
+    },
+    {
+        "title": "Learn to code | Codecademy",
+        "dateAdded": 1342248448895030,
+        "lastModified": 1349156233611508,
+        "description": "Codecademy is the easiest way to learn how to code. It's interactive, fun, and you can do it with your friends.",
+        "uri": "http://www.codecademy.com/"
+    },
+    {
+        "title": "Code School Enrollment - Code School",
+        "dateAdded": 1342248439772407,
+        "lastModified": 1349156233615022,
+        "description": "Enjoy access to all courses and Code TV screencasts with a monthly subscription to Code School.",
+        "uri": "http://www.codeschool.com/enrollments/WGo5bmdTVXRxbVRaRXVOY01xUE9ldzlYN3dXbVF0UmNuV0lYdWdEUkRrTT0tLWxxd2dNbkhsRkRXQjBsMDA3dDNPYmc9PQ=="
+    },
+    {
+        "title": "Codecademy Labs",
+        "dateAdded": 1342248448843564,
+        "lastModified": 1342248448843564,
+        "description": "Codecademy Labs",
+        "uri": "http://labs.codecademy.com/"
+    },
+    {
+        "title": "Webpad Hackasaurus - Teach HTML",
+        "dateAdded": 1342248440765529,
+        "lastModified": 1342248447994596,
+        "description": "Webpad Hackasaurus - Teach HTML",
+        "uri": "http://webpad.hackasaurus.org/"
+    },
+    {
+        "title": "Learn Web Design, Web Development, and iOS Development - Treehouse",
+        "dateAdded": 1342248445507915,
+        "lastModified": 1342248447997043,
+        "description": "Learn Web Design, Web Development, and iOS Development - Treehouse",
+        "uri": "http://teamtreehouse.com/"
+    },
+    {
+        "title": "jQuery Air - Learn jQuery",
+        "dateAdded": 1342248442013914,
+        "lastModified": 1342248447996273,
+        "description": "jQuery Air - Learn jQuery",
+        "uri": "http://jqueryair.com/"
+    },
+    {
+        "title": "Code Learning (Basic)",
+        "dateAdded": 1342248447980956,
+        "lastModified": 1342248450829747,
+        "description": "Code Learning (Basic)"
+    },
+    {
+        "title": "Shape Type, the letter shaping game",
+        "dateAdded": 1342248448870029,
+        "lastModified": 1349156233628415,
+        "description": "A typography game",
+        "uri": "http://shape.method.ac/"
+    },
+    {
+        "title": "Learn Web Design, Web Development, and iOS Development - Treehouse",
+        "dateAdded": 1342248448617270,
+        "lastModified": 1342248448617270,
+        "description": "Learn Web Design, Web Development, and iOS Development - Treehouse",
+        "uri": "http://teamtreehouse.com/"
+    },
+    {
+        "title": "Design Learning",
+        "dateAdded": 1342248440703972,
+        "lastModified": 1342248449664164,
+        "description": "Design Learning"
+    },
+    {
+        "title": "Kendo UI Feed Reader",
+        "dateAdded": 1342248441111934,
+        "lastModified": 1342248448960641,
+        "description": "Kendo UI Feed Reader",
+        "uri": "http://htmlui.com/demos/kendo/feedreader/index.html"
+    },
+    {
+        "title": "Feed Tools",
+        "dateAdded": 1342248448956438,
+        "lastModified": 1342248448960447,
+        "description": "Feed Tools"
+    },
+    {
+        "title": "Textify.it - Turn Images Into Text",
+        "dateAdded": 1342248441596543,
+        "lastModified": 1349156233635889,
+        "description": "Drag images onto Textify.it and it will turn them into text portraits. The characteristics of textified images can be adjusted via settings such as font size and character set.",
+        "uri": "http://textify.it/"
+    },
+    {
+        "title": "Tinyproj - Recruit for short term projects",
+        "dateAdded": 1342248449084333,
+        "lastModified": 1342248449084333,
+        "description": "Tinyproj - Recruit for short term projects",
+        "uri": "https://tinyproj.com/"
+    },
+    {
+        "title": "Stylate - Domains and logos for sale with idea behind them",
+        "dateAdded": 1342248441192811,
+        "lastModified": 1348640861573963,
+        "description": "Stylate - Domains and logos for sale with idea behind them",
+        "uri": "http://stylate.com/"
+    },
+    {
+        "title": "Moving Made Easy | Move with Movearoo",
+        "dateAdded": 1342248441237988,
+        "lastModified": 1349156233642545,
+        "description": "Make your move simple with Movearoo. Find tips, moving checklists, moving services and all you need to connect for your new home on one site.",
+        "uri": "http://www.movearoo.com/"
+    },
+    {
+        "title": "Intellisult - An intelligent way to insult",
+        "dateAdded": 1342248439864383,
+        "lastModified": 1349156233645041,
+        "description": "Intellisult is the best and most intelligent insult generator on the web! What makes Intellisult so smart is not just the clever insults it is able to generate, but the way those insults are actually created. While other insult generators use limited lists of preformed insults, Intellisult is able to generate millions of unique insults by using a unique and sophisticated algorithm.",
+        "uri": "http://intellisult.com/"
+    },
+    {
+        "title": "Ixoth - Siri's Little Helper",
+        "dateAdded": 1342248442760070,
+        "lastModified": 1342248442760070,
+        "description": "Ixoth - Siri's Little Helper",
+        "uri": "http://ixoth.com/"
+    },
+    {
+        "title": "List of Things For Sale",
+        "dateAdded": 1342248443680467,
+        "lastModified": 1342248443680467,
+        "description": "List of Things For Sale",
+        "uri": "http://listofthingsforsale.com/"
+    },
+    {
+        "title": "Blogic: Create a WordPress blog theme to match your website",
+        "dateAdded": 1342248443942989,
+        "lastModified": 1349156233651920,
+        "description": "Blogic allows you to quickly generate a WordPress blog theme that matches your website's look and feel.",
+        "uri": "http://www.blogic.com/"
+    },
+    {
+        "title": "manifestR - offline web apps made easy (well easier)",
+        "dateAdded": 1342248443070680,
+        "lastModified": 1342248443070680,
+        "description": "manifestR - offline web apps made easy (well easier)",
+        "uri": "http://westciv.com/tools/manifestR/"
+    },
+    {
+        "title": "Unicode Character Recognition",
+        "dateAdded": 1342248445178947,
+        "lastModified": 1349156233658049,
+        "description": "You need to find a specific Unicode Character? With Shapecatcher.com you can search through a database of characters by simply drawing your character into a box. It can find the most similar character shapes for your drawing.",
+        "uri": "http://shapecatcher.com/"
+    },
+    {
+        "title": "fakecall.net - helping polite introverts stay productive",
+        "dateAdded": 1342248440209649,
+        "lastModified": 1349156233660406,
+        "description": "Helping polite introverts stay productive.",
+        "uri": "http://www.fakecall.net/"
+    },
+    {
+        "title": "Google Swiffy - swf to HTML5",
+        "dateAdded": 1342248449355865,
+        "lastModified": 1349156233662896,
+        "description": "Swiffy converts SWF files to HTML5, allowing you to reuse Flash content on devices without a Flash player.",
+        "uri": "http://www.google.com/doubleclick/studio/swiffy/"
+    },
+    {
+        "title": "Drinkify",
+        "dateAdded": 1342248443236986,
+        "lastModified": 1342248443236986,
+        "description": "Drinkify",
+        "uri": "http://www.drinkify.org/"
+    },
+    {
+        "title": "Muckrock - Freedom of Information",
+        "dateAdded": 1342248441528606,
+        "lastModified": 1342248441528606,
+        "description": "Muckrock - Freedom of Information",
+        "uri": "http://www.muckrock.com/"
+    },
+    {
+        "title": "&! — Productivity Manager",
+        "dateAdded": 1342248440063515,
+        "lastModified": 1342248440604959,
+        "description": "&! — Productivity Manager",
+        "uri": "https://andbang.com/"
+    },
+    {
+        "title": "Sublime Text: The text editor you'll fall in love with",
+        "dateAdded": 1342248442957757,
+        "lastModified": 1349156233671724,
+        "description": "Sublime Text is a sophisticated text editor for code, html and prose - any kind of text file. You'll love the slick user interface and extraordinary features.",
+        "uri": "http://www.sublimetext.com/"
+    },
+    {
+        "title": "Top 5 Browsers from Nov 2010 to Nov 2011 | StatCounter Global Stats",
+        "dateAdded": 1342248442816658,
+        "lastModified": 1349156233674240,
+        "description": "Tracks the Market Share of Search Engines, Browsers and Operating Systems including Mobile from over 15 billion monthly page views.",
+        "uri": "http://gs.statcounter.com/"
+    },
+    {
+        "title": "3 New Ways to Connect With Content That Interests You",
+        "dateAdded": 1342248448554214,
+        "lastModified": 1349156233676813,
+        "description": "This week, we chose three startups that are helping to tailor content in a digital environment over-saturated with information.",
+        "uri": "http://mashable.com/2011/12/24/app-startups/"
+    },
+    {
+        "title": "ProduKey - Recover lost product key (CD-Key) of Windows/MS-Office/SQL Server",
+        "dateAdded": 1342248441726195,
+        "lastModified": 1349156233679348,
+        "description": "Recover lost product key (CD-Key) of Microsoft Office 2003, Office 2007, Windows XP, Windows Server 2003/2008, Windows 7, and more.",
+        "uri": "http://www.nirsoft.net/utils/product_cd_key_viewer.html"
+    },
+    {
+        "title": "CSS Button | Create and share your css style",
+        "dateAdded": 1342248448440561,
+        "lastModified": 1342248448440561,
+        "description": "CSS Button | Create and share your css style",
+        "uri": "http://www.cssbutton.me/"
+    },
+    {
+        "title": "Node.js Reference / Manual",
+        "dateAdded": 1342248447348665,
+        "lastModified": 1349156233683453,
+        "description": "A collection of Node.js tutorials",
+        "uri": "http://nodemanual.org/latest/nodejs_ref_guide/"
+    },
+    {
+        "title": "Color, a color matching game",
+        "dateAdded": 1342248441869470,
+        "lastModified": 1349156233684943,
+        "description": "Method of Action is Peer to Peer Learning made enjoyable",
+        "uri": "http://method.ac/blog/design/color.html"
+    },
+    {
+        "title": "QuickGrapher",
+        "dateAdded": 1342248446855417,
+        "lastModified": 1342248446855417,
+        "description": "QuickGrapher",
+        "uri": "http://www.hunterdavis.com/quickgrapher/"
+    },
+    {
+        "title": "Resp. Design Bookmarklet Generator",
+        "dateAdded": 1342248442410392,
+        "lastModified": 1349156233687297,
+        "description": "BenjaminKeen.com: free scripts, games and other stuff of note.",
+        "uri": "http://www.benjaminkeen.com/misc/bricss/"
+    },
+    {
+        "title": "Pictos - Make icon fonts",
+        "dateAdded": 1342248445135768,
+        "lastModified": 1349156233693156,
+        "description": "Pictos Font Server: Serving Custom Built Icon Fonts to Your Website. Also Hand Crafted, Infinitely Scalable & Royalty-Free Icons for User Interface Designers.",
+        "uri": "http://pictos.cc/server"
+    },
+    {
+        "title": "SQL Fiddle",
+        "dateAdded": 1342248449191843,
+        "lastModified": 1342248449191843,
+        "description": "SQL Fiddle",
+        "uri": "http://sqlfiddle.com/"
+    },
+    {
+        "title": "Domainr: domain name search, short URLs, international domain registration",
+        "dateAdded": 1342248440873279,
+        "lastModified": 1349156233698641,
+        "description": "Domainr finds domain names and short URLs. Instantly check availability and register for all top-level domains.",
+        "uri": "http://domai.nr/"
+    },
+    {
+        "title": "Sweet16 Hex Editor",
+        "dateAdded": 1342248447913065,
+        "lastModified": 1342248447913065,
+        "description": "Sweet16 Hex Editor",
+        "uri": "http://www.bananascript.com/sweet16/"
+    },
+    {
+        "title": "Image To Data URI Convertor - webSemantics",
+        "dateAdded": 1342248445114323,
+        "lastModified": 1349156233703258,
+        "description": "An online tool which converts images into base 64 for use in a data URI scheme.",
+        "uri": "http://websemantics.co.uk/online_tools/image_to_data_uri_convertor/"
+    },
+    {
+        "title": "5 Online Playgrounds for HTML, CSS and JavaScript Compared | Design Shack",
+        "dateAdded": 1342248449352794,
+        "lastModified": 1349156233705861,
+        "description": "Reading an article entitled 5 Online Playgrounds for HTML, CSS and JavaScript Compared on Design Shack.",
+        "uri": "http://designshack.net/articles/css/5-online-playgrounds-for-html-css-and-javascript-compared/"
+    },
+    {
+        "title": "CSSDesk - Online CSS Sandbox",
+        "dateAdded": 1342248448953791,
+        "lastModified": 1349156233708468,
+        "description": "CSSDesk is a online HTML/CSS sandbox. Experiment with CSS, see the results live, and share your code with others",
+        "uri": "http://cssdesk.com/"
+    },
+    {
+        "title": "/packer/ - Javascript minifcation tool",
+        "dateAdded": 1342248439476639,
+        "lastModified": 1349156233710950,
+        "description": "A Javascript compressor.",
+        "uri": "http://dean.edwards.name/packer/"
+    },
+    {
+        "title": "JSMin - Javascript Minification Library",
+        "dateAdded": 1342248439997555,
+        "lastModified": 1342248440602984,
+        "description": "JSMin - Javascript Minification Library",
+        "uri": "http://fmarcia.info/jsmin/test.html"
+    },
+    {
+        "title": "Sass - Syntactically Awesome Stylesheets",
+        "dateAdded": 1342248443079340,
+        "lastModified": 1349156233716776,
+        "description": "Syntactically Awesome Stylesheets",
+        "uri": "http://sass-lang.com/docs.html"
+    },
+    {
+        "title": "Code Beautifier: CSS Formatter and Optimiser",
+        "dateAdded": 1342248444080428,
+        "lastModified": 1349156233719339,
+        "description": "Code Beautifier  CSS Formatter and Optimiser - Online CSS parser and Optimiser",
+        "uri": "http://www.codebeautifier.com/"
+    },
+    {
+        "title": "Mystik Map Editor v1.5 - Mystik RPG",
+        "dateAdded": 1342248448992062,
+        "lastModified": 1349156233721854,
+        "description": "A jQuery 2D tile map editor used to create maps for Mystik RPG.",
+        "uri": "http://mystikrpg.com/mapeditor/#guider=start"
+    },
+    {
+        "title": "Nettuts+ Prefixr - Prefix your CSS",
+        "dateAdded": 1342248447974367,
+        "lastModified": 1349156233724335,
+        "description": "Cross-browser CSS in seconds.",
+        "uri": "http://prefixr.com/"
+    },
+    {
+        "title": "CSS3 Please! - CSS3 Prefixer",
+        "dateAdded": 1342248442491540,
+        "lastModified": 1342248442491540,
+        "description": "CSS3 Please! - CSS3 Prefixer",
+        "uri": "http://css3please.com/"
+    },
+    {
+        "title": "Morning Star Synth",
+        "dateAdded": 1342248440225186,
+        "lastModified": 1342248440608043,
+        "description": "Morning Star Synth",
+        "uri": "http://bitterspring.net/ms/morningstar/"
+    },
+    {
+        "title": "CSS Gradient Generator - ColorZilla.com",
+        "dateAdded": 1342248445309533,
+        "lastModified": 1349156233730994,
+        "description": "A powerful Photoshop-like CSS gradient editor",
+        "uri": "http://www.colorzilla.com/gradient-editor/"
+    },
+    {
+        "title": "Canvas to LaTeX",
+        "dateAdded": 1342248443757273,
+        "lastModified": 1349156233733560,
+        "description": "Write your equation and get your result in laTeX or in MathML",
+        "uri": "http://webdemo.visionobjects.com/equation.html?locale=default"
+    },
+    {
+        "title": "musicForProgramming();",
+        "dateAdded": 1342248447767776,
+        "lastModified": 1349156233736034,
+        "description": "A collaborative series of mixes designed for listening while programming (compatible with other activities)",
+        "uri": "http://musicforprogramming.net/"
+    },
+    {
+        "title": "CRON.IO - Web based cron service",
+        "dateAdded": 1342248445014082,
+        "lastModified": 1349156233739364,
+        "description": "Cron.io is a web based cron service with an api",
+        "uri": "http://cron.io/"
+    },
+    {
+        "title": "OneShar.es - Self-destructive info",
+        "dateAdded": 1342248441927217,
+        "lastModified": 1349156233741885,
+        "description": "A simple way to share information with other people, only once.",
+        "uri": "https://oneshar.es/"
+    },
+    {
+        "title": "Remote-Tilt - emulate motion events",
+        "dateAdded": 1342248440743279,
+        "lastModified": 1342248440743279,
+        "description": "Remote-Tilt - emulate motion events",
+        "uri": "http://remote-tilt.com/"
+    },
+    {
+        "title": "Asciiflow - ASCII Flow Diagram Tool",
+        "dateAdded": 1342248448621093,
+        "lastModified": 1349156233747759,
+        "description": "Simple web based ascii flow diagram drawing tool, draw boxes, lines, arrows and type, then export straight to text/html.",
+        "uri": "http://www.asciiflow.com/"
+    },
+    {
+        "title": "Color Palette Generator",
+        "dateAdded": 1342248440813994,
+        "lastModified": 1342248440813994,
+        "description": "Color Palette Generator",
+        "uri": "http://jrm.cc/color-palette-generator/index.php"
+    },
+    {
+        "title": "Developing a Color Scheme and Color Management Tips | Design Shack",
+        "dateAdded": 1342248441172159,
+        "lastModified": 1349156233752641,
+        "description": "Reading an article entitled Developing a Color Scheme and Color Management Tips on Design Shack.",
+        "uri": "http://designshack.net/articles/inspiration/developing-a-color-scheme-and-color-management-tips/"
+    },
+    {
+        "title": "SimpLESS - Your LESS CSS Compiler",
+        "dateAdded": 1342248445199794,
+        "lastModified": 1349156233755152,
+        "description": "Wheter you're a designer or a hardcore programmer, SimpLESS is perfect for you. It compiles your *.less files into valid CSS.",
+        "uri": "http://wearekiss.com/simpless"
+    },
+    {
+        "title": "Perfection kills » Javascript quiz",
+        "dateAdded": 1342248448066181,
+        "lastModified": 1342248448066181,
+        "description": "Perfection kills » Javascript quiz",
+        "uri": "http://perfectionkills.com/javascript-quiz/"
+    },
+    {
+        "title": "tmux - Terminal multiplexer",
+        "dateAdded": 1342248445073896,
+        "lastModified": 1342248445073896,
+        "description": "tmux - Terminal multiplexer",
+        "uri": "http://tmux.sourceforge.net/"
+    },
+    {
+        "title": "Animated gif builder",
+        "dateAdded": 1342248442126007,
+        "lastModified": 1349156233762001,
+        "description": "Submit - GIF Site - That's So True",
+        "uri": "http://www.thatssotrue.com/submit?rnav"
+    },
+    {
+        "title": "musicForProgramming();",
+        "dateAdded": 1342248441754789,
+        "lastModified": 1349156233764523,
+        "description": "A collaborative series of mixes designed for listening while programming (compatible with other activities)",
+        "uri": "http://www.musicforprogramming.net/"
+    },
+    {
+        "title": "QR Pixel - Add pixel art to QR codes!",
+        "dateAdded": 1342248439740414,
+        "lastModified": 1342248440594305,
+        "description": "QR Pixel - Add pixel art to QR codes!",
+        "uri": "http://www.qrpixel.com/"
+    },
+    {
+        "title": "Memorize.com - Learn and Remember",
+        "dateAdded": 1342248448998236,
+        "lastModified": 1349156233769150,
+        "description": "Create learning material for yourself and others.  Create, Learn, and Share pages with interactive learning modes (flashcard, matching, or multiple choice) that are automatically created from your facts.  No signup required!",
+        "uri": "http://memorize.com/"
+    },
+    {
+        "title": "Lettercase - Social font manager",
+        "dateAdded": 1342248441852510,
+        "lastModified": 1349156233771624,
+        "description": "The First Social Font Manager.",
+        "uri": "http://lettercaseapp.com/"
+    },
+    {
+        "title": "Picozu Editor - Image editor",
+        "dateAdded": 1342248448434433,
+        "lastModified": 1349156233775331,
+        "description": "Picozu is a drawing and photo retouching application built on jQuery, HTML 5 and CSS3. Make sure you use a modern browser if you want to experience it.",
+        "uri": "http://www.picozu.com/editor"
+    },
+    {
+        "title": "Use Gridpak to Roll Your Own Responsive Grid | Design Shack",
+        "dateAdded": 1342248446808252,
+        "lastModified": 1349156233778067,
+        "description": "Reading an article entitled Use Gridpak to Roll Your Own Responsive Grid on Design Shack.",
+        "uri": "http://designshack.net/articles/css/use-gridpak-to-roll-your-own-responsive-grid/"
+    },
+    {
+        "title": "CodePen - Another TinkerBin",
+        "dateAdded": 1342248442982645,
+        "lastModified": 1342248442982645,
+        "description": "CodePen - Another TinkerBin",
+        "uri": "http://www.codepen.io/"
+    },
+    {
+        "title": "Plunker - Multi-file tinkerbin",
+        "dateAdded": 1342248443154175,
+        "lastModified": 1342248443154175,
+        "description": "Plunker - Multi-file tinkerbin",
+        "uri": "http://plunker.no.de/edit"
+    },
+    {
+        "title": "Time.is - exact time, any time zone",
+        "dateAdded": 1342248442367173,
+        "lastModified": 1349156233784981,
+        "description": "Current local time in Sunnyvale",
+        "uri": "http://time.is/"
+    },
+    {
+        "title": "Bugmenot.com - Shared website passwords",
+        "dateAdded": 1342248441654364,
+        "lastModified": 1349156233787601,
+        "description": "Access and share logins for websites that require you to register in order to view content.",
+        "uri": "http://www.bugmenot.com/"
+    },
+    {
+        "title": "Bounce: GPS + Calendar + Traffic = On Time, Every Time",
+        "dateAdded": 1342248440701052,
+        "lastModified": 1349156233790142,
+        "description": "Bounce is a mobile app that uses your GPS, calendar, and traffic data to automatically notify you when it's time to leave for your next appointment.",
+        "uri": "http://www.needtobounce.com/"
+    },
+    {
+        "title": "Numbers API - Interesting facts about numbers",
+        "dateAdded": 1342248446871268,
+        "lastModified": 1349156233792640,
+        "description": "An API for interesting facts about numbers.",
+        "uri": "http://numbersapi.com/#42"
+    },
+    {
+        "title": "jkbr/httpie - A more human curl",
+        "dateAdded": 1342248442584548,
+        "lastModified": 1349156233795175,
+        "description": "httpie - HTTPie is a CLI, cURL-like tool for humans",
+        "uri": "https://github.com/jkbr/httpie"
+    },
+    {
+        "title": "30 Alternatives to Lorem Ipsum | Splashnology",
+        "dateAdded": 1342248446840808,
+        "lastModified": 1342248446840808,
+        "description": "30 Alternatives to Lorem Ipsum | Splashnology",
+        "uri": "http://www.splashnology.com/article/30-alternatives-to-lorem-ipsum/4897/"
+    },
+    {
+        "title": "GitHub Flavored Markdown - Live Preview",
+        "dateAdded": 1342248441605565,
+        "lastModified": 1342248441605565,
+        "description": "GitHub Flavored Markdown - Live Preview",
+        "uri": "http://github.github.com/github-flavored-markdown/preview.html"
+    },
+    {
+        "title": "ringmark - Browser testing",
+        "dateAdded": 1342248440678698,
+        "lastModified": 1342248440678698,
+        "description": "ringmark - Browser testing",
+        "uri": "http://rng.io/"
+    },
+    {
+        "title": "Flutter | Gesture Recognition on Your Webcam",
+        "dateAdded": 1342248439977523,
+        "lastModified": 1349156233812186,
+        "description": "Download Flutter to control iTunes & Spotify using gestures through your webcam",
+        "uri": "https://flutter.io/"
+    },
+    {
+        "title": "Stashmarks - Search bookmarks in Chrome",
+        "dateAdded": 1342248439791556,
+        "lastModified": 1342248440597232,
+        "description": "Stashmarks - Search bookmarks in Chrome",
+        "uri": "http://stashmarks.com/"
+    },
+    {
+        "title": "Scriptular - JS regexp tester",
+        "dateAdded": 1342248442617121,
+        "lastModified": 1342248442617121,
+        "description": "Scriptular - JS regexp tester",
+        "uri": "http://scriptular.com/"
+    },
+    {
+        "title": "DLLU::Electric Potential Pong",
+        "dateAdded": 1342248449312911,
+        "lastModified": 1349156233817923,
+        "description": "Pong",
+        "uri": "http://www.dllu.net/pong/"
+    },
+    {
+        "title": "Live coding in d3 - Range dragger for numbers",
+        "dateAdded": 1342248447323981,
+        "lastModified": 1342248447323981,
+        "description": "Live coding in d3 - Range dragger for numbers",
+        "uri": "http://gabrielflor.it/blog-water"
+    },
+    {
+        "title": "Easily manage all your social network settings",
+        "dateAdded": 1342248441096413,
+        "lastModified": 1349156233820026,
+        "description": "Having trouble managing your social network settings? We're to help you manage sites such as Facebook, Twitter, Pinterest, YouTube and more!",
+        "uri": "http://blisscontrol.com/"
+    },
+    {
+        "title": "Z-Type - Typing game",
+        "dateAdded": 1342248442427358,
+        "lastModified": 1349156233821168,
+        "description": "Type To Shoot Game made with ImpactJS",
+        "uri": "http://www.phoboslab.org/ztype/"
+    },
+    {
+        "title": "Gridpak: The Responsive Grid Generator | Smashing Coding",
+        "dateAdded": 1342248440431873,
+        "lastModified": 1349156233822463,
+        "description": "Challenges and problems inevitably arise when adopting new ideas and ways of working. One of the main stumbling blocks we found as an agency was in efficiently and cost-effectively implementing one of the fundamental ingredients of responsive design: a flexible grid based layout.Challenges and problems inevitably arise when adopting new ideas and ways of working. One of the main stumbling blocks we found as an agency was in efficiently and cost-effectively implementing one of the fundamental ingredients of responsive design: a flexible grid based layout.",
+        "uri": "http://coding.smashingmagazine.com/2012/03/19/gridpak-the-responsive-grid-generator/"
+    },
+    {
+        "title": "Quiz CSS - SitePoint",
+        "dateAdded": 1342248441287004,
+        "lastModified": 1342248441287004,
+        "description": "Quiz CSS - SitePoint",
+        "uri": "http://www.sitepoint.com/quiz-css/"
+    },
+    {
+        "title": "domesticcatsoftware/DCIntrospect - iOS toolset",
+        "dateAdded": 1342248449103087,
+        "lastModified": 1349156233824601,
+        "description": "DCIntrospect - Small library of visual debugging tools for iOS.",
+        "uri": "https://github.com/domesticcatsoftware/DCIntrospect"
+    },
+    {
+        "title": "Colllor - Color palette the right way",
+        "dateAdded": 1342248439926747,
+        "lastModified": 1349156233825720,
+        "description": "Simple yet powerful color tool. Create consistent color schemes by using the right color shade, tone and tint values.",
+        "uri": "http://colllor.com/"
+    },
+    {
+        "title": "CSSWARP - CSS Text to Path Generator",
+        "dateAdded": 1342248439755717,
+        "lastModified": 1349156233826829,
+        "description": "CSSWarp is a tool for \"warping\" HTML text directly in the browser. It will apply text transforms to your CSS in a way that you will have native text in an HTML page that looks as if it were created with Illustrators attach to path tool.",
+        "uri": "http://csswarp.eleqtriq.com/"
+    },
+    {
+        "title": "Tron: an HTML5 Game in 219 Bytes - SitePoint",
+        "dateAdded": 1342248439230620,
+        "lastModified": 1342248440571897,
+        "description": "Tron: an HTML5 Game in 219 Bytes - SitePoint",
+        "uri": "http://www.sitepoint.com/html5-tron-game-219-bytes/#fbid=wrlYg-rjUhb"
+    },
+    {
+        "title": "WHODAT - Alternative who.is lookup",
+        "dateAdded": 1342248448702161,
+        "lastModified": 1342248448702161,
+        "description": "WHODAT - Alternative who.is lookup",
+        "uri": "http://whodat.biz/"
+    },
+    {
+        "title": "Every Time Zone",
+        "dateAdded": 1342248440975060,
+        "lastModified": 1342248440975060,
+        "description": "Every Time Zone",
+        "uri": "http://everytimezone.com/"
+    },
+    {
+        "title": "Style Tiles",
+        "dateAdded": 1342248449273804,
+        "lastModified": 1349156233830621,
+        "description": "A Style Tile is a design deliverable consisting of fonts, colors and interface elements that communicates the evolution of a visual brand for the web. Learn how to use them here.",
+        "uri": "http://styletil.es/"
+    },
+    {
+        "title": "Welcome | Legit (Git Workflow for Humans)",
+        "dateAdded": 1342248441269831,
+        "lastModified": 1342248441269831,
+        "description": "Welcome | Legit (Git Workflow for Humans)",
+        "uri": "http://www.git-legit.org/"
+    },
+    {
+        "title": "Plunker - Edit, fork, and preview anything online",
+        "dateAdded": 1342248443118453,
+        "lastModified": 1342248443118453,
+        "description": "Plunker - Edit, fork, and preview anything online",
+        "uri": "http://plunker.no.de/"
+    },
+    {
+        "title": "3 Free Apps for Testing Your Responsive Designs Online | Design Shack",
+        "dateAdded": 1342248442326567,
+        "lastModified": 1349156233834163,
+        "description": "Reading an article entitled 3 Free Apps for Testing Your Responsive Designs Online on Design Shack.",
+        "uri": "http://designshack.net/articles/css/3-free-apps-for-testing-your-responsive-designs-online/"
+    },
+    {
+        "title": "Mosh - resistant and robust shell",
+        "dateAdded": 1342248441831822,
+        "lastModified": 1349156233834905,
+        "description": "Mobile shell that supports roaming and intelligent local echo. Like SSH secure shell, but allows mobility and more responsive and robust.",
+        "uri": "http://mosh.mit.edu/"
+    },
+    {
+        "title": "10/GUI - The next mouse/desktop",
+        "dateAdded": 1342248442356626,
+        "lastModified": 1342248442356626,
+        "description": "10/GUI - The next mouse/desktop",
+        "uri": "http://10gui.com/video/"
+    },
+    {
+        "title": "WebGL Inspector",
+        "dateAdded": 1342248439423396,
+        "lastModified": 1342248440587392,
+        "description": "WebGL Inspector",
+        "uri": "http://benvanik.github.com/WebGL-Inspector/"
+    },
+    {
+        "title": "Mockd - iPhone UI Mock Ups, Like A Boss",
+        "dateAdded": 1342248442971464,
+        "lastModified": 1349156233836593,
+        "description": "UI mockup toolkit for iPhone, like a boss!",
+        "uri": "http://piktobot.com/mockd/"
+    },
+    {
+        "title": "cssarrowplease",
+        "dateAdded": 1342248448690517,
+        "lastModified": 1342248448690517,
+        "description": "cssarrowplease",
+        "uri": "http://cssarrowplease.com/"
+    },
+    {
+        "title": "HTML5 Bookmarks - daily news articles and bookmarks",
+        "dateAdded": 1342248439330801,
+        "lastModified": 1349156233837720,
+        "description": "HTML5 Bookmarks with daily news articles and bookmarks about html, javascript, css.",
+        "uri": "http://html5bookmarks.com/"
+    },
+    {
+        "title": "JSLintMate - Quick, simple JSLint and JSHint in TextMate",
+        "dateAdded": 1342248445526966,
+        "lastModified": 1342248445526966,
+        "description": "JSLintMate - Quick, simple JSLint and JSHint in TextMate",
+        "uri": "http://rondevera.github.com/jslintmate/"
+    },
+    {
+        "title": "All commands sorted by votes | commandlinefu.com",
+        "dateAdded": 1342248441946902,
+        "lastModified": 1349156233842960,
+        "description": "A repository for the most elegant and useful UNIX commands.  Great commands can be shared, discussed and voted on to provide a comprehensive resource for working from the command-line",
+        "uri": "http://www.commandlinefu.com/commands/browse/sort-by-votes"
+    },
+    {
+        "title": "Fiddle Salad - Poor tinkerbin",
+        "dateAdded": 1342248448935381,
+        "lastModified": 1349156233844145,
+        "description": "Choose among CSS, HTML, and JavaScript preprocessors. Develop web applications faster with real-time preview and enhanced debugging. ",
+        "uri": "http://fiddlesalad.com/"
+    },
+    {
+        "title": "JavaScript Compressor and Comparison Tool",
+        "dateAdded": 1342248444296405,
+        "lastModified": 1349156233845285,
+        "description": "A JavaScript Compressor Rater.",
+        "uri": "http://compressorrater.thruhere.net/"
+    },
+    {
+        "title": "Fire.app: Dead Easy HTML Prototyping",
+        "dateAdded": 1342248444763213,
+        "lastModified": 1342248444763213,
+        "description": "Fire.app: Dead Easy HTML Prototyping",
+        "uri": "http://fireapp.handlino.com/"
+    },
+    {
+        "title": "VIM Adventures",
+        "dateAdded": 1342248444299289,
+        "lastModified": 1349156233848373,
+        "description": "VIM Adventures is an online game based on VIM's keyboard shortcuts. It's the \"Zelda meets text editing\" game. So come have some fun and learn some VIM!",
+        "uri": "http://vim-adventures.com/"
+    },
+    {
+        "title": "Amazing magical template engine chooser",
+        "dateAdded": 1342248443130761,
+        "lastModified": 1342248443130761,
+        "description": "Amazing magical template engine chooser",
+        "uri": "http://garann.github.com/template-chooser/"
+    },
+    {
+        "title": "Wizek/Tree - TDD for the browser",
+        "dateAdded": 1342248445035162,
+        "lastModified": 1349156233850489,
+        "description": "Tree - Javascript unit testing framework for the browser (and for Node.js in the near future).",
+        "uri": "https://github.com/Wizek/Tree"
+    },
+    {
+        "title": "Underpants - Fingerprint your device",
+        "dateAdded": 1342248440017536,
+        "lastModified": 1342248440604012,
+        "description": "Underpants - Fingerprint your device",
+        "uri": "http://lab.cubiq.org/underpants/"
+    },
+    {
+        "title": "Octogit - Connecting git and github",
+        "dateAdded": 1342248440650850,
+        "lastModified": 1349156233852802,
+        "description": "Octogit - A free, open source solution for creating github repositories from the commandline avoid the usual copy and paste. Keep up to date on issues, and much more.",
+        "uri": "http://myusuf3.github.com/octogit/"
+    },
+    {
+        "title": "code search ⋅ Search linux source code",
+        "dateAdded": 1342248445023622,
+        "lastModified": 1342248445023622,
+        "description": "code search ⋅ Search linux source code",
+        "uri": "http://livegrep.com/search?"
+    },
+    {
+        "title": "Live Scratchpad add-on for the Firefox Scratchpad",
+        "dateAdded": 1342248448919300,
+        "lastModified": 1342248448919300,
+        "description": "Live Scratchpad add-on for the Firefox Scratchpad",
+        "uri": "http://neonux.github.com/LiveScratchpad/"
+    },
+    {
+        "title": "adobe/brackets - JavaScript code editor",
+        "dateAdded": 1342248448079647,
+        "lastModified": 1349156233857090,
+        "description": "brackets - An open source code editor for the web, written in JavaScript, HTML and CSS.",
+        "uri": "https://github.com/adobe/brackets"
+    },
+    {
+        "title": "StandaloneWebInspector.app - Simple wrapper for WebKit inspector for remote debugging - The Changelog - Open Source moves fast. Keep up.",
+        "dateAdded": 1342248448013060,
+        "lastModified": 1349156233858564,
+        "description": "StandaloneWebInspector.app - Simple wrapper for WebKit inspector for remote debugging https://github.com/subtleGradient/StandaloneWebInspector.app Thomas Aylott has created a simple wrapper for...",
+        "uri": "http://thechangelog.com/post/22380183266/standalonewebinspector-app-simple-wrapper-for-webkit-ins"
+    },
+    {
+        "title": "Just My Type - Find your font",
+        "dateAdded": 1342248446742396,
+        "lastModified": 1342248446742396,
+        "description": "Just My Type - Find your font",
+        "uri": "http://daneden.me/type/"
+    },
+    {
+        "title": "DailyJS: Windows and Node: Windows Performance Monitor",
+        "dateAdded": 1342248441698616,
+        "lastModified": 1342248441698616,
+        "description": "DailyJS: Windows and Node: Windows Performance Monitor",
+        "uri": "http://dailyjs.com/2012/05/10/windows-and-node-2/"
+    },
+    {
+        "title": "Shifticons — Mix and match web font icons",
+        "dateAdded": 1342248444759789,
+        "lastModified": 1342248444759789,
+        "description": "Shifticons — Mix and match web font icons",
+        "uri": "https://www.shifticons.com/"
+    },
+    {
+        "title": "DragonDrop, from ShinyPlasticBag - A better drag and drop",
+        "dateAdded": 1342248446851959,
+        "lastModified": 1342248446851959,
+        "description": "DragonDrop, from ShinyPlasticBag - A better drag and drop",
+        "uri": "https://shinyplasticbag.com/dragondrop/"
+    },
+    {
+        "title": "JS Hotline: (877) 300-2187",
+        "dateAdded": 1342248447603991,
+        "lastModified": 1349156233866433,
+        "description": "This is a FREE helpline run by volunteers and supported by the community. The folks on the other end of the phone are fellow JavaScript developers donating a little time for the good of our community and the web as a whole.\n \n Are you stuck or need help getting started? Let's talk through your problem.\n ",
+        "uri": "http://javascript.pockethotline.com/"
+    },
+    {
+        "title": "Translate into multiple languages at the same time",
+        "dateAdded": 1342248439245996,
+        "lastModified": 1342248440574238,
+        "description": "Translate into multiple languages at the same time",
+        "uri": "http://www.nicetranslator.com/#"
+    },
+    {
+        "title": "JSONP Anything",
+        "dateAdded": 1342248442348377,
+        "lastModified": 1342248442348377,
+        "description": "JSONP Anything",
+        "uri": "http://jsonp.jit.su/"
+    },
+    {
+        "title": "html shell",
+        "dateAdded": 1342248440262591,
+        "lastModified": 1349156233871735,
+        "description": "A quick custom boilerplate HTML5 markup generator",
+        "uri": "http://htmlshell.com/"
+    },
+    {
+        "title": "Google Code Editor",
+        "dateAdded": 1342248442714851,
+        "lastModified": 1342248442714851,
+        "description": "Google Code Editor",
+        "uri": "https://docs.google.com/a/macros/twolfson.com/edit?lib=MLgUeJjdrYoIWs-Br0G2eFn2tt6NS1USf"
+    },
+    {
+        "title": "CSS Hat translates layer styles to CSS3 code",
+        "dateAdded": 1342248442500045,
+        "lastModified": 1349156233876004,
+        "description": "CSS Hat Translate layer styles to CSS3 code",
+        "uri": "http://csshat.com/"
+    },
+    {
+        "title": "JS Bin",
+        "dateAdded": 1342248449209980,
+        "lastModified": 1342248449209980,
+        "description": "JS Bin",
+        "uri": "http://jsbin.com/3/?"
+    },
+    {
+        "title": "postbin.rb - Test POST requests",
+        "dateAdded": 1342248439648658,
+        "lastModified": 1342248440592813,
+        "description": "postbin.rb - Test POST requests",
+        "uri": "http://postbin.defensio.com/"
+    },
+    {
+        "title": "Worqshop - IDE on the iPad",
+        "dateAdded": 1342248447068290,
+        "lastModified": 1342248447068290,
+        "description": "Worqshop - IDE on the iPad",
+        "uri": "http://worqshop.com/"
+    },
+    {
+        "title": "Coder's coffee - App for talking tech with others",
+        "dateAdded": 1342248439913413,
+        "lastModified": 1342248440599701,
+        "description": "Coder's coffee - App for talking tech with others",
+        "uri": "http://www.coderscoffee.com/"
+    },
+    {
+        "title": "Compile Compass into CSS",
+        "dateAdded": 1342248440719255,
+        "lastModified": 1349156233887202,
+        "description": "Compile Compass into CSS.",
+        "uri": "http://c2c.briangonzalez.org/"
+    },
+    {
+        "title": "Yahoo! Smush.it™ - Image compressor",
+        "dateAdded": 1342248444061094,
+        "lastModified": 1342248444061094,
+        "description": "Yahoo! Smush.it™ - Image compressor",
+        "uri": "http://www.smushit.com/ysmush.it/"
+    },
+    {
+        "title": "HTML minifier",
+        "dateAdded": 1342248449154736,
+        "lastModified": 1342248449154736,
+        "description": "HTML minifier",
+        "uri": "http://kangax.github.com/html-minifier/"
+    },
+    {
+        "title": "RegExp playground",
+        "dateAdded": 1342248441704303,
+        "lastModified": 1342248441704303,
+        "description": "RegExp playground",
+        "uri": "http://leaverou.github.com/regexplained/"
+    },
+    {
+        "title": "Learn Shortcuts. Vim Commands, Command Line, Unix Commands, Sublime Keys, TextMate Keys, Emacs Keys",
+        "dateAdded": 1342248440754687,
+        "lastModified": 1349156233895221,
+        "description": "Learn Commands and Code Faster. Includes Drills for Vim Commands, Unix Commands, Command Line Commands, Emacs Commands, TextMate Shortcuts, Sublime Shortcuts, or any Editor.",
+        "uri": "https://www.shortcutfoo.com/"
+    },
+    {
+        "title": "Errorception - Painless JavaScript Error Tracking",
+        "dateAdded": 1342248449013816,
+        "lastModified": 1342248449013816,
+        "description": "Errorception - Painless JavaScript Error Tracking",
+        "uri": "http://errorception.com/"
+    },
+    {
+        "title": "Cross Browser Testing Tool - BrowserStack",
+        "dateAdded": 1342248443697453,
+        "lastModified": 1349156233897762,
+        "description": "Test your website for cross-browser, cross-mobile compatibility. Debug JavaScript & CSS across browsers. Test in Internet Explorer, Mobile Emulators and Mac OSX.",
+        "uri": "http://www.browserstack.com/"
+    },
+    {
+        "title": "How to Start a Newsletter in Minutes With TinyLetter - SitePoint",
+        "dateAdded": 1342248443707270,
+        "lastModified": 1349156233899184,
+        "description": "An email newsletter is a brilliant way to stay connected to your customers or community members. Many people who visit your website may like it. Some may",
+        "uri": "http://www.sitepoint.com/how-start-a-newsletter-in-minutes-with-tinyletter/"
+    },
+    {
+        "title": "HTML Encode and Decode with Javascript - Strictly Software",
+        "dateAdded": 1342248442083240,
+        "lastModified": 1349156233905516,
+        "description": "A Javascript object to handle client side HTML encoding and decoding. Encode to numerical or html entities at the click of a button.",
+        "uri": "http://www.strictly-software.com/htmlencode"
+    },
+    {
+        "title": "9 Excellent Tools for Design Mockups",
+        "dateAdded": 1342248447180635,
+        "lastModified": 1349156233908217,
+        "description": "Make sure your website shines with these tools for mockups.",
+        "uri": "http://mashable.com/2012/06/07/mockup-tools/"
+    },
+    {
+        "title": "Instantly solve your code problems for free — Instant Bugfix",
+        "dateAdded": 1342248447644358,
+        "lastModified": 1342248447644358,
+        "description": "Instantly solve your code problems for free — Instant Bugfix",
+        "uri": "http://instantbugfix.com/"
+    },
+    {
+        "title": "twitter/zipkin - Tracing system for requests",
+        "dateAdded": 1342248439302432,
+        "lastModified": 1349156233913029,
+        "description": "Zipkin is a distributed tracing system. Contribute to zipkin development by creating an account on GitHub.",
+        "uri": "https://github.com/twitter/zipkin"
+    },
+    {
+        "title": "Nipster! npm search tool for Node.js",
+        "dateAdded": 1342248443841860,
+        "lastModified": 1349156233915669,
+        "description": "npm search tool for node (Node.js)",
+        "uri": "http://eirikb.github.com/nipster/"
+    },
+    {
+        "title": "Pointer Pointer by Moniker",
+        "dateAdded": 1342248443891538,
+        "lastModified": 1342248443891538,
+        "description": "Pointer Pointer by Moniker",
+        "uri": "http://www.pointerpointer.com/"
+    },
+    {
+        "title": "substack/node-prompter - Create JSON from prompts",
+        "dateAdded": 1342248448784650,
+        "lastModified": 1349156233920514,
+        "description": "node-prompter - create json files, prompting for input and evaluating expressions",
+        "uri": "https://github.com/substack/node-prompter#readme"
+    },
+    {
+        "title": "Making email designers lives easier | Fractal",
+        "dateAdded": 1342248440636787,
+        "lastModified": 1349156233923058,
+        "description": "Convert webpage HTML into email automatically with Fractal. Changes CSS div layouts into nested tables programatically. Make your emails cross-browser compatible, including Outlook 2007, 2010, Gmail, Hotmail, Yahoo Mail, and other clients.",
+        "uri": "https://www.getfractal.com/"
+    },
+    {
+        "title": "App Academy",
+        "dateAdded": 1342248442497045,
+        "lastModified": 1342248442497045,
+        "description": "App Academy",
+        "uri": "http://www.hashmaplabs.com/app_academy"
+    },
+    {
+        "title": "ConfNotice - Get notifications about conferences",
+        "dateAdded": 1342248442637581,
+        "lastModified": 1349156233925704,
+        "description": "ConfNotice Email Forms",
+        "uri": "http://confnotice.com/"
+    },
+    {
+        "title": "Prose - A content editor for GitHub - The Changelog - Open Source moves fast. Keep up.",
+        "dateAdded": 1342248441292440,
+        "lastModified": 1349156233927155,
+        "description": "Prose - A content editor for GitHub https://github.com/prose/prose The team over at Development Seed has released Prose, a really cool project that allows you to edit text-based content in your GitHub...",
+        "uri": "http://thechangelog.com/post/25938676294/prose-a-content-editor-for-github"
+    },
+    {
+        "title": "Code School - Try Git",
+        "dateAdded": 1342248443021829,
+        "lastModified": 1342248443021829,
+        "description": "Code School - Try Git",
+        "uri": "http://try.github.com/levels/1/challenges/1"
+    },
+    {
+        "title": "Barkeep - the friendly code review system",
+        "dateAdded": 1342248442182143,
+        "lastModified": 1342248442182143,
+        "description": "Barkeep - the friendly code review system",
+        "uri": "http://getbarkeep.org/"
+    },
+    {
+        "title": "Qrafti - The simple, powerful and free QR code generator.",
+        "dateAdded": 1342248441646084,
+        "lastModified": 1342248441646084,
+        "description": "Qrafti - The simple, powerful and free QR code generator.",
+        "uri": "http://www.qrafti.com/"
+    },
+    {
+        "title": "Moqups - SVG prototyping / mock up tool",
+        "dateAdded": 1342248442103488,
+        "lastModified": 1349156233931680,
+        "description": "The most stunning HTML5 App for creating high fidelity, resolution independent SVG mockups and wireframes!",
+        "uri": "https://moqups.com/"
+    },
+    {
+        "title": "Devoth's HEX 2 RGBA Color Calculator",
+        "dateAdded": 1342951641230085,
+        "lastModified": 1349156233941676,
+        "description": "HEX to RGBA, RGB and R G B Calculator.",
+        "uri": "http://hex2rgba.devoth.com/"
+    },
+    {
+        "title": "[brothercake] Dust-Me Selectors",
+        "dateAdded": 1343521988082922,
+        "lastModified": 1343521996381326,
+        "description": "[brothercake] Dust-Me Selectors",
+        "uri": "http://www.brothercake.com/dustmeselectors/"
+    },
+    {
+        "title": "Customer Development Survey- survey.io",
+        "dateAdded": 1343530703201574,
+        "lastModified": 1349156233946535,
+        "description": "Get started with customer development for free by creating your own initial customer development survey below.",
+        "uri": "http://survey.io/"
+    },
+    {
+        "title": "Markupwand | Magically convert Photoshop designs to valid HTML markup",
+        "dateAdded": 1343530994388513,
+        "lastModified": 1349156233949868,
+        "description": "Convert your Photoshop designs to clean and maintainable HTML and CSS",
+        "uri": "http://www.markupwand.com/"
+    },
+    {
+        "title": "Brandseen - Logo Coloring Game",
+        "dateAdded": 1343531206174180,
+        "lastModified": 1343531208641289,
+        "description": "Brandseen - Logo Coloring Game",
+        "uri": "http://brandseenapp.com/"
+    },
+    {
+        "title": "Skrillex Drops the Bass While You Browse the Web",
+        "dateAdded": 1343800310989264,
+        "lastModified": 1349156233954817,
+        "description": "A new Skrillex site lets you browse the web without ever losing the bass.",
+        "uri": "http://mashable.com/2012/07/31/skrillex-drops-the-bass-while-you-browse-the-web/"
+    },
+    {
+        "title": "makr.io- Collaboration for collages",
+        "dateAdded": 1344051456798566,
+        "lastModified": 1349156233958208,
+        "description": "makr.io",
+        "uri": "https://makr.io/"
+    },
+    {
+        "title": "Ask HN: Recommendations for learning and improving UX/UI skills? | Hacker News",
+        "dateAdded": 1344051456843949,
+        "lastModified": 1344051456843949,
+        "description": "Ask HN: Recommendations for learning and improving UX/UI skills? | Hacker News",
+        "uri": "http://news.ycombinator.com/item?id=4316967"
     }
 ]

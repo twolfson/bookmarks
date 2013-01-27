@@ -5,14 +5,16 @@ var fs = require('fs'),
     bookmarksRoot = bookmarks;
 
 // Process content
-var rootChildren = bookmarksRoot.children,
+var config = require('./config'),
+    configFolders = config.folders,
+    rootChildren = bookmarksRoot.children,
     bookmarkMenu = rootChildren.filter(function (a) { return a.title === "Bookmarks Menu"; })[0],
     bookmarkFolders = bookmarkMenu.children,
-    webDevCode = bookmarkFolders.filter(function (a) { return a.title === "web dev code"; })[0].children;
+    selectFolders = bookmarkFolders.filter(function (folder) { return configFolders.indexOf(folder.title) !== -1; });
 
 // Format content
 console.log('Formatting bookmarks...');
-var webDevPretty = [];
+var bookmarks = [];
 function addBookmark(bookmark) {
   // Find the proper description
   var annos = bookmark.annos || [],
@@ -28,9 +30,8 @@ function addBookmark(bookmark) {
     // DEBUG: Give us some info
     // console.log('No URI found (' + bookmark.id + '): ' + title);
 
-    // Recurse over the children of the bookmark folder
-    var children = bookmark.children || [];
-    children.forEach(addBookmark);
+    // Add the bookmark as a folder
+    addFolder(bookmark);
   }
 
   // Create and return the object
@@ -41,15 +42,22 @@ function addBookmark(bookmark) {
         description: description,
         uri: uri
       };
-  webDevPretty.push(retObj);
+  bookmarks.push(retObj);
 }
-webDevCode.forEach(addBookmark);
+function addFolder(folder) {
+  // Add each of the bookmarks from the folder
+  var children = folder.children || [];
+  children.forEach(addBookmark);
+}
+
+// ANTI-PATTERN: Add all of the folders
+selectFolders.forEach(addFolder);
 
 // Spit out the content into a file
-var retStr = JSON.stringify(webDevPretty, null, 4);
+var retStr = JSON.stringify(bookmarks, null, 4);
 fs.writeFileSync('./bookmarks.json', retStr, 'utf8');
 
-var retMinStr = JSON.stringify(webDevPretty);
+var retMinStr = JSON.stringify(bookmarks);
 fs.writeFileSync('./bookmarks.min.json', retMinStr, 'utf8');
 
 // Notify the user
