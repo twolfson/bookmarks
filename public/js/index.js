@@ -23,23 +23,23 @@ $(function () {
     var options = {
           valueNames: ['description', 'uri'],
           plugins: [
-            ['fuzzySearch']
+            ['matchSearch']
           ]
         },
         list = new List('bookmark-list-container', options);
 
     // Set up search function
-    var $fuzzySearch = $('.fuzzy-search'),
+    var $search = $('#search'),
         defaultColumns = {description:1,uri:1},
         columns = defaultColumns;
     function searchList() {
-      var val = $fuzzySearch.val();
-      list.fuzzySearch(val, columns);
+      var val = $search.val();
+      list.matchSearch(val, columns);
     }
 
     // When our search field is typed into, search
     // TODO: Change to onchange
-    $fuzzySearch.on('keyup', searchList);
+    $search.on('keyup', searchList);
 
     // When the search form is submitted, search
     var $searchForm = $('#search-form');
