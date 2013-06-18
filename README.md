@@ -1,4 +1,4 @@
-# bookmarks
+# bookmarks [![Donate on Gittip](http://badgr.co/gittip/twolfson.png)](https://www.gittip.com/twolfson/)
 
 Webpage representing a collection of bookmarks
 
