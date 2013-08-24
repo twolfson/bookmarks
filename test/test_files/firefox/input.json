@@ -1,0 +1,672 @@
+{
+  "title": "",
+  "id": 1,
+  "dateAdded": 1364532555307821,
+  "lastModified": 1364627167084723,
+  "type": "text/x-moz-place-container",
+  "root": "placesRoot",
+  "children": [
+    {
+      "title": "",
+      "id": 1849,
+      "parent": 1,
+      "dateAdded": 1364532725419453,
+      "lastModified": 1364532751071328,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 1483,
+          "parent": 1849,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 2670,
+          "parent": 1849,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 816,
+          "parent": 1849,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 2831,
+          "parent": 1849,
+          "dateAdded": 1364532735104382,
+          "lastModified": 1364532751144907,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 1997,
+              "parent": 2831,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 77,
+              "parent": 2831,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 3324,
+              "parent": 2831,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 1,
+      "title": "",
+      "id": 1302,
+      "parent": 1,
+      "dateAdded": 1364532718930681,
+      "lastModified": 1364532747158153,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 3339,
+          "parent": 1302,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 932,
+          "parent": 1302,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 2357,
+          "parent": 1302,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 3119,
+          "parent": 1302,
+          "dateAdded": 1364532738493262,
+          "lastModified": 1364532751170239,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 283,
+              "parent": 3119,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 808,
+              "parent": 3119,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 337,
+              "parent": 3119,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 2,
+      "title": "",
+      "id": 2016,
+      "parent": 1,
+      "dateAdded": 1364532727269034,
+      "lastModified": 1364532751082360,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 2421,
+          "parent": 2016,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 1676,
+          "parent": 2016,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 1745,
+          "parent": 2016,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 926,
+          "parent": 2016,
+          "dateAdded": 1364532715314579,
+          "lastModified": 1364532734890486,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 649,
+              "parent": 926,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 1493,
+              "parent": 926,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 2801,
+              "parent": 926,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 3,
+      "title": "",
+      "id": 2841,
+      "parent": 1,
+      "dateAdded": 1364532735237945,
+      "lastModified": 1364532751146208,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 1326,
+          "parent": 2841,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 216,
+          "parent": 2841,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 2469,
+          "parent": 2841,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 55,
+          "parent": 2841,
+          "dateAdded": 1364532707107065,
+          "lastModified": 1364532746874091,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 2035,
+              "parent": 55,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 1506,
+              "parent": 55,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 2736,
+              "parent": 55,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 4,
+      "title": "",
+      "id": 2918,
+      "parent": 1,
+      "dateAdded": 1364532736197601,
+      "lastModified": 1364532751154807,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 3741,
+          "parent": 2918,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 2180,
+          "parent": 2918,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 2072,
+          "parent": 2918,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 2907,
+          "parent": 2918,
+          "dateAdded": 1364532736021323,
+          "lastModified": 1364532751147511,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 3893,
+              "parent": 2907,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 1678,
+              "parent": 2907,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 3142,
+              "parent": 2907,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 5,
+      "title": "",
+      "id": 3292,
+      "parent": 1,
+      "dateAdded": 1364532740272668,
+      "lastModified": 1364532751206772,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 528,
+          "parent": 3292,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 1581,
+          "parent": 3292,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 796,
+          "parent": 3292,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 755,
+          "parent": 3292,
+          "dateAdded": 1364532713498978,
+          "lastModified": 1364532746970777,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 1487,
+              "parent": 755,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 2020,
+              "parent": 755,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 867,
+              "parent": 755,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 6,
+      "title": "",
+      "id": 202,
+      "parent": 1,
+      "dateAdded": 1364532708511061,
+      "lastModified": 1364532746948313,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 1211,
+          "parent": 202,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 2681,
+          "parent": 202,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 2090,
+          "parent": 202,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 1923,
+          "parent": 202,
+          "dateAdded": 1364532726234281,
+          "lastModified": 1364532751073468,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 1164,
+              "parent": 1923,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 3210,
+              "parent": 1923,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 188,
+              "parent": 1923,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 7,
+      "title": "",
+      "id": 52,
+      "parent": 1,
+      "dateAdded": 1364532707076976,
+      "lastModified": 1364532746869957,
+      "type": "text/x-moz-place-container",
+      "children": [
+        {
+          "title": "History",
+          "id": 3441,
+          "parent": 52,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=4&type=3"
+        },
+        {
+          "index": 1,
+          "title": "Downloads",
+          "id": 877,
+          "parent": 52,
+          "type": "text/x-moz-place",
+          "uri": "place:transition=7&sort=4"
+        },
+        {
+          "index": 2,
+          "title": "Tags",
+          "id": 1247,
+          "parent": 52,
+          "type": "text/x-moz-place",
+          "uri": "place:sort=1&type=6&queryType=1"
+        },
+        {
+          "index": 3,
+          "title": "All Bookmarks",
+          "id": 1263,
+          "parent": 52,
+          "dateAdded": 1364532718536284,
+          "lastModified": 1364532747157684,
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "Bookmarks Toolbar",
+              "id": 1726,
+              "parent": 1263,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1369362853583340,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=TOOLBAR&expandQueries=0"
+            },
+            {
+              "index": 1,
+              "title": "Bookmarks Menu",
+              "id": 3871,
+              "parent": 1263,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377335014639073,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=BOOKMARKS_MENU&expandQueries=0"
+            },
+            {
+              "index": 2,
+              "title": "Unsorted Bookmarks",
+              "id": 2152,
+              "parent": 1263,
+              "dateAdded": 1364532555307821,
+              "lastModified": 1377337734429156,
+              "type": "text/x-moz-place",
+              "uri": "place:folder=UNFILED_BOOKMARKS&expandQueries=0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "index": 8,
+      "title": "Bookmarks Menu",
+      "id": 2,
+      "parent": 1,
+      "dateAdded": 1364532555307821,
+      "lastModified": 1377335014639073,
+      "type": "text/x-moz-place-container",
+      "root": "bookmarksMenuFolder",
+      "children": [
+        {
+          "title": "web dev code",
+          "id": 1310,
+          "parent": 2,
+          "dateAdded": 1364532719015306,
+          "lastModified": 1377335014644657,
+          "annos": [
+            {
+              "name": "bookmarkPropertiesDialog/folderLastUsed",
+              "flags": 0,
+              "expires": 4,
+              "mimeType": null,
+              "type": 2,
+              "value": 1377335014644
+            }
+          ],
+          "type": "text/x-moz-place-container",
+          "children": [
+            {
+              "title": "fxn/tkn - Terminal keynote presentation",
+              "id": 363,
+              "parent": 1310,
+              "dateAdded": 1364532709949934,
+              "lastModified": 1364532719708073,
+              "annos": [
+                {
+                  "name": "bookmarkProperties/description",
+                  "flags": 0,
+                  "expires": 4,
+                  "mimeType": null,
+                  "type": 3,
+                  "value": "tkn - Terminal Keynote - A hack for terminal-based talks"
+                }
+              ],
+              "type": "text/x-moz-place",
+              "uri": "https://github.com/fxn/tkn"
+            },
+            {
+              "index": 1,
+              "title": "pedalboard.js - Open-source JavaScript framework for developing audio effects for guitars",
+              "id": 2684,
+              "parent": 1310,
+              "dateAdded": 1364532733854654,
+              "lastModified": 1364532733854654,
+              "type": "text/x-moz-place",
+              "uri": "http://dashersw.github.com/pedalboard.js/demo/"
+            },
+            {
+              "index": 2,
+              "title": "Tributary - Bret Victor inspired code prototype engine",
+              "id": 3295,
+              "parent": 1310,
+              "dateAdded": 1364532740337999,
+              "lastModified": 1364532740337999,
+              "type": "text/x-moz-place",
+              "uri": "http://enjalot.com/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
