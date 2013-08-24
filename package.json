@@ -28,7 +28,9 @@
   "scripts": {
     "test": "mocha"
   },
-  "dependencies": {},
+  "dependencies": {
+    "mkdirp": "~0.3.5"
+  },
   "devDependencies": {
     "mocha": "~1.11.0",
     "grunt-contrib-jshint": "~0.6.0",
