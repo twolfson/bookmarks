@@ -1,3 +1,4 @@
 bookmarks.orig.json
 node_modules/
 test/actual_files/
+bookmarks.tmp.json
