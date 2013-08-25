@@ -9,6 +9,7 @@ var cwd = process.cwd(),
 
 // Parse our bookmarks through the library
 // TODO: Switch parser to event emitter based
+console.log('Formatting bookmarks...');
 var parser = require('../lib/bookmarks'),
     parsedBookmarks = parser(bookmarks, options);
 
