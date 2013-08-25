@@ -1,0 +1,26 @@
+#!/usr/bin/env node
+
+// TODO: Remove this hardcoded junk -- use commander or optimist to parse options
+// Load in bookmarks and options
+var bookmarks = require('./bookmarks.orig.json'),
+    options = require('./config');
+
+// Parse our bookmarks through the library
+// TODO: Switch parser to event emitter based
+var parser = require('../lib/bookmarks'),
+    parsedBookmarks = parser(bookmarks);
+
+// Guarantee an output folder
+var outputFile = './bookmarks.json',
+    outputDir = path.dirname(outputFile);
+mkdirp.sync(outputDir);
+
+// Spit out the content into a file
+var retStr = JSON.stringify(bookmarks, null, 4);
+fs.writeFileSync(outputFile, retStr, 'utf8');
+
+var retMinStr = JSON.stringify(bookmarks);
+fs.writeFileSync(global.outputMin || './bookmarks.min.json', retMinStr, 'utf8');
+
+// Notify the user
+console.log('Done!');
