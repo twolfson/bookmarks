@@ -10542,12 +10542,6 @@
         "uri": "http://chrisvalleskey.com/fillerama/"
     },
     {
-        "title": "Lorem Ipsum",
-        "dateAdded": 1364532718081473,
-        "lastModified": 1366692230978078,
-        "description": "Lorem Ipsum"
-    },
-    {
         "title": "jocafa/Nonsense - Repeatable/consistent/reproducible random data for testing",
         "dateAdded": 1364532729191929,
         "lastModified": 1364799173173102,
@@ -11969,215 +11963,11 @@
         "uri": "https://npmjs.org/package/teacher"
     },
     {
-        "title": "Reset/Normalize CSS",
-        "dateAdded": 1366692227882594,
-        "lastModified": 1366692227882594,
-        "description": "Reset/Normalize CSS"
-    },
-    {
-        "title": "CSS Borders/Shapes",
-        "dateAdded": 1366692228507107,
-        "lastModified": 1366692228507107,
-        "description": "CSS Borders/Shapes"
-    },
-    {
-        "title": "CSS Patterns (OOCSS)",
-        "dateAdded": 1366692227474896,
-        "lastModified": 1366692227474896,
-        "description": "CSS Patterns (OOCSS)"
-    },
-    {
-        "title": "CSS Scripting",
-        "dateAdded": 1366692227618844,
-        "lastModified": 1366692227618844,
-        "description": "CSS Scripting"
-    },
-    {
-        "title": "CSS Sprites/Backgrounds",
-        "dateAdded": 1366692229552774,
-        "lastModified": 1366692229552774,
-        "description": "CSS Sprites/Backgrounds"
-    },
-    {
-        "title": "Everything Else CSS/Design",
-        "dateAdded": 1366692229114113,
-        "lastModified": 1366692229114113,
-        "description": "Everything Else CSS/Design"
-    },
-    {
-        "title": "",
-        "dateAdded": 1366692227797599,
-        "lastModified": 1366692227797599,
-        "description": ""
-    },
-    {
-        "title": "Javascript Design",
-        "dateAdded": 1366692228595750,
-        "lastModified": 1366692228595750,
-        "description": "Javascript Design"
-    },
-    {
-        "title": "Performance/Testing",
-        "dateAdded": 1366692227803439,
-        "lastModified": 1366692227803439,
-        "description": "Performance/Testing"
-    },
-    {
-        "title": "Minification/Obfuscation",
-        "dateAdded": 1366692227763687,
-        "lastModified": 1366692227763687,
-        "description": "Minification/Obfuscation"
-    },
-    {
-        "title": "Debugging",
-        "dateAdded": 1366692228656690,
-        "lastModified": 1366692228656690,
-        "description": "Debugging"
-    },
-    {
-        "title": "Documentation",
-        "dateAdded": 1366692227345637,
-        "lastModified": 1366692227345637,
-        "description": "Documentation"
-    },
-    {
-        "title": "",
-        "dateAdded": 1366692227531873,
-        "lastModified": 1366692227531873,
-        "description": ""
-    },
-    {
-        "title": "DOM",
-        "dateAdded": 1366692227732344,
-        "lastModified": 1366692227732344,
-        "description": "DOM"
-    },
-    {
-        "title": "JSON",
-        "dateAdded": 1366692229187435,
-        "lastModified": 1366692229187435,
-        "description": "JSON"
-    },
-    {
-        "title": "Algorithms/Data Objects",
-        "dateAdded": 1366692228723875,
-        "lastModified": 1366692228723875,
-        "description": "Algorithms/Data Objects"
-    },
-    {
-        "title": "Async Libs",
-        "dateAdded": 1366692227844217,
-        "lastModified": 1366692227844217,
-        "description": "Async Libs"
-    },
-    {
-        "title": "Odds and ends",
-        "dateAdded": 1366692227701286,
-        "lastModified": 1366692227701286,
-        "description": "Odds and ends"
-    },
-    {
-        "title": "",
-        "dateAdded": 1366692229481336,
-        "lastModified": 1366692229481336,
-        "description": ""
-    },
-    {
-        "title": "Validation",
-        "dateAdded": 1366692229588006,
-        "lastModified": 1366692229588006,
-        "description": "Validation"
-    },
-    {
         "title": "js Message - Message library",
         "dateAdded": 1366692227655018,
         "lastModified": 1366692228074890,
         "description": "js Message - Message library",
         "uri": "http://dhtmlx.github.com/message/"
-    },
-    {
-        "title": "Info/Modal Scripts",
-        "dateAdded": 1366692228043106,
-        "lastModified": 1366692228074485,
-        "description": "Info/Modal Scripts"
-    },
-    {
-        "title": "Feature Detection/Shims",
-        "dateAdded": 1366692229319481,
-        "lastModified": 1366692229319481,
-        "description": "Feature Detection/Shims"
-    },
-    {
-        "title": "Forms/Lists",
-        "dateAdded": 1366692227577697,
-        "lastModified": 1366692227577697,
-        "description": "Forms/Lists"
-    },
-    {
-        "title": "Templating",
-        "dateAdded": 1366692229083003,
-        "lastModified": 1366692229083003,
-        "description": "Templating"
-    },
-    {
-        "title": "Graphs/Visual Data",
-        "dateAdded": 1366692229285035,
-        "lastModified": 1366692229285035,
-        "description": "Graphs/Visual Data"
-    },
-    {
-        "title": "UX/Presentation odds and ends",
-        "dateAdded": 1366692228787272,
-        "lastModified": 1366692228787272,
-        "description": "UX/Presentation odds and ends"
-    },
-    {
-        "title": "",
-        "dateAdded": 1366692227525130,
-        "lastModified": 1366692227525130,
-        "description": ""
-    },
-    {
-        "title": "Code Collections (microjs and whatnot)",
-        "dateAdded": 1366692228007136,
-        "lastModified": 1366692228007136,
-        "description": "Code Collections (microjs and whatnot)"
-    },
-    {
-        "title": "Grids/Frameworks",
-        "dateAdded": 1366692227925986,
-        "lastModified": 1366692227925986,
-        "description": "Grids/Frameworks"
-    },
-    {
-        "title": "Images/Fancy Images",
-        "dateAdded": 1366692229050689,
-        "lastModified": 1366692229050689,
-        "description": "Images/Fancy Images"
-    },
-    {
-        "title": "Design Resources",
-        "dateAdded": 1366692229378547,
-        "lastModified": 1366692229378547,
-        "description": "Design Resources"
-    },
-    {
-        "title": "Typography",
-        "dateAdded": 1366692229509432,
-        "lastModified": 1366692229509432,
-        "description": "Typography"
-    },
-    {
-        "title": "",
-        "dateAdded": 1366692228964027,
-        "lastModified": 1366692228964027,
-        "description": ""
-    },
-    {
-        "title": "irc code",
-        "dateAdded": 1366692228450176,
-        "lastModified": 1366692228450176,
-        "description": "irc code"
     },
     {
         "title": "crcn/connect-router - Different flavor of sugar for connnect",
@@ -20230,12 +20020,6 @@
         "uri": "http://www.amazon.com/dp/193398869X/"
     },
     {
-        "title": "to read",
-        "dateAdded": 1364532737529672,
-        "lastModified": 1364532737566993,
-        "description": "to read"
-    },
-    {
         "title": "Speed Up Your JavaScript (YouTube)",
         "dateAdded": 1364532716924522,
         "lastModified": 1364532716927679,
@@ -20264,23 +20048,11 @@
         "uri": "http://paulirish.com/2010/10-things-i-learned-from-the-jquery-source/"
     },
     {
-        "title": "",
-        "dateAdded": 1364532733761267,
-        "lastModified": 1364532733761267,
-        "description": ""
-    },
-    {
         "title": "Improve your jQuery Selectors: 5 Quick Tips « The Web Squeeze",
         "dateAdded": 1364532723440946,
         "lastModified": 1364532723440946,
         "description": "Improve your jQuery Selectors: 5 Quick Tips « The Web Squeeze",
         "uri": "http://www.thewebsqueeze.com/web-design-tutorials/improve-your-jquery-selectors-5-quick-tips.html"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532734417105,
-        "lastModified": 1364532734417105,
-        "description": ""
     },
     {
         "title": "Optimize CSS Selectors",
@@ -20297,23 +20069,11 @@
         "uri": "https://developer.mozilla.org/en/Writing_Efficient_CSS"
     },
     {
-        "title": "",
-        "dateAdded": 1364532711973445,
-        "lastModified": 1364532711973445,
-        "description": ""
-    },
-    {
         "title": "The Lazy Programmer's Guide to Secure Computing",
         "dateAdded": 1364532745463335,
         "lastModified": 1364532745466943,
         "description": "Google Tech Talk March 11, 2010 ABSTRACT Presented by Marc Stiegler. This presentation starts with a simple block of code written by the Lazy Programmer, to ...",
         "uri": "http://www.youtube.com/watch?v=eL5o4PFuxTY"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532721603258,
-        "lastModified": 1364532721603258,
-        "description": ""
     },
     {
         "title": "nodejs | Google Groups",
@@ -21065,12 +20825,6 @@
         "uri": "https://www.google.com/a/cpanel/twolfson.com"
     },
     {
-        "title": "Domain Tools",
-        "dateAdded": 1364532712310597,
-        "lastModified": 1364532746953541,
-        "description": "Domain Tools"
-    },
-    {
         "title": "Microsoft Exchange Email",
         "dateAdded": 1364532707142165,
         "lastModified": 1364532724210541,
@@ -21078,29 +20832,11 @@
         "uri": "https://webmail.ihostexchange.net/owa/"
     },
     {
-        "title": "Email",
-        "dateAdded": 1364532724179498,
-        "lastModified": 1364532724210377,
-        "description": "Email"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532714712137,
-        "lastModified": 1364532714712137,
-        "description": ""
-    },
-    {
         "title": "jsPerf: JavaScript performance playground",
         "dateAdded": 1364532721982793,
         "lastModified": 1364532721983595,
         "description": "A performance playground for JavaScript developers. Easily create and share test cases and run cross-browser benchmarks to find out which code snippet is most efficient.",
         "uri": "http://jsperf.com/"
-    },
-    {
-        "title": "Benchmarking",
-        "dateAdded": 1364532708375608,
-        "lastModified": 1364532721982793,
-        "description": "Benchmarking"
     },
     {
         "title": "Browser Sandbox - Run any browser from the web",
@@ -21173,18 +20909,6 @@
         "uri": "http://www.webdevout.net/test"
     },
     {
-        "title": "Testing/Page Analysis/Profiling",
-        "dateAdded": 1364532713960073,
-        "lastModified": 1364532746973373,
-        "description": "Testing/Page Analysis/Profiling"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532734963598,
-        "lastModified": 1364532734963598,
-        "description": ""
-    },
-    {
         "title": "JSLint,The JavaScript Code Quality Tool",
         "dateAdded": 1364532731512684,
         "lastModified": 1364532731512684,
@@ -21234,12 +20958,6 @@
         "uri": "http://validator.w3.org/"
     },
     {
-        "title": "Validators / Lint",
-        "dateAdded": 1364532722026012,
-        "lastModified": 1364532751063433,
-        "description": "Validators / Lint"
-    },
-    {
         "title": "Closure Compiler Service",
         "dateAdded": 1364532721563878,
         "lastModified": 1364532740797158,
@@ -21268,23 +20986,11 @@
         "uri": "http://pimpmyjs.com/"
     },
     {
-        "title": "Obfuscators / Minifiers",
-        "dateAdded": 1364532740752496,
-        "lastModified": 1364532751210293,
-        "description": "Obfuscators / Minifiers"
-    },
-    {
         "title": "weinre - Remote Debugger",
         "dateAdded": 1364532724056745,
         "lastModified": 1364532731391280,
         "description": "weinre - Remote Debugger",
         "uri": "http://phonegap.github.com/weinre/"
-    },
-    {
-        "title": "Debugging",
-        "dateAdded": 1364532731369749,
-        "lastModified": 1364532731391090,
-        "description": "Debugging"
     },
     {
         "title": "Javascript Beautifier",
@@ -21329,12 +21035,6 @@
         "uri": "http://isnoop.net/tools/css.php"
     },
     {
-        "title": "Beautifiers",
-        "dateAdded": 1364532737409961,
-        "lastModified": 1364532751162502,
-        "description": "Beautifiers"
-    },
-    {
         "title": "cenanozen/nodemonw - Windows file monitoring for node",
         "dateAdded": 1364532742425299,
         "lastModified": 1364532742426385,
@@ -21361,18 +21061,6 @@
         "lastModified": 1364532740519987,
         "description": "Windows Virtual PC VHDs for testing websites with different Internet Explorer versions [Last Updated: 8/16/11]",
         "uri": "http://www.microsoft.com/download/en/details.aspx?displaylang=en&id=11575"
-    },
-    {
-        "title": "Testing/Iteration (Personal)",
-        "dateAdded": 1364532727681305,
-        "lastModified": 1364532751083290,
-        "description": "Testing/Iteration (Personal)"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532720678557,
-        "lastModified": 1364532720678557,
-        "description": ""
     },
     {
         "title": "jsFiddle - Online Editor for the Web (JavaScript, MooTools, jQuery, Prototype, YUI, Glow and Dojo, HTML, CSS)",
@@ -21466,29 +21154,11 @@
         "uri": "http://shapesmith.net/"
     },
     {
-        "title": "Sandbox",
-        "dateAdded": 1364532712780005,
-        "lastModified": 1364532746960358,
-        "description": "Sandbox"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532729771868,
-        "lastModified": 1364532729771868,
-        "description": ""
-    },
-    {
         "title": "TypeWith.me: Live Text Document Collaboration!",
         "dateAdded": 1364532743984938,
         "lastModified": 1364532743984938,
         "description": "TypeWith.me: Live Text Document Collaboration!",
         "uri": "http://typewith.me/"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532712063517,
-        "lastModified": 1364532736843956,
-        "description": ""
     },
     {
         "title": "typeto.me",
@@ -21503,12 +21173,6 @@
         "lastModified": 1364532742226521,
         "description": "tuttijs",
         "uri": "http://tuttijs.com/"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532745766591,
-        "lastModified": 1364532745766591,
-        "description": ""
     },
     {
         "title": "Scribblar",
@@ -21560,18 +21224,6 @@
         "uri": "http://www.hastebin.com/"
     },
     {
-        "title": "Collaboration",
-        "dateAdded": 1364532736808680,
-        "lastModified": 1364532751158012,
-        "description": "Collaboration"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532739964310,
-        "lastModified": 1364532739964310,
-        "description": ""
-    },
-    {
         "title": "Color Scheme Designer 3",
         "dateAdded": 1364532710234393,
         "lastModified": 1364532710234393,
@@ -21614,12 +21266,6 @@
         "uri": "http://www.awcore.com/html/news/14/25-Time-saving-Generators_en"
     },
     {
-        "title": "Colors/Patterns/Gradients",
-        "dateAdded": 1364532709017804,
-        "lastModified": 1364532746949597,
-        "description": "Colors/Patterns/Gradients"
-    },
-    {
         "title": "Pixlr - Online photo editor",
         "dateAdded": 1364532731298726,
         "lastModified": 1364532731300305,
@@ -21634,23 +21280,11 @@
         "uri": "http://apps.blois.us/Voxel"
     },
     {
-        "title": "Image Editors",
-        "dateAdded": 1364532727806945,
-        "lastModified": 1364532751083732,
-        "description": "Image Editors"
-    },
-    {
         "title": "Subtle Patterns | Free textures for your next web project",
         "dateAdded": 1364532728146018,
         "lastModified": 1364532728146018,
         "description": "Subtle Patterns | Free textures for your next web project",
         "uri": "http://subtlepatterns.com/"
-    },
-    {
-        "title": "Image Repositories",
-        "dateAdded": 1364532712679533,
-        "lastModified": 1364532728146018,
-        "description": "Image Repositories"
     },
     {
         "title": "CopyPasteCharacter.com",
@@ -21674,18 +21308,6 @@
         "uri": "http://www.fontsquirrel.com/"
     },
     {
-        "title": "Font Repositories",
-        "dateAdded": 1364532717805079,
-        "lastModified": 1364532747154864,
-        "description": "Font Repositories"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532707489417,
-        "lastModified": 1364532714127374,
-        "description": ""
-    },
-    {
         "title": "Regular Expression (Flash)",
         "dateAdded": 1364532708207799,
         "lastModified": 1364532714138860,
@@ -21707,23 +21329,11 @@
         "uri": "http://cloud9ide.com/"
     },
     {
-        "title": "",
-        "dateAdded": 1364532742740211,
-        "lastModified": 1364532742740211,
-        "description": ""
-    },
-    {
         "title": "Down For Everyone Or Just Me -> Check if your website is down or up?",
         "dateAdded": 1364532713707413,
         "lastModified": 1364532714180668,
         "description": "Down For Everyone Or Just Me -> Check if your website is down or up?",
         "uri": "http://www.downforeveryoneorjustme.com/"
-    },
-    {
-        "title": "",
-        "dateAdded": 1364532741562828,
-        "lastModified": 1364532741562828,
-        "description": ""
     },
     {
         "title": "JS Ninja Battle",
@@ -21745,12 +21355,6 @@
         "lastModified": 1364532732744872,
         "description": "HTML5 Elements Quiz",
         "uri": "http://thehtml5quiz.com/"
-    },
-    {
-        "title": "Proof of Skill",
-        "dateAdded": 1364532723314452,
-        "lastModified": 1364532751065167,
-        "description": "Proof of Skill"
     },
     {
         "title": "Learn to code | Codecademy",
@@ -21795,12 +21399,6 @@
         "uri": "http://jqueryair.com/"
     },
     {
-        "title": "Code Learning (Basic)",
-        "dateAdded": 1364532741195282,
-        "lastModified": 1364532751212317,
-        "description": "Code Learning (Basic)"
-    },
-    {
         "title": "Shape Type, the letter shaping game",
         "dateAdded": 1364532744281019,
         "lastModified": 1364532744284309,
@@ -21815,23 +21413,11 @@
         "uri": "http://teamtreehouse.com/"
     },
     {
-        "title": "Design Learning",
-        "dateAdded": 1364532714610192,
-        "lastModified": 1364532747104578,
-        "description": "Design Learning"
-    },
-    {
         "title": "Kendo UI Feed Reader",
         "dateAdded": 1364532716468089,
         "lastModified": 1364532744837116,
         "description": "Kendo UI Feed Reader",
         "uri": "http://htmlui.com/demos/kendo/feedreader/index.html"
-    },
-    {
-        "title": "Feed Tools",
-        "dateAdded": 1364532744791270,
-        "lastModified": 1364532744836940,
-        "description": "Feed Tools"
     },
     {
         "title": "Textify.it - Turn Images Into Text",
