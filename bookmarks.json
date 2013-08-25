@@ -19999,18 +19999,1733 @@
         "uri": "https://github.com/colintoh/skylo/"
     },
     {
+        "title": "Just Delete Me | A directory of direct links to delete your account from web services.",
+        "dateAdded": 1377376213971683,
+        "lastModified": 1377376216512416,
+        "description": "A directory of direct links to delete your account from web services. Find out how to delete your Facebook, Twitter, LinkedIn accounts and more.",
+        "uri": "http://justdelete.me/"
+    },
+    {
+        "title": "gittip/shields.io -   A legible & concise status badge solution for third-party codebase services.",
+        "dateAdded": 1377379495219956,
+        "lastModified": 1377379498177974,
+        "description": "It would be nice to have a shield for Semver that could represent version numbers in a project.",
+        "uri": "https://github.com/gittip/shields.io"
+    },
+    {
+        "title": "Font-Embedding Icons: This Is a Big Deal — Some Random Dude",
+        "dateAdded": 1364532706908731,
+        "lastModified": 1364532709075630,
+        "description": "Font-Embedding Icons: This Is a Big Deal — Some Random Dude",
+        "uri": "http://somerandomdude.com/articles/design-technology/font-embedding-icons/"
+    },
+    {
+        "title": "24 ways: Creating Custom Font Stacks with Unicode-Range",
+        "dateAdded": 1364532734859858,
+        "lastModified": 1364532734860487,
+        "description": "The advent calendar for web geeks. Each day throughout December we publish a daily dose of web design and development goodness to bring you all a little Christmas cheer.",
+        "uri": "http://24ways.org/2011/unicode-range"
+    },
+    {
+        "title": "Typography Effects with CSS3 and jQuery",
+        "dateAdded": 1364532740333490,
+        "lastModified": 1364532740335328,
+        "description": "Typography Effects with CSS3 and jQuery",
+        "uri": "http://tympanus.net/Tutorials/TypographyEffects/index.html"
+    },
+    {
+        "title": "Typography With Perspective: Learn to Wield Illustrator’s Perspective Grid Tool | Design Shack",
+        "dateAdded": 1364532737826234,
+        "lastModified": 1364532737830097,
+        "description": "Reading an article entitled Typography With Perspective: Learn to Wield Illustrator’s Perspective Grid Tool on Design Shack.",
+        "uri": "http://designshack.net/articles/typography/typography-with-perspective-learn-to-wield-illustrators-perspective-grid-tool/"
+    },
+    {
+        "title": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!",
+        "dateAdded": 1364532729071953,
+        "lastModified": 1364532729071953,
+        "description": "Microjs: Fantastic Micro-Frameworks and Micro-Libraries for Fun and Profit!",
+        "uri": "http://microjs.com/"
+    },
+    {
+        "title": "140bytes: A Community Curated Collection of Tweet Sized JS - Badass JavaScript",
+        "dateAdded": 1364532736602061,
+        "lastModified": 1364532736602786,
+        "description": "140bytes: A Community Curated Collection of Tweet Sized JS Last May, Jed Schmidt started a fun little game of “code golfing” on Github’s Gist feature called 140bytes, in which people competed to write...",
+        "uri": "http://badassjs.com/post/12203522508/140bytes-a-community-curated-collection-of-tweet-sized"
+    },
+    {
+        "title": "Badass JS is back with a new look! Here's a little catchup. - Badass JavaScript",
+        "dateAdded": 1364532741278230,
+        "lastModified": 1364532741280495,
+        "description": "Badass JS is back with a new look! Here's a little catchup. Wow, I can’t believe it’s been over 7 months since I last wrote here, but it has and I’m glad to be back! We have a new look, which I think...",
+        "uri": "http://badassjs.com/post/11867989702/badass-js-is-back-with-a-new-look-heres-a-little"
+    },
+    {
+        "title": "The Hand-picked jQuery Plugins Repo. Supercharge your website!",
+        "dateAdded": 1364532740651365,
+        "lastModified": 1364532740652021,
+        "description": "The Hand-picked jQuery Plugins Repo. Supercharge your website!",
+        "uri": "http://iwantaneff.in/repo/"
+    },
+    {
+        "title": "JSPkg",
+        "dateAdded": 1364532721660656,
+        "lastModified": 1364532721660656,
+        "description": "JSPkg",
+        "uri": "http://jspkg.com/"
+    },
+    {
+        "title": "The Node Toolbox - Node.js happiness",
+        "dateAdded": 1364532710011591,
+        "lastModified": 1364532710013053,
+        "description": "The Node Toolbox is a catalogue of Node.js packages, tools and resources with popularity ratings based on Github watchers and forks",
+        "uri": "http://toolbox.no.de/"
+    },
+    {
+        "title": "HTML5 and CSS3 Advent 2011",
+        "dateAdded": 1364532729963674,
+        "lastModified": 1364532729967101,
+        "description": "We will demonstrate a new cool cutting-edge HTML5 and CSS3 technique every day in this HTML5 adventscalender.",
+        "uri": "http://html5advent2011.digitpaint.nl/"
+    },
+    {
+        "title": "Top News - Echo JS",
+        "dateAdded": 1364532746242625,
+        "lastModified": 1364532746242625,
+        "description": "Top News - Echo JS",
+        "uri": "http://www.echojs.com/"
+    },
+    {
+        "title": "Information on Border Slants",
+        "dateAdded": 1364532724731316,
+        "lastModified": 1364532724731316,
+        "description": "Information on Border Slants",
+        "uri": "http://www.infimum.dk/HTML/slantinfo.html"
+    },
+    {
+        "title": "The Shapes of CSS",
+        "dateAdded": 1364532710384792,
+        "lastModified": 1364532712428702,
+        "description": "The Shapes of CSS",
+        "uri": "http://css-tricks.com/examples/ShapesOfCSS/"
+    },
+    {
+        "title": "Building a Starburst with CSS | CSS-Tricks",
+        "dateAdded": 1364532720842553,
+        "lastModified": 1364532720845876,
+        "description": "If there's one thing I love most about what I do it's building out the challenges that a designer throws my way. There's almost always a way to reproduce a",
+        "uri": "http://css-tricks.com/14475-building-a-starburst-with-css/"
+    },
+    {
+        "title": "How to draw the Adidas Originals logo with 100% CSS. No javascript! No images!",
+        "dateAdded": 1364532712392447,
+        "lastModified": 1364532712429011,
+        "description": "How to draw the Adidas Originals logo with 100% CSS. No javascript! No images!",
+        "uri": "http://www.ecsspert.com/adidas-originals.php"
+    },
+    {
+        "title": "Tabs with Round Out Borders | CSS-Tricks",
+        "dateAdded": 1364532741055280,
+        "lastModified": 1364532741056176,
+        "description": "A technique for a rounded tabs where the top corners are rounded, but also the bottom corners are rounded where they attach to the content area. \"Round out\" or \"flared\" borders, if you will.",
+        "uri": "http://css-tricks.com/tabs-with-round-out-borders/"
+    },
+    {
+        "title": "(Better) Tabs with Round Out Borders | CSS-Tricks",
+        "dateAdded": 1364532730481606,
+        "lastModified": 1364532730482458,
+        "description": "A good-looking tab control usually has one feature that I've always found impossible to reproduce without images: borders that bend to the outside at the bottom of each tab. In this article I would like to show how you can use the CSS :before and :after pseudo elements to create this effect without using images.",
+        "uri": "http://css-tricks.com/better-tabs-with-round-out-borders/"
+    },
+    {
+        "title": "Create a notched current-state nav — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "dateAdded": 1364532742633035,
+        "lastModified": 1364532742633035,
+        "description": "Create a notched current-state nav — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "uri": "http://csswizardry.com/2011/11/create-a-notched-current-state-nav/"
+    },
+    {
+        "title": "Multiple Borders in CSS3 » SitePoint",
+        "dateAdded": 1364532716987291,
+        "lastModified": 1364532716988311,
+        "description": "Craig's quick tutorial illustrates how you can create multiple borders in CSS3 without using images.",
+        "uri": "http://www.sitepoint.com/css3-multiple-borders/"
+    },
+    {
+        "title": "Simple Styles for Horizontal Rules | CSS-Tricks",
+        "dateAdded": 1364532730062046,
+        "lastModified": 1364532730065088,
+        "description": "That is, the element. With the help of a few contributors, I put together this page of very simple styles for them. You could get a lot fancier with an el",
+        "uri": "http://css-tricks.com/15135-simple-styles-for-horizontal-rules/"
+    },
+    {
+        "title": "Public Service Announcement: Careful With Your Nested Border-Radii | CSS-Tricks",
+        "dateAdded": 1364532722699012,
+        "lastModified": 1364532722702143,
+        "description": "When you have and element within another padded element, both with different backgrounds and both with border-radius, make sure the inside element's border",
+        "uri": "http://css-tricks.com/15151-public-service-announcement-careful-with-your-nested-border-radii/"
+    },
+    {
+        "title": "Adobe-like Arrow Headers | CSS-Tricks",
+        "dateAdded": 1364532714592863,
+        "lastModified": 1364532714593765,
+        "description": "There are some pretty cool module headers on Adobe's site. In this tutorial we'll recreate them in a more efficient way.",
+        "uri": "http://css-tricks.com/adobe-like-arrow-headers/"
+    },
+    {
+        "title": "The Heads-Up Grid",
+        "dateAdded": 1364532716496987,
+        "lastModified": 1364532716496987,
+        "description": "The Heads-Up Grid",
+        "uri": "http://bohemianalps.com/tools/grid/"
+    },
+    {
+        "title": "Golden Grid System",
+        "dateAdded": 1364532735182345,
+        "lastModified": 1364532735185628,
+        "description": "A grid system for responsive web design. Includes folding columns, elastic gutters, a zoomable baseline grid, and a delightful grid overlay script.",
+        "uri": "http://goldengridsystem.com/"
+    },
+    {
+        "title": "The Semantic Grid System",
+        "dateAdded": 1364532730507641,
+        "lastModified": 1364532730507641,
+        "description": "The Semantic Grid System",
+        "uri": "http://semantic.gs/"
+    },
+    {
+        "title": "Grid In Photoshop - Smashing Magazine",
+        "dateAdded": 1364532714272061,
+        "lastModified": 1364532715143407,
+        "description": "Creating a grid is typically one of the very first things you do when starting a design comp. After all, it provides the basic structure on which the rest of your design will lie. In this article, we’ll provide two different methods for efficiently establishing a grid.",
+        "uri": "http://www.smashingmagazine.com/2011/11/09/establishing-your-grid-in-photoshop/"
+    },
+    {
+        "title": "320 and up",
+        "dateAdded": 1364532711840769,
+        "lastModified": 1364532715142825,
+        "description": "320 and up",
+        "uri": "http://www.stuffandnonsense.co.uk/projects/320andup/"
+    },
+    {
+        "title": "Make Photoshop Guides Grid with JavaScript",
+        "dateAdded": 1364532740216433,
+        "lastModified": 1364532740217589,
+        "description": "Blog about web programming & web design",
+        "uri": "http://www.vcarrer.com/2011/11/make-photoshop-guides-grid-with.html"
+    },
+    {
+        "title": "Bootstrap, from Twitter",
+        "dateAdded": 1364532732635004,
+        "lastModified": 1364532732635004,
+        "description": "Bootstrap, from Twitter",
+        "uri": "http://twitter.github.com/bootstrap/"
+    },
+    {
+        "title": "qooxdoo  - JS Framework",
+        "dateAdded": 1364532738354530,
+        "lastModified": 1364532738355230,
+        "description": "qooxdoo is an open-source JavaScript framework for creating rich internet applications (RIA).",
+        "uri": "http://qooxdoo.org/"
+    },
+    {
+        "title": "CSS3′s ‘space’ and ’round’ Values for background-repeat",
+        "dateAdded": 1364532743103317,
+        "lastModified": 1364532743103317,
+        "description": "CSS3′s ‘space’ and ’round’ Values for background-repeat",
+        "uri": "http://www.impressivewebs.com/space-round-css3-background/"
+    },
+    {
+        "title": "How to Apply CSS3 Transformations to Background Images » SitePoint",
+        "dateAdded": 1364532714548783,
+        "lastModified": 1364532715794388,
+        "description": "CSS3 transforms are amazing but you can't apply them to background images. Or can you? Craig provides a solution.",
+        "uri": "http://www.sitepoint.com/css3-transform-background-image/"
+    },
+    {
+        "title": "CSS Tools: Reset CSS",
+        "dateAdded": 1364532708674172,
+        "lastModified": 1364532716352343,
+        "description": "CSS Tools: Reset CSS",
+        "uri": "http://meyerweb.com/eric/tools/css/reset/"
+    },
+    {
+        "title": "HTML5 Reset Stylesheet | HTML5 Doctor",
+        "dateAdded": 1364532720720084,
+        "lastModified": 1364532720723399,
+        "description": "We've had a number of people asking about templates, boilerplates and styling for <abbr>HTML</abbr> 5 so to give you all a helping hand and continue on from those basic building blocks that Remy talked about last week I've created a HTML 5 reset stylesheet for you to take away and use, edit, amend and update in your projects.",
+        "uri": "http://html5doctor.com/html-5-reset-stylesheet/"
+    },
+    {
+        "title": "YUI: Undo reset.css on part of page",
+        "dateAdded": 1364532744248706,
+        "lastModified": 1364532744248706,
+        "description": "YUI: Undo reset.css on part of page",
+        "uri": "http://new.davglass.com/files/yui/undocss/"
+    },
+    {
+        "title": "Normalize.css: Make browsers render all elements more consistently.",
+        "dateAdded": 1364532731664267,
+        "lastModified": 1364532731664267,
+        "description": "Normalize.css: Make browsers render all elements more consistently.",
+        "uri": "http://necolas.github.com/normalize.css/"
+    },
+    {
+        "title": "Debug CSS",
+        "dateAdded": 1364532745174837,
+        "lastModified": 1364532745177819,
+        "description": "debugCSS - CSS to highlight potentially malformed, invalid or questionable markup.",
+        "uri": "https://github.com/yahoo/debugCSS"
+    },
+    {
+        "title": "Faster JavaScript Trim",
+        "dateAdded": 1364532727387568,
+        "lastModified": 1364532727387568,
+        "description": "Faster JavaScript Trim",
+        "uri": "http://blog.stevenlevithan.com/archives/faster-trim-javascript"
+    },
+    {
+        "title": "Fixing the JavaScript typeof operator « JavaScript, JavaScript…",
+        "dateAdded": 1364532709649048,
+        "lastModified": 1364532716652000,
+        "description": "Fixing the JavaScript typeof operator « JavaScript, JavaScript…",
+        "uri": "http://javascriptweblog.wordpress.com/2011/08/08/fixing-the-javascript-typeof-operator/"
+    },
+    {
+        "title": "has.js - Feature detection lib",
+        "dateAdded": 1364532734396146,
+        "lastModified": 1364532734401151,
+        "description": "has.js - Pure Feature Detection Library",
+        "uri": "https://github.com/phiggins42/has.js"
+    },
+    {
+        "title": "Selectivizr - CSS3 pseudo-class and attribute selectors for IE 6-8",
+        "dateAdded": 1364532716994815,
+        "lastModified": 1364532716995543,
+        "description": "selectivizr is a JavaScript utility that emulates CSS3 selectors in Internet Explorer 6-8",
+        "uri": "http://selectivizr.com/"
+    },
+    {
+        "title": "Modernizr Code",
+        "dateAdded": 1364532712922143,
+        "lastModified": 1364532716653633,
+        "description": "Modernizr Code",
+        "uri": "http://www.modernizr.com/downloads/modernizr-latest.js"
+    },
+    {
+        "title": "CSS3 Secrets 10 things you might not know about CSS3",
+        "dateAdded": 1364532716625490,
+        "lastModified": 1364532717509357,
+        "description": "CSS3 Secrets 10 things you might not know about CSS3",
+        "uri": "http://lea.verou.me/css3-secrets/#intro"
+    },
+    {
+        "title": "The Future Of CSS: Embracing The Machine - Smashing Coding",
+        "dateAdded": 1364532717656038,
+        "lastModified": 1364532717658062,
+        "description": "Designers hold CSS close to their hearts. It’s just code, but it is also what makes our carefully crafted designs come to life.",
+        "uri": "http://coding.smashingmagazine.com/2011/11/07/the-future-of-css-embracing-the-machine/"
+    },
+    {
+        "title": "16 Pixels: For Body Copy. Anything Less Is A Costly Mistake - Smashing Magazine | Smashing Magazine",
+        "dateAdded": 1364532731903550,
+        "lastModified": 1364532731904222,
+        "description": "In this article, you'll understand why 16 pixels should generally be the minimum size for body copy in modern Web design.",
+        "uri": "http://www.smashingmagazine.com/2011/10/07/16-pixels-body-copy-anything-less-costly-mistake/"
+    },
+    {
+        "title": "Original Hover Effects with CSS3",
+        "dateAdded": 1364532708612376,
+        "lastModified": 1364532717505614,
+        "description": "Original Hover Effects with CSS3",
+        "uri": "http://tympanus.net/Tutorials/OriginalHoverEffects/index.html"
+    },
+    {
+        "title": "6 Things I Learned About Print Stylesheets From HTML5 Boilerplate | Design Shack",
+        "dateAdded": 1364532714252344,
+        "lastModified": 1364532717507063,
+        "description": "Reading an article entitled 6 Things I Learned About Print Stylesheets From HTML5 Boilerplate on Design Shack.",
+        "uri": "http://designshack.net/articles/css/6-thinks-i-learned-about-print-stylesheets-from-html5-boilerplate/"
+    },
+    {
+        "title": "Considerations for media queries",
+        "dateAdded": 1364532735776216,
+        "lastModified": 1364532735776216,
+        "description": "Considerations for media queries",
+        "uri": "http://zomigi.com/blog/essential-considerations-for-crafting-quality-media-queries/"
+    },
+    {
+        "title": "Numbering In Style | CSS-Tricks",
+        "dateAdded": 1364532724709957,
+        "lastModified": 1364532724713326,
+        "description": "Chances are if you want to number things in order on a website, the ordered list () is your guy. It also is pretty reasonable that you want to style those",
+        "uri": "http://css-tricks.com/15358-numbering-in-style/"
+    },
+    {
+        "title": "3 Things You Never Thought to Do With Media Queries | Design Shack",
+        "dateAdded": 1364532708564862,
+        "lastModified": 1364532717501719,
+        "description": "Reading an article entitled 3 Things You Never Thought to Do With Media Queries on Design Shack.",
+        "uri": "http://designshack.net/articles/css/3-things-you-never-thought-to-do-with-media-queries/"
+    },
+    {
+        "title": "Truncating text using only CSS - amix.dk",
+        "dateAdded": 1364532715287836,
+        "lastModified": 1364532717508098,
+        "description": "Truncating text using only CSS - amix.dk",
+        "uri": "http://amix.dk/blog/post/19661"
+    },
+    {
+        "title": "Path menu in pure CSS3",
+        "dateAdded": 1364532740416916,
+        "lastModified": 1364532740416916,
+        "description": "Path menu in pure CSS3",
+        "uri": "http://lab.victorcoulon.fr/css/path-menu/"
+    },
+    {
+        "title": "Four Simple and Fun CSS Button Hover Effects for Beginners | Design Shack",
+        "dateAdded": 1364532716059497,
+        "lastModified": 1364532717508848,
+        "description": "Reading an article entitled Four Simple and Fun CSS Button Hover Effects for Beginners on Design Shack.",
+        "uri": "http://designshack.net/articles/css/four-simple-and-fun-css-button-hover-effects-for-beginners/"
+    },
+    {
+        "title": "LeaVerou/dabblet - CSS Playground",
+        "dateAdded": 1364532706890933,
+        "lastModified": 1364532717497688,
+        "description": "dabblet - An interactive CSS playground",
+        "uri": "https://github.com/LeaVerou/dabblet"
+    },
+    {
+        "title": "How To Resize Images With CSS – Keeping Aspect Ratio As It Is: Quick & Easy | SachinKRaj weBLOG",
+        "dateAdded": 1364532730706030,
+        "lastModified": 1364532730706030,
+        "description": "How To Resize Images With CSS – Keeping Aspect Ratio As It Is: Quick & Easy | SachinKRaj weBLOG",
+        "uri": "http://blog.sachinkraj.com/how-to-resize-images-with-css/"
+    },
+    {
+        "title": "Doubletake - Variable images",
+        "dateAdded": 1364532717139942,
+        "lastModified": 1364532717983230,
+        "description": "Doubletake - Variable images",
+        "uri": "http://www.grahambird.co.uk/lab/doubletake/"
+    },
+    {
+        "title": "Slider.js - Slick image transitions with a wide selection",
+        "dateAdded": 1364532736726416,
+        "lastModified": 1364532736727147,
+        "description": "Slider.js is an easy-to-use customizable Javascript library to create image slideshows. It relies on the power of CSS Transitions to perform awesome and efficient effects. Slider.js can optionally uses HTML5 Canvas to perform some non trivial transitions.",
+        "uri": "http://greweb.fr/slider/"
+    },
+    {
+        "title": "Infinite All-CSS Scrolling Slideshow | CSS-Tricks",
+        "dateAdded": 1364532721273623,
+        "lastModified": 1364532721276952,
+        "description": "Just for kicks I wanted to see if I could make a row of images animate across a page and repeat indefinitely. Turns out it's really not that hard. The way",
+        "uri": "http://css-tricks.com/13627-infinite-all-css-scrolling-slideshow/"
+    },
+    {
+        "title": "Designing With Blurred Images | Design Shack",
+        "dateAdded": 1364532724852658,
+        "lastModified": 1364532724856000,
+        "description": "Reading an article entitled Tips and Ideas for Designing With Blurred Images on Design Shack.",
+        "uri": "http://designshack.net/articles/layouts/tips-and-ideas-for-designing-with-blurred-images/"
+    },
+    {
+        "title": "Open a Window with Full Size Unscaled Image | CSS-Tricks",
+        "dateAdded": 1364532716134806,
+        "lastModified": 1364532717982727,
+        "description": "For the gallery section of this site, I wanted people to have the ability to see the screenshot at it's original size. Due to the fluid nature of this site",
+        "uri": "http://css-tricks.com/open-a-window-with-full-size-unscaled-image/"
+    },
+    {
+        "title": "tim - Microtemplate",
+        "dateAdded": 1364532721298214,
+        "lastModified": 1364532722624968,
+        "description": "tim - A tiny, secure JavaScript micro-templating script.",
+        "uri": "https://github.com/premasagar/tim"
+    },
+    {
+        "title": "microtemplatez - GitHub",
+        "dateAdded": 1364532745636116,
+        "lastModified": 1364532745641893,
+        "description": "microtemplatez - Another compact micro-templating solution",
+        "uri": "https://github.com/addyosmani/microtemplatez"
+    },
+    {
+        "title": "welaika/wordless - Sugar for Wordpress theming",
+        "dateAdded": 1364532707313756,
+        "lastModified": 1364532722624328,
+        "description": "wordless - All the power of Haml, Compass and Coffeescript, in your WordPress theme. Stop writing themes like it's 1998. ",
+        "uri": "https://github.com/welaika/wordless"
+    },
+    {
+        "title": "twitter/hogan.js - Mustache compiler",
+        "dateAdded": 1364532737279541,
+        "lastModified": 1364532737283117,
+        "description": "hogan.js is a compiler for the Mustache templating language",
+        "uri": "https://github.com/twitter/hogan.js"
+    },
+    {
+        "title": "RVP Model - Scaling Isomorphic Javascript Code - blog.nodejitsu.com - scaling node.js applications one callback at a time.",
+        "dateAdded": 1364532746573840,
+        "lastModified": 1364532746573840,
+        "description": "RVP Model - Scaling Isomorphic Javascript Code - blog.nodejitsu.com - scaling node.js applications one callback at a time.",
+        "uri": "http://blog.nodejitsu.com/scaling-isomorphic-javascript-code"
+    },
+    {
+        "title": "Rethinking JavaScript for-loops « JavaScript, JavaScript…",
+        "dateAdded": 1364532738120706,
+        "lastModified": 1364532738120706,
+        "description": "Rethinking JavaScript for-loops « JavaScript, JavaScript…",
+        "uri": "http://javascriptweblog.wordpress.com/2010/10/11/rethinking-javascript-for-loops/"
+    },
+    {
+        "title": "Custom types (classes) using object literals in JavaScript | NCZOnline",
+        "dateAdded": 1364532726963675,
+        "lastModified": 1364532726965332,
+        "description": "This past week, Jeremy Ashkenas (of CoffeeScript fame) started a flurry of discussion around class syntax for JavaScript. ECMAScript Harmony is scheduled to",
+        "uri": "http://www.nczonline.net/blog/2011/11/04/custom-types-classes-using-object-literals-in-javascript/"
+    },
+    {
+        "title": "tcorral/Design-Patterns-in-Javascript - GitHub",
+        "dateAdded": 1364532711014877,
+        "lastModified": 1364532725293583,
+        "description": "Design-Patterns-in-Javascript - Based in examples on Head First Design Patterns",
+        "uri": "https://github.com/tcorral/Design-Patterns-in-Javascript"
+    },
+    {
+        "title": "Handle Popup Information | CSS-Tricks",
+        "dateAdded": 1364532715943970,
+        "lastModified": 1364532726397477,
+        "description": "Showing additional info (\"popup\") when hovering over an element is a pretty easy thing to do. But there is a ton of subtle ways to improve that interaction. This articles goes over a really excellent technique for this covered by Doug Neiner at the Front End Design Conference 2011.",
+        "uri": "http://css-tricks.com/13638-a-really-nice-way-to-handle-popup-information/"
+    },
+    {
+        "title": "Developing a jQuery Private Messaging Modal Box | Design Shack",
+        "dateAdded": 1364532724531303,
+        "lastModified": 1364532726398298,
+        "description": "Reading an article entitled Developing a jQuery Private Messaging Modal Box on Design Shack.",
+        "uri": "http://designshack.co.uk/articles/javascript/developing-a-jquery-private-messaging-modal-box/"
+    },
+    {
+        "title": "spin.js",
+        "dateAdded": 1364532708657450,
+        "lastModified": 1364532726391823,
+        "description": "An animated CSS activity indicator with VML fallback.",
+        "uri": "http://fgnass.github.com/spin.js/"
+    },
+    {
+        "title": "Humane JS - Notification system",
+        "dateAdded": 1364532707933682,
+        "lastModified": 1364532726386849,
+        "description": "Humane JS - Notification system",
+        "uri": "http://wavded.github.com/humane-js/"
+    },
+    {
+        "title": "TameJS from the creators of OkCupid",
+        "dateAdded": 1364532712046746,
+        "lastModified": 1364532726896959,
+        "description": "TameJS from the creators of OkCupid",
+        "uri": "http://tamejs.org/"
+    },
+    {
+        "title": "Async template loading with Backbone? - Google Groups",
+        "dateAdded": 1364532745843994,
+        "lastModified": 1364532745843994,
+        "description": "Async template loading with Backbone? - Google Groups",
+        "uri": "https://groups.google.com/forum/#!msg/backbonejs/bftIsdAGbMQ/IO7HiztGXjgJ"
+    },
+    {
+        "title": "RiverTrail/RiverTrail - Parallel processing in JS",
+        "dateAdded": 1364532738918107,
+        "lastModified": 1364532738924663,
+        "description": "RiverTrail - River Trail",
+        "uri": "https://github.com/RiverTrail/RiverTrail"
+    },
+    {
+        "title": "Traffic Cop - jQuery AJAX monitor (prevents redundancy)",
+        "dateAdded": 1364532724842435,
+        "lastModified": 1364532726897717,
+        "description": "Traffic Cop - jQuery AJAX monitor (prevents redundancy)",
+        "uri": "http://freshbrewedcode.com/jimcowart/2011/11/25/traffic-cop/"
+    },
+    {
+        "title": "JSON-js",
+        "dateAdded": 1364532733033292,
+        "lastModified": 1364532733037516,
+        "description": "JSON-js - JSON in JavaScript",
+        "uri": "https://github.com/douglascrockford/JSON-js"
+    },
+    {
+        "title": "json-sans-eval - A quick JavaScript JSON parser that does not use eval - Google Project Hosting",
+        "dateAdded": 1364532739015782,
+        "lastModified": 1364532739015782,
+        "description": "json-sans-eval - A quick JavaScript JSON parser that does not use eval - Google Project Hosting",
+        "uri": "http://code.google.com/p/json-sans-eval/"
+    },
+    {
+        "title": "Stylus - Another CSS lib",
+        "dateAdded": 1364532741970477,
+        "lastModified": 1364532741970477,
+        "description": "Stylus - Another CSS lib",
+        "uri": "http://learnboost.github.com/stylus/"
+    },
+    {
+        "title": "Prefix free: auto-prefix css",
+        "dateAdded": 1364532744613478,
+        "lastModified": 1364532744613478,
+        "description": "Prefix free: auto-prefix css",
+        "uri": "http://leaverou.github.com/prefixfree/"
+    },
+    {
+        "title": "Conditional stylesheets vs CSS hacks? Answer: Neither! « Paul Irish",
+        "dateAdded": 1364532710321339,
+        "lastModified": 1364532729250809,
+        "description": "Conditional stylesheets vs CSS hacks? Answer: Neither!",
+        "uri": "http://paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/"
+    },
+    {
+        "title": "Faster JavaScript Memoization For Improved Application Performance",
+        "dateAdded": 1364532711433887,
+        "lastModified": 1364532729560943,
+        "description": "This is the home of Addy Osmani (Web Developer, Designer & Author). Here you can find some great tips and tutorials on everything to do with web development and even a few useful code samples!",
+        "uri": "http://addyosmani.com/blog/faster-javascript-memoization/"
+    },
+    {
+        "title": "Microcaching: Speed your app up 250x with no new code - Fenn's Thoughts",
+        "dateAdded": 1364532720990907,
+        "lastModified": 1364532729576714,
+        "description": "Microcaching: Speed your app up 250x with no new code - Fenn's Thoughts",
+        "uri": "http://fennb.com/microcaching-speed-your-app-up-250x-with-no-n"
+    },
+    {
+        "title": "insertAdjacentHTML() Enables Faster HTML Snippet Injection ✩ Mozilla Hacks – the Web developer blog",
+        "dateAdded": 1364532715729443,
+        "lastModified": 1364532729564595,
+        "description": "hacks.mozilla.org",
+        "uri": "http://hacks.mozilla.org/2011/11/insertadjacenthtml-enables-faster-html-snippet-injection/"
+    },
+    {
+        "title": "Benchmark.js",
+        "dateAdded": 1364532718744166,
+        "lastModified": 1364532729571218,
+        "description": "A robust benchmarking library that works on nearly all JavaScript platforms, supports high-resolution timers, and returns statistically significant results.",
+        "uri": "http://benchmarkjs.com/"
+    },
+    {
+        "title": "Vows « Asynchronous BDD for Node",
+        "dateAdded": 1364532730821605,
+        "lastModified": 1364532730821605,
+        "description": "Vows « Asynchronous BDD for Node",
+        "uri": "http://vowsjs.org/"
+    },
+    {
+        "title": "Mocha - BDD test framework",
+        "dateAdded": 1364532716192286,
+        "lastModified": 1364532729568161,
+        "description": "Mocha - BDD test framework",
+        "uri": "http://visionmedia.github.com/mocha/"
+    },
+    {
+        "title": "cucumber/cucumber-js - BDD",
+        "dateAdded": 1364532731702693,
+        "lastModified": 1364532731703996,
+        "description": "cucumber-js - Pure Javascript Cucumber",
+        "uri": "https://github.com/cucumber/cucumber-js"
+    },
+    {
+        "title": "stress-css - Stress testing for CSS",
+        "dateAdded": 1364532745238537,
+        "lastModified": 1364532745244385,
+        "description": "stress-css - JavaScript to test each CSS class on a page and report which are hindering performance",
+        "uri": "https://github.com/andyedinborough/stress-css"
+    },
+    {
+        "title": "Needle: Automated tests for your CSS — Needle v0.1a1 documentation",
+        "dateAdded": 1364532726291888,
+        "lastModified": 1364532729577804,
+        "description": "Needle: Automated tests for your CSS — Needle v0.1a1 documentation",
+        "uri": "http://needle.readthedocs.org/en/latest/"
+    },
+    {
+        "title": "isaacs/node-tap - Testing library",
+        "dateAdded": 1364532744967156,
+        "lastModified": 1364532744972764,
+        "description": "node-tap - Test Anything Protocol tools for node",
+        "uri": "https://github.com/isaacs/node-tap"
+    },
+    {
+        "title": "Loadtimer: a mobile test harness | High Performance Web Sites",
+        "dateAdded": 1364532741935798,
+        "lastModified": 1364532741935798,
+        "description": "Loadtimer: a mobile test harness | High Performance Web Sites",
+        "uri": "http://www.stevesouders.com/blog/2011/12/01/loadtimer-a-mobile-test-harness/"
+    },
+    {
+        "title": "elcuervo/gerbil - Anywhere JS BDD",
+        "dateAdded": 1364532710581061,
+        "lastModified": 1364532729556019,
+        "description": "gerbil - Gerbil: Inquisitive, friendly animals that rarely bite, TDD for the rest of us",
+        "uri": "https://github.com/elcuervo/gerbil"
+    },
+    {
+        "title": "Buster.JS - A robust BDD testing suite",
+        "dateAdded": 1364532728056865,
+        "lastModified": 1364532729578514,
+        "description": "Buster.JS - A robust BDD testing suite",
+        "uri": "http://busterjs.org/docs/overview/"
+    },
+    {
+        "title": "lucentminds/DOMLoaded - GitHub",
+        "dateAdded": 1364532745036234,
+        "lastModified": 1364532745040853,
+        "description": "DOMLoaded - A bit of javascript I took from jQuery to detect when dom is loaded in multiple browsers. This is useful when you need to know if the DOM has been loaded, but don't want to use all of jQuery to do it.",
+        "uri": "https://github.com/lucentminds/DOMLoaded"
+    },
+    {
+        "title": "domready - The smallest subset possible from jQuery to support dom Ready event. - Google Project Hosting",
+        "dateAdded": 1364532716291306,
+        "lastModified": 1364532730037130,
+        "description": "domready - The smallest subset possible from jQuery to support dom Ready event. - Google Project Hosting",
+        "uri": "http://code.google.com/p/domready/"
+    },
+    {
+        "title": "jquip - Thinner jquery",
+        "dateAdded": 1364532740718941,
+        "lastModified": 1364532740721040,
+        "description": "jquip - jQuery in Parts",
+        "uri": "https://github.com/mythz/jquip"
+    },
+    {
+        "title": "jQuip - jQuery in parts :: Builder",
+        "dateAdded": 1364532725582225,
+        "lastModified": 1364532730038543,
+        "description": "jQuip - jQuery in parts :: Builder",
+        "uri": "http://www.servicestack.net/jqbuilder/"
+    },
+    {
+        "title": "Broadway: An H.264 Decoder in JavaScript Running at 30fps - Badass JavaScript",
+        "dateAdded": 1364532727481434,
+        "lastModified": 1364532731135106,
+        "description": "Broadway: An H.264 Decoder in JavaScript Running at 30fps I’ve been seeking an H.264 decoder in JavaScript for some time now, and my wish has finally come true. We’ve seen lots of other formats be...",
+        "uri": "http://badassjs.com/post/12035631618/broadway-an-h-264-decoder-in-javascript-running-at"
+    },
+    {
+        "title": "pdf.js",
+        "dateAdded": 1364532722485531,
+        "lastModified": 1364532731118915,
+        "description": "pdf.js - PDF Reader in JavaScript",
+        "uri": "https://github.com/mozilla/pdf.js"
+    },
+    {
+        "title": "LLVM to Javascript compiler",
+        "dateAdded": 1364532708760987,
+        "lastModified": 1364532730956600,
+        "description": "emscripten - Emscripten: An LLVM-to-JavaScript Compiler",
+        "uri": "https://github.com/kripken/emscripten"
+    },
+    {
+        "title": "Ender - the no-library library.",
+        "dateAdded": 1364532738789222,
+        "lastModified": 1364532738789222,
+        "description": "Ender - the no-library library.",
+        "uri": "http://ender.no.de/"
+    },
+    {
+        "title": "bounce HTTP requests around with bouncy :: The Universe of Discord",
+        "dateAdded": 1364532709033223,
+        "lastModified": 1364532730963039,
+        "description": "bounce HTTP requests around with bouncy :: The Universe of Discord",
+        "uri": "http://substack.net/posts/5bd18d"
+    },
+    {
+        "title": "overtone - Audio library",
+        "dateAdded": 1364532714230667,
+        "lastModified": 1364532731042897,
+        "description": "overtone - Audio library",
+        "uri": "http://jng.imagine27.com/articles/2011-10-02-171602_overtone.html"
+    },
+    {
+        "title": "Stripe - Payment lib",
+        "dateAdded": 1364532742714165,
+        "lastModified": 1364532742714986,
+        "description": "Stripe makes it easy for developers to accept credit cards on the web.",
+        "uri": "https://stripe.com/"
+    },
+    {
+        "title": "Share Count JS - Join all sharing utils into one counter",
+        "dateAdded": 1364532742058274,
+        "lastModified": 1364532742058274,
+        "description": "Share Count JS - Join all sharing utils into one counter",
+        "uri": "http://dandypixels.com/sharecount/"
+    },
+    {
+        "title": "sooty - Campfire bot framework",
+        "dateAdded": 1364532716619411,
+        "lastModified": 1364532731087248,
+        "description": "sooty - Framework for writing Campfire bots on Node.js, Consider using http://hubot.github.com now.",
+        "uri": "https://github.com/tombell/sooty"
+    },
+    {
+        "title": "the-guard.js - JS Access Control List",
+        "dateAdded": 1364532710933120,
+        "lastModified": 1364532731011387,
+        "description": "the-guard.js - A JavaScript ACL",
+        "uri": "https://github.com/dariocravero/the-guard.js"
+    },
+    {
+        "title": "chainvas: Fluent interface API",
+        "dateAdded": 1364532743908381,
+        "lastModified": 1364532743908381,
+        "description": "chainvas: Fluent interface API",
+        "uri": "http://leaverou.github.com/chainvas/"
+    },
+    {
+        "title": "webnull - dev/null for HTTP",
+        "dateAdded": 1364532712325958,
+        "lastModified": 1364532731022581,
+        "description": "webnull - web/null eats your HTTP",
+        "uri": "https://github.com/jondot/webnull"
+    },
+    {
+        "title": "Reading local files in JavaScript",
+        "dateAdded": 1364532713256775,
+        "lastModified": 1364532731033159,
+        "description": "A resource for developers looking to put HTML5 to use today, including information on specific features and when to use them in your apps.",
+        "uri": "http://www.html5rocks.com/en/tutorials/file/dndfiles/"
+    },
+    {
+        "title": "introducing esprima: blazing-fast javascript parser | don't code today",
+        "dateAdded": 1364532724892187,
+        "lastModified": 1364532731124674,
+        "description": "introducing esprima: blazing-fast javascript parser | don't code today",
+        "uri": "http://ariya.ofilabs.com/2011/12/introducing-esprima.html"
+    },
+    {
+        "title": "Modular JS - AMD, CommonJS & ES Harmony",
+        "dateAdded": 1364532728852545,
+        "lastModified": 1364532731136964,
+        "description": "Learn how to write modular JavaScript using modern synchronous and asynchronous formats such as AMD and CommonJS",
+        "uri": "http://addyosmani.com/writing-modular-js/"
+    },
+    {
+        "title": "node-hotcode - Auto reload page/assets",
+        "dateAdded": 1364532737321171,
+        "lastModified": 1364532737325445,
+        "description": "node-hotcode - hotcode makes frontend development easier by auto reloading the page/assets on file changes. Backend independent.",
+        "uri": "https://github.com/mape/node-hotcode"
+    },
+    {
+        "title": "Haraka - Mail server",
+        "dateAdded": 1364532718627165,
+        "lastModified": 1364532731101547,
+        "description": "Haraka - An event driven SMTP server",
+        "uri": "https://github.com/baudehlo/Haraka"
+    },
+    {
+        "title": "A Javascript stacktrace in any browser",
+        "dateAdded": 1364532714567301,
+        "lastModified": 1364532731066069,
+        "description": "Create a javascript stack trace with IE, Firefox, Opera, Google Chrome and Safari using advanced techniques",
+        "uri": "http://eriwen.com/javascript/js-stack-trace/"
+    },
+    {
+        "title": "socket.io and session? - Stack Overflow",
+        "dateAdded": 1364532742924840,
+        "lastModified": 1364532742924840,
+        "description": "socket.io and session? - Stack Overflow",
+        "uri": "http://stackoverflow.com/questions/4641053/socket-io-and-session"
+    },
+    {
+        "title": "socket.io and Express. Tying it all together. - einen kurzen augenblick lang die welt durch andere augen sehen",
+        "dateAdded": 1364532716672426,
+        "lastModified": 1364532731091150,
+        "description": "socket.io and Express. Tying it all together. - einen kurzen augenblick lang die welt durch andere augen sehen",
+        "uri": "http://www.danielbaulig.de/socket-ioexpress/"
+    },
+    {
+        "title": "Xb - Tiny polling lib",
+        "dateAdded": 1364532737851826,
+        "lastModified": 1364532737855157,
+        "description": "Xb - a simple js library for backoff callbacks",
+        "uri": "https://github.com/fernandezpablo85/xb"
+    },
+    {
+        "title": "node-js-development-mode.js at master from kuchumovn/node-js-development-mode - GitHub",
+        "dateAdded": 1364532710573930,
+        "lastModified": 1364532730999366,
+        "description": "node-js-development-mode - auto reload Node.js when modifying application code (hot reload, \"development mode\")",
+        "uri": "https://github.com/kuchumovn/node-js-development-mode/blob/master/node-js-development-mode.js"
+    },
+    {
+        "title": "imbrianj/Bevey-JS-Toolkit - GitHub",
+        "dateAdded": 1364532714439516,
+        "lastModified": 1364532731056937,
+        "description": "Bevey-JS-Toolkit - Simple JS toolkit providing simple methods for common DOM tasks.  Built for self-study and limited personal use.  Use YUI or JQuery if you want something decent.",
+        "uri": "https://github.com/imbrianj/Bevey-JS-Toolkit"
+    },
+    {
+        "title": "Using CORS with All (Modern) Browsers",
+        "dateAdded": 1364532709890034,
+        "lastModified": 1364532730981613,
+        "description": "The HTML5-based, jQuery-powered A-Z solution for building modern web applications. All you need for your client-side development.",
+        "uri": "http://www.kendoui.com/blogs/teamblog/posts/11-10-04/using_cors_with_all_modern_browsers.aspx"
+    },
+    {
+        "title": "FOUJUI: Flash of Uninitialized JavaScript UI",
+        "dateAdded": 1364532707057826,
+        "lastModified": 1364532730935594,
+        "description": "The HTML5-based, jQuery-powered A-Z solution for building modern web applications. All you need for your client-side development.",
+        "uri": "http://www.kendoui.com/blogs/teamblog/posts/11-10-06/foujui_flash_of_uninitialized_javascript_ui.aspx"
+    },
+    {
+        "title": "js/jquery.ui.dialog.patch.js at bdf8d279d0a78b6a921e446fc7448fabffa3322d from ksenzee/views3ui - GitHub",
+        "dateAdded": 1364532740667091,
+        "lastModified": 1364532740668509,
+        "description": "views3ui - A new UI for Views 7.x-3.x.",
+        "uri": "https://github.com/ksenzee/views3ui/blob/bdf8d279d0a78b6a921e446fc7448fabffa3322d/js/jquery.ui.dialog.patch.js"
+    },
+    {
+        "title": "Parsing CSV Strings With Javascript Exec() Regular Expression Command",
+        "dateAdded": 1364532726971938,
+        "lastModified": 1364532731127632,
+        "description": "Ben Nadel ports his CSVToArray() method from ColdFusion to Javascript so that CSV values can be parsed in Javascript.",
+        "uri": "http://www.bennadel.com/blog/1504-Ask-Ben-Parsing-CSV-Strings-With-Javascript-Exec-Regular-Expression-Command.htm"
+    },
+    {
+        "title": "OS.js (JavaScript Operating System) « Anders Evenrud Weblog",
+        "dateAdded": 1364532740042591,
+        "lastModified": 1364532740042591,
+        "description": "OS.js (JavaScript Operating System) « Anders Evenrud Weblog",
+        "uri": "http://anderse.wordpress.com/os-js/"
+    },
+    {
+        "title": "JSZip: JavaScript zip class",
+        "dateAdded": 1364532734852069,
+        "lastModified": 1364532734852689,
+        "description": "Create .zip files using Javascript. Provides a simple API to place any content generated by Javascript into a .zip file for your users.",
+        "uri": "http://jszip.stuartk.co.uk/"
+    },
+    {
+        "title": "JS/CC Parser Generator Project Homepage",
+        "dateAdded": 1364532746089703,
+        "lastModified": 1364532746093299,
+        "description": "Official home of the JS/CC project, an implementation of a LALR(1) parser generator for JavaScript in JavaScript itself.",
+        "uri": "http://jscc.jmksf.com/"
+    },
+    {
+        "title": "FGRibreau/forever-webui - Web UI for forever",
+        "dateAdded": 1364532721999544,
+        "lastModified": 1364532731116333,
+        "description": "forever-webui - A simple web UI for efficient nodejs administration",
+        "uri": "https://github.com/FGRibreau/forever-webui"
+    },
+    {
+        "title": "Pushing and Popping with the History API | HTML5 Doctor",
+        "dateAdded": 1364532720710003,
+        "lastModified": 1364532731104785,
+        "description": "Pushing and Popping with the History API | HTML5 Doctor",
+        "uri": "http://html5doctor.com/history-api/"
+    },
+    {
+        "title": "DEMENTIA - Canvas blood simulation",
+        "dateAdded": 1364532732828595,
+        "lastModified": 1364532732828595,
+        "description": "DEMENTIA - Canvas blood simulation",
+        "uri": "http://gravytea.com/labs/dementia/"
+    },
+    {
+        "title": "Phrogz/context-blender - Photoshop-style blending for canvas",
+        "dateAdded": 1364532727317265,
+        "lastModified": 1364532731130218,
+        "description": "context-blender - Photoshop-style blend modes for HTML Canvas Contexts",
+        "uri": "https://github.com/Phrogz/context-blender"
+    },
+    {
+        "title": "pkumar/npm-police - Find outdated modules",
+        "dateAdded": 1364532718463807,
+        "lastModified": 1364532731098195,
+        "description": "npm-police - policing the dependency packages versions",
+        "uri": "https://github.com/pkumar/npm-police"
+    },
+    {
+        "title": "beatgammit/gzip-js - GZIP in the browser",
+        "dateAdded": 1364532727442590,
+        "lastModified": 1364532731132722,
+        "description": "gzip-js - GZIP implemented in pure JavaScript",
+        "uri": "https://github.com/beatgammit/gzip-js"
+    },
+    {
+        "title": "spark - Bar charts in unicode",
+        "dateAdded": 1364532716610581,
+        "lastModified": 1364532731083316,
+        "description": "spark -  ▁▂▃▅▂▇ in your shell.",
+        "uri": "https://github.com/holman/spark"
+    },
+    {
+        "title": "Isogenic Engine - Game engine",
+        "dateAdded": 1364532744377861,
+        "lastModified": 1364532744377861,
+        "description": "Isogenic Engine - Game engine",
+        "uri": "http://www.isogenicengine.com/"
+    },
+    {
+        "title": "jes5199/brid.js - Lisp-like js interpretter",
+        "dateAdded": 1364532721616214,
+        "lastModified": 1364532731110839,
+        "description": "brid.js hosted on GitHub",
+        "uri": "https://github.com/jes5199/brid.js"
+    },
+    {
+        "title": "In the YUI 3 Gallery: Bulk Editor Widget » Yahoo! User Interface Blog (YUIBlog)",
+        "dateAdded": 1364532746248069,
+        "lastModified": 1364532746248069,
+        "description": "In the YUI 3 Gallery: Bulk Editor Widget » Yahoo! User Interface Blog (YUIBlog)",
+        "uri": "http://www.yuiblog.com/blog/2011/12/05/bulk-edi/"
+    },
+    {
+        "title": "andreasgal/dom.js - DOM Implementation",
+        "dateAdded": 1364532734656554,
+        "lastModified": 1364532734661506,
+        "description": "dom.js - Self-hosted JavaScript implementation of a WebIDL-compliant HTML5 DOM.",
+        "uri": "https://github.com/andreasgal/dom.js"
+    },
+    {
+        "title": "indutny/deadbolt - Auto-unlocking system",
+        "dateAdded": 1364532713550847,
+        "lastModified": 1364532731038135,
+        "description": "deadbolt - Autoreleasing locks for node.js",
+        "uri": "https://github.com/indutny/deadbolt"
+    },
+    {
+        "title": "idiomatic.js - Another style guide",
+        "dateAdded": 1364532744030163,
+        "lastModified": 1364532744031067,
+        "description": "idiomatic.js hosted on GitHub",
+        "uri": "https://github.com/rwldrn/idiomatic.js"
+    },
+    {
+        "title": "Rapid history extraction through non-destructive cache timing (v7)",
+        "dateAdded": 1364532727448347,
+        "lastModified": 1364532731133916,
+        "description": "Rapid history extraction through non-destructive cache timing (v7)",
+        "uri": "http://lcamtuf.coredump.cx/cachetime/"
+    },
+    {
+        "title": "Ivo – The terminal reimagined",
+        "dateAdded": 1364532714589178,
+        "lastModified": 1364532731070724,
+        "description": "Ivo – The terminal reimagined",
+        "uri": "http://lubutu.com/idea/ivo"
+    },
+    {
+        "title": "Pita/async-stacktrace - Sugar for error handling",
+        "dateAdded": 1364532738984307,
+        "lastModified": 1364532738986875,
+        "description": "async-stacktrace - Improves node.js stacktraces and makes it easier to handle errors",
+        "uri": "https://github.com/Pita/async-stacktrace"
+    },
+    {
+        "title": "on Quality: Recently Web APIs for Firefox",
+        "dateAdded": 1364532716033859,
+        "lastModified": 1364532731079352,
+        "description": "on Quality: Recently Web APIs for Firefox",
+        "uri": "http://johnhammink.blogspot.com/2011/11/lets-have-look-at-some-recently-landed.html"
+    },
+    {
+        "title": "bytex64.net: data:snake",
+        "dateAdded": 1364532709503477,
+        "lastModified": 1364532730969321,
+        "description": "bytex64.net: data:snake",
+        "uri": "http://bytex64.net/code/datasnake/"
+    },
+    {
+        "title": "Gow - Cygwin alternative",
+        "dateAdded": 1364532736904975,
+        "lastModified": 1364532736906529,
+        "description": "gow - Unix command line utilities installer for Windows.",
+        "uri": "https://github.com/bmatzelle/gow/wiki"
+    },
+    {
+        "title": "Constructive Solid Geometry",
+        "dateAdded": 1364532732598263,
+        "lastModified": 1364532732598263,
+        "description": "Constructive Solid Geometry",
+        "uri": "http://evanw.github.com/csg.js/"
+    },
+    {
+        "title": "spire-io/shred - Node.js Http client",
+        "dateAdded": 1364532742719641,
+        "lastModified": 1364532742721361,
+        "description": "shred - A Node.js HTTP Client",
+        "uri": "https://github.com/spire-io/shred?utm_source=javascriptweekly&utm_medium=email"
+    },
+    {
+        "title": "Quick Tip: Get Gravatar Images from Emails with JavaScript",
+        "dateAdded": 1364532725772709,
+        "lastModified": 1364532731126271,
+        "description": "Darcy Clarke's Blog - Writings about web development, design, ux, interaction, and showcasing experiments in the latest web technologies like HTML5, CSS3, Canvas, Video, SVG, HSLA and more.",
+        "uri": "http://darcyclarke.me/development/quick-tip-get-gravatar-images-from-emails-with-javascript/"
+    },
+    {
+        "title": "isaacs/read - CLI reader",
+        "dateAdded": 1364532727373318,
+        "lastModified": 1364532731131473,
+        "description": "read(1) for node.",
+        "uri": "https://github.com/isaacs/read"
+    },
+    {
+        "title": "KeyboardJS",
+        "dateAdded": 1364532730136095,
+        "lastModified": 1364532731137490,
+        "description": "KeyboardJS",
+        "uri": "http://robertwhurst.github.com/KeyboardJS/"
+    },
+    {
+        "title": "dshaw/mixture - Cluster manager",
+        "dateAdded": 1364532739869380,
+        "lastModified": 1364532739870806,
+        "description": "mixture - Heterogeneous cluster task manager",
+        "uri": "https://github.com/dshaw/mixture"
+    },
+    {
+        "title": "weepy/brequire - Another AMD loader",
+        "dateAdded": 1364532711273858,
+        "lastModified": 1364532731017067,
+        "description": "brequire - Clientside CommonJS",
+        "uri": "https://github.com/weepy/brequire"
+    },
+    {
+        "title": "watch - simple periodical execution utility in C - The Changelog - Open Source moves fast. Keep up.",
+        "dateAdded": 1364532724643064,
+        "lastModified": 1364532731122844,
+        "description": "watch - simple periodical execution utility in C https://github.com/visionmedia/watch Guard is a big part of my development workflow for preprocessing styles and coffeescript as well as running tests....",
+        "uri": "http://thechangelog.com/post/14041353400/watch-simple-periodical-execution-utility-in-c"
+    },
+    {
+        "title": "Create — A new kind of web editing interface",
+        "dateAdded": 1364532728243378,
+        "lastModified": 1364532731136108,
+        "description": "Create — A new kind of web editing interface",
+        "uri": "http://createjs.org/"
+    },
+    {
+        "title": "crcn/cupboard - Manage/publish projects/packages",
+        "dateAdded": 1364532708146531,
+        "lastModified": 1364532730949915,
+        "description": "cupboard - The reverse package manager",
+        "uri": "https://github.com/crcn/cupboard"
+    },
+    {
+        "title": "How to make Socket.IO work behind nginx (mostly) | Stephen Belanger",
+        "dateAdded": 1364532714383803,
+        "lastModified": 1364532731052297,
+        "description": "Most web hosts with node.js support host it behind an nginx proxy. Sadly, Socket.IO doesn't work at all behind nginx without a bit of hacking.",
+        "uri": "http://stephenbelanger.com/2011/09/21/how-to-make-socket-io-work-behind-nginx-mostly/"
+    },
+    {
+        "title": "Parallel Map | Notes (beta)",
+        "dateAdded": 1364532721978358,
+        "lastModified": 1364532731113605,
+        "description": "Parallel Map | Notes (beta)",
+        "uri": "http://notes.ericjiang.com/posts/389"
+    },
+    {
+        "title": "kristopolous/TickTick - JSON in Bash",
+        "dateAdded": 1364532714466228,
+        "lastModified": 1364532731061533,
+        "description": "TickTick - JSON in your Bash scripts",
+        "uri": "https://github.com/kristopolous/TickTick"
+    },
+    {
+        "title": "request - HTTP node module",
+        "dateAdded": 1364532727309946,
+        "lastModified": 1364532731128981,
+        "description": "This is the fourth article in Node.js modules you should know about article series. This time I introduce you to mikeal's request, which is swiss army knife for HTTP streaming.",
+        "uri": "http://www.catonmat.net/blog/nodejs-modules-request/"
+    },
+    {
+        "title": "Sequelize » A MySQL Object-Relational-Mapper for NodeJS",
+        "dateAdded": 1364532739642864,
+        "lastModified": 1364532739642864,
+        "description": "Sequelize » A MySQL Object-Relational-Mapper for NodeJS",
+        "uri": "http://sequelizejs.com/#installation"
+    },
+    {
+        "title": "feature-detects/network-connection.js at master from Modernizr/Modernizr - GitHub",
+        "dateAdded": 1364532732246249,
+        "lastModified": 1364532732248651,
+        "description": "Modernizr - Feature detect HTML5 and CSS3 features, with handy css and javascript hooks so you can progressively enhance to your heart's content.",
+        "uri": "https://github.com/Modernizr/Modernizr/blob/master/feature-detects/network-connection.js?utm_source=html5weekly&utm_medium=email"
+    },
+    {
+        "title": "Passport - Node Auth lib",
+        "dateAdded": 1364532714373411,
+        "lastModified": 1364532731047650,
+        "description": "Passport - Node Auth lib",
+        "uri": "http://passportjs.org/"
+    },
+    {
+        "title": "Echonest-jQuery-Plugin - Music DB API for jQuery",
+        "dateAdded": 1364532710693459,
+        "lastModified": 1364532731005460,
+        "description": "Echonest-jQuery-Plugin - A jQuery plugin for interacting with the EchoNest API",
+        "uri": "https://github.com/Rodeoclash/Echonest-jQuery-Plugin"
+    },
+    {
+        "title": "fent/randexp.js @ Random String Generator from regex",
+        "dateAdded": 1364532714651166,
+        "lastModified": 1364532731075241,
+        "description": "fent/randexp.js @ Random String Generator from regex",
+        "uri": "http://fent.github.com/randexp.js/"
+    },
+    {
+        "title": "BuzaMoto JSTapGestureRecognizer",
+        "dateAdded": 1364532741397327,
+        "lastModified": 1364532741397327,
+        "description": "BuzaMoto JSTapGestureRecognizer",
+        "uri": "http://mud.mitplw.com/JSGestureRecognizer/"
+    },
+    {
+        "title": "ecto/duino - Arduino node framework",
+        "dateAdded": 1364532721244541,
+        "lastModified": 1364532731107844,
+        "description": "Arduino framework for node.js",
+        "uri": "https://github.com/ecto/duino"
+    },
+    {
+        "title": "Why I'm Excited about <code>Names</code> in JavaScript - Tab Completion",
+        "dateAdded": 1364532724445881,
+        "lastModified": 1364532731120900,
+        "description": "Why I'm Excited about <code>Names</code> in JavaScript - Tab Completion",
+        "uri": "http://www.xanthir.com/blog/b4FJ0"
+    },
+    {
+        "title": "makeable/Notificon - Add text to favicon",
+        "dateAdded": 1364532710245002,
+        "lastModified": 1364532730987527,
+        "description": "Notificon - Favicon Notifications / Alerts",
+        "uri": "https://github.com/makeable/Notificon"
+    },
+    {
+        "title": "janjongboom/node-native-zip",
+        "dateAdded": 1364532717749384,
+        "lastModified": 1364532731094804,
+        "description": "node-native-zip - Zipping in node.js with no external dependencies",
+        "uri": "https://github.com/janjongboom/node-native-zip"
+    },
+    {
+        "title": "Clarinet - JSON stream parser",
+        "dateAdded": 1364532709598191,
+        "lastModified": 1364532730975608,
+        "description": "Clarinet - JSON stream parser",
+        "uri": "http://writings.nunojob.com/2011/12/clarinet-sax-based-evented-streaming-json-parser-in-javascript-for-the-browser-and-nodejs.html"
+    },
+    {
+        "title": "Sugarless - JS context orienter",
+        "dateAdded": 1364532743247987,
+        "lastModified": 1364532743247987,
+        "description": "Sugarless - JS context orienter",
+        "uri": "http://laktek.com/2011/12/21/introducing-sugarless/"
+    },
+    {
+        "title": "Task.js: Promises for ES6",
+        "dateAdded": 1364532707183327,
+        "lastModified": 1364532730942939,
+        "description": "Task.js: Promises for ES6",
+        "uri": "http://taskjs.org/"
+    },
+    {
+        "title": "JS media queries",
+        "dateAdded": 1364532733921311,
+        "lastModified": 1364532733922187,
+        "description": "Early in 2011, I was working on a project where I was doing some feature detection in JavaScript. Some tinkering led to the thought that using a CSS media query",
+        "uri": "http://www.nczonline.net/blog/2012/01/03/css-media-queries-in-javascript-part-1/"
+    },
+    {
+        "title": "Fake operator overloading in JavaScript",
+        "dateAdded": 1364532741827305,
+        "lastModified": 1364532741827305,
+        "description": "Fake operator overloading in JavaScript",
+        "uri": "http://www.2ality.com/2011/12/fake-operator-overloading.html"
+    },
+    {
+        "title": "jQuery-inlog - jQuery debug utility",
+        "dateAdded": 1364532739739697,
+        "lastModified": 1364532739739697,
+        "description": "jQuery-inlog - jQuery debug utility",
+        "uri": "http://prinzhorn.github.com/jquery-inlog/"
+    },
+    {
+        "title": "vesln/word - Word functions",
+        "dateAdded": 1364532712503843,
+        "lastModified": 1364532731028027,
+        "description": "word - Functions that assist in working with strings. Node.js",
+        "uri": "https://github.com/vesln/word"
+    },
+    {
+        "title": "BozoCrack - md5 decrypter",
+        "dateAdded": 1364532710350865,
+        "lastModified": 1364532730993444,
+        "description": "BozoCrack - A silly & effective MD5 cracker in Ruby",
+        "uri": "https://github.com/juuso/BozoCrack"
+    },
+    {
+        "title": "liftoff/GateOne - Terminal and ssh emulator",
+        "dateAdded": 1364532734268788,
+        "lastModified": 1364532734274014,
+        "description": "GateOne - HTML5 (plugin-free) web-based terminal emulator and SSH client",
+        "uri": "https://github.com/liftoff/GateOne"
+    },
+    {
+        "title": "DanielRapp/twss.js - That's what she said",
+        "dateAdded": 1364532738439567,
+        "lastModified": 1364532738443106,
+        "description": "twss.js - A node.js \"that's what she said\" classifier",
+        "uri": "https://github.com/DanielRapp/twss.js"
+    },
+    {
+        "title": "dfSmooth Scroll | Dezinerfolio",
+        "dateAdded": 1364532712117785,
+        "lastModified": 1364532732115774,
+        "description": "Virtual Img:&nbsp; One Line Description:&nbsp; A simple smooth scroll light-weight JS External URL:&nbsp; View Article We are again back with another interesting miniature javascript called the &ldquo;df Smooth Scroll&ldquo;. This",
+        "uri": "http://www.dezinerfolio.com/2007/08/08/df-javascript-smooth-scroll"
+    },
+    {
+        "title": "Tangle: a JavaScript library for reactive documents",
+        "dateAdded": 1364532740935811,
+        "lastModified": 1364532740935811,
+        "description": "Tangle: a JavaScript library for reactive documents",
+        "uri": "http://worrydream.com/Tangle/"
+    },
+    {
+        "title": "Moment.js - timedate library",
+        "dateAdded": 1364532743926441,
+        "lastModified": 1364532743926441,
+        "description": "Moment.js - timedate library",
+        "uri": "http://momentjs.com/"
+    },
+    {
+        "title": "grumble.js - Bubbles around elements",
+        "dateAdded": 1364532733113998,
+        "lastModified": 1364532733115680,
+        "description": "Examples and documentation on grumble.js",
+        "uri": "http://jamescryer.github.com/grumble.js/"
+    },
+    {
+        "title": "nanoScroller.js - jQuery OSX scrollbar",
+        "dateAdded": 1364532723494893,
+        "lastModified": 1364532732124364,
+        "description": "nanoScroller.js - jQuery OSX scrollbar",
+        "uri": "http://jamesflorentino.com/jquery.nanoscroller/"
+    },
+    {
+        "title": "Zikes/circle-menu - GitHub",
+        "dateAdded": 1364532739816146,
+        "lastModified": 1364532739817951,
+        "description": "circle-menu - A circular menu jQuery plugin, inspired by the Path application for Android and iOS",
+        "uri": "https://github.com/Zikes/circle-menu"
+    },
+    {
+        "title": "levey/QuadCurveMenu - Path menu",
+        "dateAdded": 1364532721722713,
+        "lastModified": 1364532732118970,
+        "description": "QuadCurveMenu - Path 2.0 menu using CoreAnimation :)",
+        "uri": "https://github.com/levey/QuadCurveMenu"
+    },
+    {
+        "title": "jQuery Geo",
+        "dateAdded": 1364532729011340,
+        "lastModified": 1364532732125480,
+        "description": "jQuery Geo - A spatial mapping plugin for jQuery",
+        "uri": "http://jquerygeo.com/"
+    },
+    {
+        "title": "Mobi Pick - An Android-style datepicker widget for jQuery Mobile",
+        "dateAdded": 1364532708621113,
+        "lastModified": 1364532732110063,
+        "description": "Mobi Pick - An Android-style datepicker widget for jQuery Mobile",
+        "uri": "http://mobipick.sustainablepace.net/"
+    },
+    {
+        "title": "Get down! How to keep footers at the bottom of the page",
+        "dateAdded": 1364532731404540,
+        "lastModified": 1364532732126024,
+        "description": "A simple method using valid CSS to keep your footer at the bottom of the screen on pages with little content.",
+        "uri": "http://matthewjamestaylor.com/blog/keeping-footers-at-the-bottom-of-the-page"
+    },
+    {
+        "title": "\"Checkbox Hack\" | Toggle a non-label with a checkbox",
+        "dateAdded": 1364532732259089,
+        "lastModified": 1364532732259884,
+        "description": "Using a hidden checkbox, you can re-create a lot of functionality on website that rely on clicks and toggled states. Fair warning, it's not always super semantic or a good idea, but it's awful fun to play with.",
+        "uri": "http://css-tricks.com/the-checkbox-hack/"
+    },
+    {
+        "title": "Animated Text and Icon Menu with jQuery",
+        "dateAdded": 1364532734689686,
+        "lastModified": 1364532734692984,
+        "description": "Animated Text and Icon Menu with jQuery",
+        "uri": "http://tympanus.net/Tutorials/AnimatedTextIconMenu/example1.html"
+    },
+    {
+        "title": "Flow Slider - Home - Flow Slider - jQuery plugin",
+        "dateAdded": 1364532723301940,
+        "lastModified": 1364532732121686,
+        "description": "Flow Slider",
+        "uri": "http://www.flowslider.com/"
+    },
+    {
+        "title": "Deck JS » Modern HTML Presentations",
+        "dateAdded": 1364532743270249,
+        "lastModified": 1364532743272039,
+        "description": "A jQuery library for modern HTML presentations",
+        "uri": "http://imakewebthings.github.com/deck.js/"
+    },
+    {
+        "title": "Sticky Butterscotch UI | Design Shack",
+        "dateAdded": 1364532742222447,
+        "lastModified": 1364532742224012,
+        "description": "Showcasing Sticky Butterscotch UI, along with hundreds of inspiring web designs.",
+        "uri": "http://designshack.net/design/sticky-butterscotch-ui"
+    },
+    {
+        "title": "voodootikigod/logo.js - Javascript logo",
+        "dateAdded": 1364532737287066,
+        "lastModified": 1364532737290666,
+        "description": "logo.js - A community logo for JS",
+        "uri": "https://github.com/voodootikigod/logo.js"
+    },
+    {
+        "title": "‘Fluro’ Colours",
+        "dateAdded": 1364532745314571,
+        "lastModified": 1364532745314571,
+        "description": "‘Fluro’ Colours",
+        "uri": "http://www.dingoaccess.com/accessibility/fluro-colours-2/"
+    },
+    {
+        "title": "Weekly Freebies: Flourishes and Ornaments | Design Shack",
+        "dateAdded": 1364532718894354,
+        "lastModified": 1364532732243430,
+        "description": "Reading an article entitled Weekly Freebies: Flourishes and Ornaments on Design Shack.",
+        "uri": "http://designshack.net/articles/freebies/weekly-freebies-flourishes-and-ornaments/"
+    },
+    {
+        "title": "CSS3 Patterns Gallery",
+        "dateAdded": 1364532711628442,
+        "lastModified": 1364532732230807,
+        "description": "CSS3 Patterns Gallery",
+        "uri": "http://lea.verou.me/css3patterns/"
+    },
+    {
+        "title": "FF Dax & FF Daxline Fonts | FontList | FontShop",
+        "dateAdded": 1364532714479040,
+        "lastModified": 1364532732235782,
+        "description": "Test, buy, and download FF Dax & FF Daxline fonts from this hand-picked list by the typography experts at FontShop.",
+        "uri": "http://www.fontshop.com/fontlist/super_families/ff_dax/"
+    },
+    {
+        "title": "Interstate® - Desktop font « MyFonts",
+        "dateAdded": 1364532718077706,
+        "lastModified": 1364532732239711,
+        "description": "Familiarity lies at the heart of legibility. Interstate is based on the signage alphabets of the U.S. Federal Highway Administration, letterforms absorbed at a glance everywhere we drive. Interstate provides a real edge in...",
+        "uri": "http://new.myfonts.com/fonts/fontbureau/interstate/alternate_cuts.html"
+    },
+    {
+        "title": "Raphael Icons",
+        "dateAdded": 1364532731226091,
+        "lastModified": 1364532732244144,
+        "description": "Raphael Icons",
+        "uri": "http://raphaeljs.com/icons/"
+    },
+    {
+        "title": "bestiejs/punycode.js - Another minification lib",
+        "dateAdded": 1364532721676874,
+        "lastModified": 1364532733294167,
+        "description": "punycode.js - A robust Punycode converter that fully complies to RFC 3492 and RFC 5891, and works on nearly all JavaScript platforms.",
+        "uri": "https://github.com/bestiejs/punycode.js"
+    },
+    {
+        "title": "Writing Javascript for Size - macwright.org",
+        "dateAdded": 1364532721790065,
+        "lastModified": 1364532733297825,
+        "description": "Tom MacWright",
+        "uri": "http://macwright.org/2011/11/06/javascript.html"
+    },
+    {
+        "title": "Indeterminate Checkboxes | CSS-Tricks",
+        "dateAdded": 1364532738460392,
+        "lastModified": 1364532738461110,
+        "description": "While checkboxes can only have checked or unchecked as values, they have a third visual state: indeterminate. This is only settable via JavaScript and does not affect the value, only the appearance. We'll cover how it works and a simple use case.",
+        "uri": "http://css-tricks.com/13467-indeterminate-checkboxes/"
+    },
+    {
+        "title": "Input with button on top (or is it)?",
+        "dateAdded": 1364532738697681,
+        "lastModified": 1364532738697681,
+        "description": "Input with button on top (or is it)?",
+        "uri": "http://csswizardry.com/2011/08/good-developers-are-illusionists/"
+    },
+    {
+        "title": "Radio Buttons with 2-Way Exclusivity | CSS-Tricks",
+        "dateAdded": 1364532744258239,
+        "lastModified": 1364532744261838,
+        "description": "Let's say you were tasked with creating a UI in which users can rate three candy bars from their most to least favorite. A grid of radio buttons isn't a te",
+        "uri": "http://css-tricks.com/14402-radio-buttons-with-2-way-exclusivity/"
+    },
+    {
+        "title": "Position Text Labels on Forms Using CSS » User Experience » Design Festival",
+        "dateAdded": 1364532740243735,
+        "lastModified": 1364532740245232,
+        "description": "In this post, I’ll explain three common approaches to positioning text labels on web forms using CSS: top-​​​​positioned text labels left-​​​​aligned",
+        "uri": "http://designfestival.com/position-text-labels-on-forms-using%C2%A0css/"
+    },
+    {
+        "title": "Chosen - Make select boxes better",
+        "dateAdded": 1364532740976206,
+        "lastModified": 1364532740976206,
+        "description": "Chosen - Make select boxes better",
+        "uri": "http://harvesthq.github.com/chosen/"
+    },
+    {
+        "title": "Styling Checkboxes and Radio Buttons With CSS and JavaScript",
+        "dateAdded": 1364532718966941,
+        "lastModified": 1364532736158997,
+        "description": "Use your own images to style checkboxes and radio buttons, and make custom select lists with CSS and JavaScript.",
+        "uri": "http://ryanfait.com/resources/custom-checkboxes-and-radio-buttons/"
+    },
+    {
+        "title": "DropKick - jQuery dropdowns",
+        "dateAdded": 1364532733656138,
+        "lastModified": 1364532736166805,
+        "description": "DropKick - jQuery dropdowns",
+        "uri": "http://jamielottering.github.com/DropKick/"
+    },
+    {
+        "title": "Redesigning The Country Selector - Smashing UX Design",
+        "dateAdded": 1364532741365524,
+        "lastModified": 1364532741367118,
+        "description": "The country selector. It’s there when you create an account for a new Web service, check out of an e-commerce store or sign up for a conference. The normal design? A drop-down list with all of the available countries.",
+        "uri": "http://uxdesign.smashingmagazine.com/2011/11/10/redesigning-the-country-selector/"
+    },
+    {
+        "title": "Recurly.js - JS transaction forms",
+        "dateAdded": 1364532738974142,
+        "lastModified": 1364532738975764,
+        "description": "A styleable, highly configurable, browser-based Javascript library for subscription billing with Recurly.",
+        "uri": "http://js.recurly.com/"
+    },
+    {
+        "title": "sisyphus.js - Auto-saving forms",
+        "dateAdded": 1364532740596891,
+        "lastModified": 1364532740596891,
+        "description": "sisyphus.js - Auto-saving forms",
+        "uri": "http://simsalabim.github.com/sisyphus/"
+    },
+    {
+        "title": "Expanding Text Areas Made Elegant",
+        "dateAdded": 1364532741505868,
+        "lastModified": 1364532741505868,
+        "description": "Expanding Text Areas Made Elegant",
+        "uri": "http://www.alistapart.com/articles/expanding-text-areas-made-elegant/"
+    },
+    {
+        "title": "Progress Bar with CSS3 | Splashnology",
+        "dateAdded": 1364532715445312,
+        "lastModified": 1364532736142434,
+        "description": "Today we will recreate a progress-bar from the Adobe® Flash® Player settings program with the help of CSS3, using gradients and shadows.",
+        "uri": "http://www.splashnology.com/article/how-to-create-progress-bar-with-css3/3370/"
+    },
+    {
+        "title": "List.js - Add search, sort and flexibility to plain HTML lists with cross-browser native JavaScript by @javve",
+        "dateAdded": 1364532716011032,
+        "lastModified": 1364532736146743,
+        "description": "You do want a 7 KB native JavaScript that makes your plain HTML lists super flexible, searchable, sortable and filterable? Yes?",
+        "uri": "http://listjs.com/"
+    },
+    {
+        "title": "Relevant Dropdowns: Polyfill for Datalist | CSS-Tricks",
+        "dateAdded": 1364532707759909,
+        "lastModified": 1364532736132708,
+        "description": "The list attribute / datalist element of HTML5 forms is pretty cool. As you type in a text input, it shows you a dropdown menu of choices you can pick from",
+        "uri": "http://css-tricks.com/15346-relevant-dropdowns-polyfill-for-datalist/"
+    },
+    {
+        "title": "Taming Lists",
+        "dateAdded": 1364532725195439,
+        "lastModified": 1364532736164111,
+        "description": "Taming Lists",
+        "uri": "http://www.alistapart.com/articles/taminglists/"
+    },
+    {
+        "title": "Select multiple form fields - finding a better solution for multiple selection",
+        "dateAdded": 1364532725025256,
+        "lastModified": 1364532736161570,
+        "description": "Despite their important function, select multiple form fields are problematic. This article looks at the inherent problems with select multiple form fields, and talks about ways to improve upon them.",
+        "uri": "http://www.ryancramer.com/journal/entries/select_multiple/"
+    },
+    {
+        "title": "Selectbox / Select Box Functions For Manipulating Options, Etc",
+        "dateAdded": 1364532729004851,
+        "lastModified": 1364532736165889,
+        "description": "Selectbox / Select Box Functions For Manipulating Options, Etc",
+        "uri": "http://www.mattkruse.com/javascript/selectbox/index.html"
+    },
+    {
+        "title": "scaffoldit - Form scaffolding",
+        "dateAdded": 1364532716198038,
+        "lastModified": 1364532736151287,
+        "description": "scaffoldit - scaffolding library",
+        "uri": "https://github.com/spiceapps/scaffoldit"
+    },
+    {
+        "title": "YouTube Popup Buttons | CSS-Tricks",
+        "dateAdded": 1364532712430909,
+        "lastModified": 1364532736137918,
+        "description": "There is a certain style of button on the latest YouTube design (most easily found in the footer) where the default state of the button has a very subtle b",
+        "uri": "http://css-tricks.com/youtube-popup-buttons/"
+    },
+    {
+        "title": "Rickshaw - Graph lib",
+        "dateAdded": 1364532744863666,
+        "lastModified": 1364532744863666,
+        "description": "Rickshaw - Graph lib",
+        "uri": "http://shutterstock.github.com/rickshaw/"
+    },
+    {
+        "title": "Real-time graphs",
+        "dateAdded": 1364532744925914,
+        "lastModified": 1364532744925914,
+        "description": "Real-time graphs",
+        "uri": "http://shutterstock.github.com/rickshaw/examples/"
+    },
+    {
+        "title": "Leaflet - interactive maps by CloudMade",
+        "dateAdded": 1364532711898313,
+        "lastModified": 1364532737123402,
+        "description": "Leaflet - interactive maps by CloudMade",
+        "uri": "http://leaflet.cloudmade.com/"
+    },
+    {
+        "title": "The ‘island’ object — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "dateAdded": 1364532725297750,
+        "lastModified": 1364532738682821,
+        "description": "The ‘island’ object — CSS Wizardry—CSS, Web Standards, Typography, and Grids by Harry Roberts",
+        "uri": "http://csswizardry.com/2011/10/the-island-object/"
+    },
+    {
+        "title": "A* pathfinding algorithm in JavaScript",
+        "dateAdded": 1364532724995413,
+        "lastModified": 1364532739782705,
+        "description": "A JavaScript implementation of the A* algorithm, used for pathfinding and graph traversal.",
+        "uri": "http://www.matthewtrost.org/projects/astar/#"
+    },
+    {
+        "title": "jtobey/javascript-bignum - GitHub",
+        "dateAdded": 1364532725119211,
+        "lastModified": 1364532739785963,
+        "description": "javascript-bignum - Scheme arithmetic library for JavaScript",
+        "uri": "https://github.com/jtobey/javascript-bignum"
+    },
+    {
+        "title": "txt2re: headache relief for programmers :: regular expression generator",
+        "dateAdded": 1364532734988693,
+        "lastModified": 1364532739789286,
+        "description": "Regular Expression Generator for languages Perl PHP Python Java Javascript ColdFusion C C++ Ruby VB VBScript JSharp CSharp C++.dotnet VB.dotnet",
+        "uri": "http://txt2re.com/"
+    },
+    {
+        "title": "daoudclarke/wartonlegacy - Factorization algorithms",
+        "dateAdded": 1364532730456527,
+        "lastModified": 1364532739788183,
+        "description": "wartonlegacy - Algorithms for factorisation of large numbers in Fortran and UBASIC",
+        "uri": "https://github.com/daoudclarke/wartonlegacy"
+    },
+    {
+        "title": "Node.js Debugger | TechnoSophos",
+        "dateAdded": 1364532730889126,
+        "lastModified": 1364532742541646,
+        "description": "Node.js Debugger | TechnoSophos",
+        "uri": "http://technosophos.com/content/nodejs-debugging-built-debugger"
+    },
+    {
+        "title": "visionmedia/debug - Tiny debug util",
+        "dateAdded": 1364532728607798,
+        "lastModified": 1364532742539223,
+        "description": "tiny node.js debugging utility for your libraries and applications",
+        "uri": "https://github.com/visionmedia/debug"
+    },
+    {
+        "title": "validate email",
+        "dateAdded": 1364532740616719,
+        "lastModified": 1364532743176951,
+        "description": "validate email",
+        "uri": "http://www.linuxjournal.com/article/9585?page=0,3"
+    },
+    {
+        "title": "Vivek's blog - Validators.js - javascript based form validation using jQuery",
+        "dateAdded": 1364532709333389,
+        "lastModified": 1364532743176042,
+        "description": "Validators.js - javascript based form validation using jQuery Validators.js is a javascript library for form validation that I wrote for my projects. It provides a simple and elegant interface for...",
+        "uri": "http://v1v3kn.tumblr.com/post/8989495534/validators-js-javascript-based-form-validation-using"
+    },
+    {
+        "title": "validate.js",
+        "dateAdded": 1364532745761849,
+        "lastModified": 1364532745762412,
+        "description": "Lightweight form validation library in JavaScript ready to include in any web application.",
+        "uri": "http://rickharrison.github.com/validate.js/"
+    },
+    {
+        "title": "cssdoc",
+        "dateAdded": 1364532734570677,
+        "lastModified": 1364532744098228,
+        "description": "cssdoc",
+        "uri": "http://cssdoc.net/"
+    },
+    {
+        "title": "jsduck - Duckumentation generator",
+        "dateAdded": 1364532721164325,
+        "lastModified": 1364532744096211,
+        "description": "jsduck - Simple JavaScript Duckumentation generator.",
+        "uri": "https://github.com/senchalabs/jsduck"
+    },
+    {
+        "title": "vesln/logme - node logger",
+        "dateAdded": 1364532740688084,
+        "lastModified": 1364532744100755,
+        "description": "logme - Minimalistic logger for Node.js.",
+        "uri": "https://github.com/vesln/logme?utm_source=javascriptweekly&utm_medium=email"
+    },
+    {
+        "title": "mschwartz/SilkJS - node clone",
+        "dateAdded": 1364532712942814,
+        "lastModified": 1364532744086449,
+        "description": "SilkJS - V8 Based JavaScript Swiss Army Knife (and HTTP Server!)",
+        "uri": "https://github.com/mschwartz/SilkJS"
+    },
+    {
+        "title": "Documentation Tools",
+        "dateAdded": 1364532718511662,
+        "lastModified": 1364532744091468,
+        "description": "Documentation Tools",
+        "uri": "http://dailyjs.com/2011/01/13/framework-part-46/"
+    },
+    {
+        "title": "DocumentJS",
+        "dateAdded": 1364532737928645,
+        "lastModified": 1364532744099708,
+        "description": "DocumentJS",
+        "uri": "http://javascriptmvc.com/docs.html#!DocumentJS"
+    },
+    {
         "title": "Unwritten Laws of Engineering: Revised and Updated Edition: W. J. King,James G. Skakoon: 9780791801628: Amazon.com: Books",
         "dateAdded": 1364532709440817,
         "lastModified": 1364532737561774,
         "description": "Unwritten Laws of Engineering: Revised and Updated Edition [W. J. King,James G. Skakoon] on Amazon.com. *FREE* super saver shipping on qualifying offers. This fully revised and updated edition of the 1944 classic serves as a crucial compilation of 'house rules' or a professional code. This new edition keeps the style of the original and much of its content. Changes reflect shifted societal values",
         "uri": "http://www.amazon.com/Unwritten-Laws-Engineering-Revised-Updated/dp/0791801624"
-    },
-    {
-        "title": "Brian Eno 1971-1977: The Man Who Fell To Earth (2011) - YouTube",
-        "dateAdded": 1364532724772201,
-        "lastModified": 1364532737564785,
-        "description": "Brian Eno is best known for his early involvement with the iconic art rock band Roxy Music, he has done collaborative work with Jon Hassell, Robert Fripp, Da...",
-        "uri": "http://www.youtube.com/watch?v=c479WMnDmBQ&feature=youtu.be"
     },
     {
         "title": "Amazon.com: Secrets of the JavaScript Ninja (9781933988696): John Resig, Bear Bibeault: Books",
