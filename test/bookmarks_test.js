@@ -27,7 +27,17 @@ describe('bookmarks', function () {
       // Prepare globals for bookmarks
       var bookmarks = require('../bookmarks.orig.json');
       console.log(JSON.stringify(bookmarks, function (key, val) {
-        console.log(arguments);
+        // If the key is root or children, return it
+        if (key === '' || key === 'children') {
+          return val;
+        }
+
+        // If this is an array, slice it down
+        if (Array.isArray(val)) {
+          console.log(key, val.slice(0, 10));
+        }
+
+        // Otherwise, return undefined
         return undefined;
       }, 4));
       // global.config = require('./test_files/simple.config.json');
