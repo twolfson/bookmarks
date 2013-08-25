@@ -2,6 +2,7 @@
 
 // TODO: Remove this hardcoded junk -- use commander or optimist to parse options
 // Load in bookmarks and options
+console.log('Loading content...');
 var cwd = process.cwd(),
     bookmarks = require(cwd + '/bookmarks.orig.json'),
     options = require(cwd + '/config');
