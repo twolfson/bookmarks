@@ -25,6 +25,7 @@
     "node": ">= 0.8.0"
   },
   "scripts": {
+    "copy-firefox-bookmarks": "cp  ~/.mozilla/firefox/*.default/bookmarkbackups/bookmarks-$(date +%Y-%m-%d)_*.json bookmarks.orig.json",
     "parse-bookmarks": "firefox-bookmarks flatten bookmarks.orig.json --folders \"web dev code,web dev refs,web dev tips,web dev tools\"",
     "test": "echo 'No tests =(' 2>&1 && exit 1"
   },
