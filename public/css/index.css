@@ -7,8 +7,15 @@ th > a {
 }
 
 .github-ribbon {
+  display: none;
   position: absolute;
   top: 0;
   right: 0;
   border: 0;
+}
+
+@media (min-width: 900px) {
+  .github-ribbon {
+    display: block;
+  }
 }
