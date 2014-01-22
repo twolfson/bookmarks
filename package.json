@@ -21,27 +21,23 @@
       "url": "https://github.com/twolfson/bookmarks/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "lib/bookmarks",
   "engines": {
     "node": ">= 0.8.0"
   },
-  "bin": {
-    "firefox-bookmarks": "bin/bookmarks"
-  },
   "scripts": {
-    "test": "mocha"
+    "parse-bookmarks": "firefox-bookmarks flatten bookmarks.orig.json --folders \"web dev code,web dev refs,web dev tips,web dev tools\"",
+    "test": "echo 'No tests =(' 2>&1 && exit 1"
   },
-  "dependencies": {
-    "mkdirp": "~0.3.5",
-    "underscore": "~1.5.1"
-  },
+  "dependencies": {},
   "devDependencies": {
     "mocha": "~1.11.0",
     "grunt-contrib-jshint": "~0.6.0",
-    "grunt-contrib-watch": "~0.4.0"
+    "grunt-contrib-watch": "~0.4.0",
+    "firefox-bookmarks": "~0.5.0"
   },
   "keywords": [
-    "firefox",
-    "bookmarks"
+    "bookmarks",
+    "browsable",
+    "webpage"
   ]
 }
