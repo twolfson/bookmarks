@@ -26,7 +26,7 @@
               </button>
               <ul class="dropdown-menu">
                 <li><a data-text="Search" data-search="*" href="#">Search everything</a></li>
-                <li><a data-text="Search description" data-search="description" href="#">Search by description</a></li>
+                <li><a data-text="Search title" data-search="title" href="#">Search by title</a></li>
                 <li><a data-text="Search URI" data-search="uri" href="#">Search by URI</a></li>
               </ul>
             </div>
@@ -37,9 +37,9 @@
         <thead>
           <tr>
             <th>
-              <span>Description</span>
+              <span>Title</span>
               <span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
-              <a href="#" class="sort" data-sort="description">Sort by description</a>
+              <a href="#" class="sort" data-sort="title">Sort by title</a>
             </th>
             <th>
               <span>URI</span>
@@ -63,7 +63,7 @@
     <!-- Templating for list -->
     <script type="text/micro" id="bookmark-template">
       <tr>
-        <td><span class="description">{{description}}</span></td>
+        <td><span class="title">{{title}}</span></td>
         <td><a href="{{uri}}" class="uri">{{uri}}</a></td>
       </tr>
     </script>

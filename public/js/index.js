@@ -21,7 +21,7 @@ $(function () {
 
     // Performify the list
     var options = {
-          valueNames: ['description', 'uri'],
+          valueNames: ['title', 'uri'],
           plugins: [
             ['matchSearch']
           ]
@@ -30,7 +30,7 @@ $(function () {
 
     // Set up search function
     var $search = $('#search'),
-        defaultColumns = {description:1,uri:1},
+        defaultColumns = {title:1,uri:1},
         columns = defaultColumns;
     function searchList() {
       var val = $search.val();
