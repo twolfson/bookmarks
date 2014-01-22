@@ -39,6 +39,15 @@ Open http://localhost:3000/ in your browser and you should be presented with the
         - lastModified Number - Microseconds since Linux epoch that bookmark was last updated
 
 ### Firefox
+We provide utility functions to load your [Firefox][] bookmarks.
+
+```bash
+# Copy latest bookmark backup to `bookmarks.orig.json`
+npm run copy-firefox-bookmarks
+
+# Flatten and beautify `bookmarks.orig.json` into `bookmarks.json` and `bookmarks.min.json`
+npm run parse-bookmarks
+```
 
 ## Donating
 Support this project and [others by twolfson][gittip] via [gittip][].
