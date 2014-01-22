@@ -26,6 +26,12 @@ module.exports = function(grunt) {
         }
       }
     },
+
+    curl: {
+      // https://github.com/blog/273-github-ribbons
+      'public/img/github-ribbon.png': 'https://s3.amazonaws.com/github/ribbons/forkme_right_orange_ff7600.png'
+    },
+
     watch: {
       'default': {
         files: '<%= jshint.files %>',
@@ -37,8 +43,10 @@ module.exports = function(grunt) {
   // Load in grunt tasks
   grunt.loadNpmTasks('grunt-contrib-jshint');
   grunt.loadNpmTasks('grunt-contrib-watch');
+  grunt.loadNpmTasks('grunt-curl');
 
-  // Default task.
+  // Set up grunt commands
+  grunt.registerTask('install', ['curl']);
   grunt.registerTask('default', ['jshint']);
 
 };
