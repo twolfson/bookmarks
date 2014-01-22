@@ -45,7 +45,7 @@ We provide utility functions to load your [Firefox][] bookmarks.
 # Copy latest bookmark backup to `bookmarks.orig.json`
 npm run copy-firefox-bookmarks
 
-# Flatten and beautify `bookmarks.orig.json` into `bookmarks.json` and `bookmarks.min.json`
+# Flatten and beautify `bookmarks.orig.json` into `bookmarks.min.json` and `bookmarks.json`
 npm run parse-bookmarks
 ```
 
