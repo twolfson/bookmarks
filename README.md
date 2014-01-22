@@ -14,4 +14,5 @@ Support this project and [others by twolfson][gittip] via [gittip][].
 
 ## License
 Copyright (c) 2013 Todd Wolfson
+
 Licensed under the MIT license.
