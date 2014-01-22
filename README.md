@@ -7,7 +7,7 @@ The collection presented at http://twolfson.github.io/bookmarks/ is my personal 
 ## Running locally
 `bookmarks` is hosted via GitHub pages meaning it is a set of static files. You can run a local server via a utility like [serve][].
 
-```js
+```bash
 # Install server if you haven't yet
 npm install -g serve
 # npm http GET https://registry.npmjs.org/serve
