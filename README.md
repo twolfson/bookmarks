@@ -32,11 +32,11 @@ Open http://localhost:3000/ in your browser and you should be presented with the
 
 - bookmarks `Object[]` - Array of bookmarks
     - Each bookmark should be of the format:
-        - title String - Name of the folder
-        - uri String - URL that was saved for the bookmark
-        - description String - Description for the link
-        - dateAdded Number - Microseconds (milliseconds/1000) since Linux epoch that bookmark was added
-        - lastModified Number - Microseconds since Linux epoch that bookmark was last updated
+        - title `String` - Name of the folder
+        - uri `String` - URL that was saved for the bookmark
+        - description `String` - Description for the link
+        - dateAdded `Number` - Microseconds (milliseconds/1000) since Linux epoch that `bookmark` was added
+        - lastModified `Number` - Microseconds since Linux epoch that `bookmark` was last updated
 
 ### Firefox
 We provide utility functions to load your [Firefox][] bookmarks.
