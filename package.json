@@ -26,7 +26,9 @@
   },
   "scripts": {
     "copy-firefox-bookmarks": "cp  ~/.mozilla/firefox/*.default/bookmarkbackups/bookmarks-$(date +%Y-%m-%d)_*.json bookmarks.orig.json",
-    "parse-bookmarks": "firefox-bookmarks flatten bookmarks.orig.json --folders \"web dev code,web dev refs,web dev tips,web dev tools\"",
+    "parse-bookmarks": "npm run flatten-bookmarks && npm run minify-parsed-bookmarks",
+    "flatten-bookmarks": "firefox-bookmarks flatten bookmarks.orig.json --folders \"web dev code,web dev refs,web dev tips,web dev tools\" > bookmarks.min.json",
+    "minify-parsed-bookmarks": "underscore print --in bookmarks.min.json > bookmarks.json",
     "test": "echo 'No tests =(' 2>&1 && exit 1"
   },
   "dependencies": {},
